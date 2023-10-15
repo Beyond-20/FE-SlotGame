@@ -1,0 +1,31 @@
+{"frames": {
+
+"horse_00000":
+{
+	"frame": {"x":3,"y":3,"w":190,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":0,"w":190,"h":283},
+	"sourceSize": {"w":333,"h":283}
+},
+"horse_00001":
+{
+	"frame": {"x":197,"y":3,"w":144,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":17,"w":144,"h":246},
+	"sourceSize": {"w":333,"h":283}
+}},
+"animations": {
+	"horse": ["horse_00000","horse_00001"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbolAnimation_H4.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.85",
+	"smartupdate": "$TexturePacker:SmartUpdate:ab797080e9ee6c5ec0b1daea38987a5c:7a37f03c6d7dc571666b1ea9feae329f:727365ff51d8735716cedd414394afca$"
+}
+}

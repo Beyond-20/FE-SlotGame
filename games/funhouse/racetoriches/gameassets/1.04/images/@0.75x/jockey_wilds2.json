@@ -1,0 +1,45 @@
+{"frames": {
+
+"Jockey_Wilds_00008":
+{
+	"frame": {"x":3,"y":569,"w":1129,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":215,"w":1129,"h":427},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Jockey_Wilds_00011":
+{
+	"frame": {"x":2292,"y":3,"w":1157,"h":530},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":112,"w":1157,"h":530},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Jockey_Wilds_00012":
+{
+	"frame": {"x":1154,"y":3,"w":1134,"h":547},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":95,"w":1134,"h":547},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Jockey_Wilds_00013":
+{
+	"frame": {"x":3,"y":3,"w":1147,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":80,"w":1147,"h":562},
+	"sourceSize": {"w":1440,"h":810}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "jockey_wilds2.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":1024},
+	"scale": "0.75",
+	"related_multi_packs": [ "jockey_wilds0.json", "jockey_wilds1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:481eca5dd79ecd34084c230e14a65ad6:2cb68992beec66793de5e2cd9e65a3f8:7f7f46a5e29c49ecd8caace5fe433989$"
+}
+}

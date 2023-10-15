@@ -1,0 +1,52 @@
+{"frames": {
+
+"gameOkBtn_down":
+{
+	"frame": {"x":3,"y":885,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"gameOkBtn_over":
+{
+	"frame": {"x":93,"y":885,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"gameOkBtn_up":
+{
+	"frame": {"x":183,"y":885,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"popupbg":
+{
+	"frame": {"x":3,"y":533,"w":670,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":670,"h":348},
+	"sourceSize": {"w":670,"h":348}
+},
+"reelFrame":
+{
+	"frame": {"x":3,"y":3,"w":997,"h":526},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":997,"h":526},
+	"sourceSize": {"w":997,"h":526}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameElements.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:21c1211cbcd9cc2d064b6483a05c3d90:08ba57882f21ae9e7db00f528ad83d5b:d4c9f6938a9e79974262d6740d5ac280$"
+}
+}

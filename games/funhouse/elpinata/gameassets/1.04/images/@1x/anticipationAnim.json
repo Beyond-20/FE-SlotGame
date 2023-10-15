@@ -1,0 +1,95 @@
+{"frames": {
+
+"Antic_00":
+{
+	"frame": {"x":3,"y":3,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_01":
+{
+	"frame": {"x":511,"y":3,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_02":
+{
+	"frame": {"x":1019,"y":3,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_03":
+{
+	"frame": {"x":1527,"y":3,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_04":
+{
+	"frame": {"x":3,"y":931,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_05":
+{
+	"frame": {"x":511,"y":931,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_06":
+{
+	"frame": {"x":1019,"y":931,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_07":
+{
+	"frame": {"x":1527,"y":931,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_08":
+{
+	"frame": {"x":3,"y":1859,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Antic_09":
+{
+	"frame": {"x":3,"y":2787,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+}},
+"animations": {
+	"Antic": ["Antic_00","Antic_01","Antic_02","Antic_03","Antic_04","Antic_05","Antic_06","Antic_07","Antic_08","Antic_09"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "anticipationAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.84",
+	"smartupdate": "$TexturePacker:SmartUpdate:d4a3af1556e5f0c9e547d8683876b928:07b9e7461cd503b7f8dbf87d47754201:b45c5e87f25f26a80b0f2b6959570082$"
+}
+}

@@ -1,0 +1,101 @@
+{"frames": {
+
+"frame_40":
+{
+	"frame": {"x":3,"y":3,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_41":
+{
+	"frame": {"x":393,"y":3,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_42":
+{
+	"frame": {"x":783,"y":3,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_43":
+{
+	"frame": {"x":1173,"y":3,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_44":
+{
+	"frame": {"x":1563,"y":3,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_45":
+{
+	"frame": {"x":3,"y":993,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_46":
+{
+	"frame": {"x":3,"y":1983,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_47":
+{
+	"frame": {"x":3,"y":2973,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_48":
+{
+	"frame": {"x":393,"y":993,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_49":
+{
+	"frame": {"x":783,"y":993,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+},
+"frame_50":
+{
+	"frame": {"x":1173,"y":993,"w":386,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":986},
+	"sourceSize": {"w":386,"h":986}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "anticipationAnim1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.84",
+	"related_multi_packs": [ "anticipationAnim0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ee4a2c5ffcf8d132bcf276c1600f8916:14e7736a6495372cbc2abf9f6a825945:f3e81b61e60ab3591491ba31fe7ce1bc$"
+}
+}

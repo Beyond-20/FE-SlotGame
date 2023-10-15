@@ -1,0 +1,118 @@
+
+Gigantic_Win.png
+size: 1508,1201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin_10_Gigantic_Win
+  rotate: true
+  xy: 1234, 21
+  size: 112, 68
+  orig: 114, 70
+  offset: 1, 1
+  index: -1
+Coin_11_Gigantic_Win
+  rotate: false
+  xy: 1273, 335
+  size: 56, 50
+  orig: 58, 52
+  offset: 1, 1
+  index: -1
+Coin_12_Gigantic_Win
+  rotate: false
+  xy: 1324, 163
+  size: 85, 65
+  orig: 87, 67
+  offset: 1, 1
+  index: -1
+Coin_1_Gigantic_Win
+  rotate: false
+  xy: 1304, 94
+  size: 66, 67
+  orig: 68, 69
+  offset: 1, 1
+  index: -1
+Coin_2_Gigantic_Win
+  rotate: true
+  xy: 1273, 169
+  size: 72, 49
+  orig: 74, 51
+  offset: 1, 1
+  index: -1
+Coin_3_Gigantic_Win
+  rotate: false
+  xy: 1304, 26
+  size: 64, 66
+  orig: 66, 68
+  offset: 1, 1
+  index: -1
+Coin_4_Gigantic_Win
+  rotate: true
+  xy: 1372, 53
+  size: 42, 54
+  orig: 44, 56
+  offset: 1, 1
+  index: -1
+Coin_5_Gigantic_Win
+  rotate: true
+  xy: 1411, 159
+  size: 69, 76
+  orig: 71, 78
+  offset: 1, 1
+  index: -1
+Coin_6_Gigantic_Win
+  rotate: true
+  xy: 1370, 9
+  size: 42, 47
+  orig: 44, 49
+  offset: 1, 1
+  index: -1
+Coin_7_Gigantic_Win
+  rotate: true
+  xy: 1441, 89
+  size: 68, 57
+  orig: 70, 59
+  offset: 1, 1
+  index: -1
+Coin_8_Gigantic_Win
+  rotate: false
+  xy: 1273, 243
+  size: 47, 90
+  orig: 49, 92
+  offset: 1, 1
+  index: -1
+Coin_9_Gigantic_Win
+  rotate: true
+  xy: 1372, 97
+  size: 60, 67
+  orig: 62, 69
+  offset: 1, 1
+  index: -1
+Gigantic_Win
+  rotate: true
+  xy: 1331, 230
+  size: 969, 175
+  orig: 972, 177
+  offset: 1, 1
+  index: -1
+Glow_Gigantic_Win
+  rotate: false
+  xy: 2, 387
+  size: 1327, 812
+  orig: 1329, 842
+  offset: 1, 28
+  index: -1
+Ice_Gigantic_Win
+  rotate: false
+  xy: 2, 2
+  size: 1230, 383
+  orig: 1232, 385
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: true
+  xy: 1234, 135
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1

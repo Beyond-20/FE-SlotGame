@@ -1,0 +1,62 @@
+
+Walrus.png
+size: 514,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Warlus_2
+  rotate: false
+  xy: 322, 27
+  size: 186, 226
+  orig: 186, 226
+  offset: 0, 0
+  index: -1
+Brov_1_Warlus_2
+  rotate: false
+  xy: 284, 62
+  size: 18, 10
+  orig: 20, 12
+  offset: 1, 1
+  index: -1
+Brov_2_Warlus_2
+  rotate: true
+  xy: 284, 78
+  size: 10, 23
+  orig: 12, 25
+  offset: 1, 1
+  index: -1
+Hand_1_Warlus_2
+  rotate: false
+  xy: 185, 44
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Hand_2_Warlus_2
+  rotate: true
+  xy: 103, 28
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+Pupil_Warlus_2
+  rotate: false
+  xy: 237, 59
+  size: 41, 29
+  orig: 43, 31
+  offset: 1, 1
+  index: -1
+Tail_Warlus_2
+  rotate: false
+  xy: 6, 94
+  size: 310, 159
+  orig: 310, 159
+  offset: 0, 0
+  index: -1
+Tusks_Warlus_2
+  rotate: true
+  xy: 6, 6
+  size: 82, 91
+  orig: 84, 94
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,53 @@
+{"frames": {
+
+"frame1x3_00024":
+{
+	"frame": {"x":3,"y":3,"w":675,"h":1725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":1725},
+	"sourceSize": {"w":675,"h":1725}
+},
+"frame1x3_00025":
+{
+	"frame": {"x":3,"y":1732,"w":675,"h":1725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":1725},
+	"sourceSize": {"w":675,"h":1725}
+},
+"frame1x3_00026":
+{
+	"frame": {"x":682,"y":3,"w":675,"h":1725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":1725},
+	"sourceSize": {"w":675,"h":1725}
+},
+"frame1x3_00027":
+{
+	"frame": {"x":1361,"y":3,"w":675,"h":1725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":1725},
+	"sourceSize": {"w":675,"h":1725}
+},
+"frame1x3_00028":
+{
+	"frame": {"x":682,"y":1732,"w":675,"h":1725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":1725},
+	"sourceSize": {"w":675,"h":1725}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "anticipationAnim2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.75",
+	"related_multi_packs": [ "anticipationAnim0.json", "anticipationAnim1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2460780c30b2d940709720a556a72708:3a343747d9ede937ee3dfc07ae91fa42:be92d7f1c8cc00662200585441457a23$"
+}
+}

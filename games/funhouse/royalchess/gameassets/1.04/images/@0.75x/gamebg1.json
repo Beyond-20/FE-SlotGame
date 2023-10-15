@@ -1,0 +1,21 @@
+{"frames": {
+
+"mainbg_P":
+{
+	"frame": {"x":3,"y":3,"w":1080,"h":2625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":2625},
+	"sourceSize": {"w":1080,"h":2625}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gamebg1.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.75",
+	"related_multi_packs": [ "gamebg0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8a32bc5e50736be7f8c3d80e392c1ea9:eee4ab98cb408d840052a2a44e18f59a:df41f2dda60b9f0aa72c9dbe4768dce7$"
+}
+}

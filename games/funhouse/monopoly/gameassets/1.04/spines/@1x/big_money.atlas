@@ -1,0 +1,160 @@
+
+big_money.png
+size: 1828,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bm_BIG MONEY
+  rotate: false
+  xy: 735, 415
+  size: 1070, 370
+  orig: 1092, 392
+  offset: 10, 11
+  index: -1
+bm_TRIGGERED
+  rotate: true
+  xy: 2, 47
+  size: 738, 267
+  orig: 756, 285
+  offset: 9, 9
+  index: -1
+bm_chest_l
+  rotate: true
+  xy: 271, 145
+  size: 640, 462
+  orig: 683, 481
+  offset: 42, 2
+  index: -1
+bm_chest_r
+  rotate: false
+  xy: 735, 2
+  size: 508, 411
+  orig: 541, 426
+  offset: 1, 1
+  index: -1
+bm_coin_1
+  rotate: true
+  xy: 453, 16
+  size: 54, 51
+  orig: 57, 54
+  offset: 2, 2
+  index: -1
+bm_coin_10
+  rotate: false
+  xy: 231, 8
+  size: 45, 37
+  orig: 48, 39
+  offset: 2, 1
+  index: -1
+bm_coin_11
+  rotate: false
+  xy: 510, 98
+  size: 34, 45
+  orig: 36, 47
+  offset: 1, 1
+  index: -1
+bm_coin_12
+  rotate: true
+  xy: 392, 72
+  size: 71, 66
+  orig: 73, 68
+  offset: 1, 1
+  index: -1
+bm_coin_13
+  rotate: false
+  xy: 506, 41
+  size: 44, 49
+  orig: 47, 51
+  offset: 1, 1
+  index: -1
+bm_coin_14
+  rotate: false
+  xy: 74, 5
+  size: 61, 40
+  orig: 63, 44
+  offset: 1, 2
+  index: -1
+bm_coin_15
+  rotate: false
+  xy: 506, 3
+  size: 45, 36
+  orig: 47, 39
+  offset: 1, 1
+  index: -1
+bm_coin_16
+  rotate: true
+  xy: 2, 2
+  size: 43, 32
+  orig: 46, 35
+  offset: 2, 1
+  index: -1
+bm_coin_17
+  rotate: true
+  xy: 348, 4
+  size: 62, 47
+  orig: 65, 50
+  offset: 2, 2
+  index: -1
+bm_coin_2
+  rotate: true
+  xy: 271, 65
+  size: 78, 54
+  orig: 80, 60
+  offset: 1, 2
+  index: -1
+bm_coin_3
+  rotate: true
+  xy: 327, 68
+  size: 75, 63
+  orig: 77, 66
+  offset: 1, 2
+  index: -1
+bm_coin_4
+  rotate: false
+  xy: 175, 8
+  size: 54, 37
+  orig: 57, 40
+  offset: 1, 1
+  index: -1
+bm_coin_5
+  rotate: true
+  xy: 397, 4
+  size: 66, 54
+  orig: 68, 56
+  offset: 1, 1
+  index: -1
+bm_coin_6
+  rotate: true
+  xy: 460, 92
+  size: 51, 48
+  orig: 55, 51
+  offset: 3, 2
+  index: -1
+bm_coin_7
+  rotate: false
+  xy: 278, 3
+  size: 68, 60
+  orig: 70, 62
+  offset: 1, 1
+  index: -1
+bm_coin_8
+  rotate: true
+  xy: 137, 7
+  size: 38, 36
+  orig: 40, 39
+  offset: 1, 2
+  index: -1
+bm_coin_9
+  rotate: true
+  xy: 36, 3
+  size: 42, 36
+  orig: 44, 39
+  offset: 1, 1
+  index: -1
+bm_glow
+  rotate: false
+  xy: 1245, 106
+  size: 581, 307
+  orig: 603, 340
+  offset: 12, 23
+  index: -1

@@ -1,0 +1,601 @@
+
+Qeen.png
+size: 1555,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Qeen_back hair
+  rotate: false
+  xy: 1147, 281
+  size: 207, 158
+  orig: 207, 158
+  offset: 0, 0
+  index: -1
+Qeen_ball big rod
+  rotate: true
+  xy: 1356, 26
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+Qeen_belt
+  rotate: false
+  xy: 986, 140
+  size: 153, 187
+  orig: 153, 187
+  offset: 0, 0
+  index: -1
+Qeen_bg
+  rotate: true
+  xy: 2, 441
+  size: 334, 1344
+  orig: 334, 1344
+  offset: 0, 0
+  index: -1
+Qeen_blue back
+  rotate: false
+  xy: 1309, 146
+  size: 47, 133
+  orig: 47, 133
+  offset: 0, 0
+  index: -1
+Qeen_blue dec
+  rotate: true
+  xy: 651, 97
+  size: 53, 130
+  orig: 53, 130
+  offset: 0, 0
+  index: -1
+Qeen_bot dress
+  rotate: false
+  xy: 792, 203
+  size: 192, 124
+  orig: 192, 124
+  offset: 0, 0
+  index: -1
+Qeen_bot eyeskin
+  rotate: false
+  xy: 940, 2
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+Qeen_bot eyeskin2
+  rotate: false
+  xy: 237, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Qeen_bot tooth
+  rotate: false
+  xy: 1435, 2
+  size: 53, 24
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+Qeen_brow_l
+  rotate: true
+  xy: 633, 7
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+Qeen_brow_r
+  rotate: true
+  xy: 1443, 140
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+Qeen_colar
+  rotate: true
+  xy: 1257, 71
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+Qeen_colar2
+  rotate: true
+  xy: 723, 5
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Qeen_crown
+  rotate: false
+  xy: 329, 39
+  size: 165, 118
+  orig: 165, 135
+  offset: 0, 0
+  index: -1
+Qeen_crown_sweep_00000
+  rotate: false
+  xy: 162, 2
+  size: 36, 12
+  orig: 130, 113
+  offset: 35, 21
+  index: -1
+Qeen_crown_sweep_00001
+  rotate: false
+  xy: 88, 2
+  size: 46, 18
+  orig: 130, 113
+  offset: 32, 21
+  index: -1
+Qeen_crown_sweep_00002
+  rotate: true
+  xy: 1093, 14
+  size: 53, 37
+  orig: 130, 113
+  offset: 28, 8
+  index: -1
+Qeen_crown_sweep_00003
+  rotate: false
+  xy: 1443, 64
+  size: 71, 58
+  orig: 130, 113
+  offset: 20, 0
+  index: -1
+Qeen_crown_sweep_00004
+  rotate: false
+  xy: 1465, 180
+  size: 78, 64
+  orig: 130, 113
+  offset: 19, 1
+  index: -1
+Qeen_crown_sweep_00005
+  rotate: false
+  xy: 1008, 3
+  size: 83, 66
+  orig: 130, 113
+  offset: 18, 5
+  index: -1
+Qeen_crown_sweep_00006
+  rotate: false
+  xy: 1465, 246
+  size: 87, 68
+  orig: 130, 113
+  offset: 17, 9
+  index: -1
+Qeen_crown_sweep_00007
+  rotate: true
+  xy: 651, 2
+  size: 93, 70
+  orig: 130, 113
+  offset: 15, 13
+  index: -1
+Qeen_crown_sweep_00008
+  rotate: false
+  xy: 1358, 168
+  size: 98, 71
+  orig: 130, 113
+  offset: 13, 18
+  index: -1
+Qeen_crown_sweep_00009
+  rotate: false
+  xy: 1358, 241
+  size: 105, 73
+  orig: 130, 113
+  offset: 11, 22
+  index: -1
+Qeen_crown_sweep_00010
+  rotate: false
+  xy: 679, 152
+  size: 108, 67
+  orig: 130, 113
+  offset: 11, 27
+  index: -1
+Qeen_crown_sweep_00011
+  rotate: true
+  xy: 940, 14
+  size: 94, 66
+  orig: 130, 113
+  offset: 22, 32
+  index: -1
+Qeen_crown_sweep_00012
+  rotate: false
+  xy: 1358, 100
+  size: 83, 66
+  orig: 130, 113
+  offset: 22, 36
+  index: -1
+Qeen_crown_sweep_00013
+  rotate: false
+  xy: 1458, 124
+  size: 77, 54
+  orig: 130, 113
+  offset: 28, 42
+  index: -1
+Qeen_crown_sweep_00014
+  rotate: true
+  xy: 1226, 48
+  size: 57, 24
+  orig: 130, 113
+  offset: 38, 56
+  index: -1
+Qeen_crown_sweep_00015
+  rotate: true
+  xy: 1522, 640
+  size: 50, 19
+  orig: 130, 113
+  offset: 39, 61
+  index: -1
+Qeen_dress
+  rotate: true
+  xy: 2, 221
+  size: 218, 788
+  orig: 218, 788
+  offset: 0, 0
+  index: -1
+Qeen_ear
+  rotate: false
+  xy: 1516, 51
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Qeen_ear back
+  rotate: false
+  xy: 1522, 441
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+Qeen_earring
+  rotate: false
+  xy: 1522, 587
+  size: 15, 51
+  orig: 15, 51
+  offset: 0, 0
+  index: -1
+Qeen_earring back
+  rotate: false
+  xy: 1522, 535
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+Qeen_eye_l_white
+  rotate: false
+  xy: 1516, 97
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Qeen_eye_pupil_l
+  rotate: false
+  xy: 1173, 19
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Qeen_eye_pupil_r
+  rotate: false
+  xy: 1132, 4
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Qeen_eye_r_white
+  rotate: false
+  xy: 985, 118
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Qeen_eye_sh_l
+  rotate: false
+  xy: 2, 2
+  size: 84, 18
+  orig: 84, 18
+  offset: 0, 0
+  index: -1
+Qeen_eye_sh_r
+  rotate: true
+  xy: 200, 2
+  size: 12, 35
+  orig: 14, 39
+  offset: 0, 2
+  index: -1
+Qeen_eye_sh_r_top
+  rotate: true
+  xy: 1522, 692
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+Qeen_eye_spec_l
+  rotate: true
+  xy: 1435, 91
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+Qeen_eye_spec_r
+  rotate: false
+  xy: 651, 152
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Qeen_eyeleash_l
+  rotate: false
+  xy: 1252, 49
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Qeen_eyeleash_r
+  rotate: false
+  xy: 136, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Qeen_face
+  rotate: true
+  xy: 1141, 152
+  size: 127, 166
+  orig: 127, 166
+  offset: 0, 0
+  index: -1
+Qeen_gold center
+  rotate: true
+  xy: 329, 10
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+Qeen_gold neck
+  rotate: false
+  xy: 469, 8
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+Qeen_hair back air
+  rotate: true
+  xy: 180, 16
+  size: 100, 147
+  orig: 100, 147
+  offset: 0, 0
+  index: -1
+Qeen_hair part
+  rotate: true
+  xy: 1490, 2
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Qeen_hair top
+  rotate: false
+  xy: 496, 59
+  size: 153, 98
+  orig: 153, 98
+  offset: 0, 0
+  index: -1
+Qeen_hand part back
+  rotate: false
+  xy: 927, 110
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+Qeen_hand r
+  rotate: true
+  xy: 2, 22
+  size: 94, 176
+  orig: 94, 176
+  offset: 0, 0
+  index: -1
+Qeen_hand_r
+  rotate: true
+  xy: 789, 141
+  size: 60, 136
+  orig: 60, 136
+  offset: 0, 0
+  index: -1
+Qeen_mouth inside
+  rotate: false
+  xy: 1132, 25
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+Qeen_nose
+  rotate: true
+  xy: 1492, 28
+  size: 21, 44
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+Qeen_ring hand
+  rotate: false
+  xy: 1198, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Qeen_ring2
+  rotate: true
+  xy: 1539, 620
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Qeen_ring3
+  rotate: true
+  xy: 1539, 600
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Qeen_rod
+  rotate: true
+  xy: 1356, 316
+  size: 123, 197
+  orig: 123, 197
+  offset: 0, 0
+  index: -1
+Qeen_rod shadow
+  rotate: false
+  xy: 863, 3
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+Qeen_shadow blue
+  rotate: false
+  xy: 1099, 97
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+Qeen_shadow crown
+  rotate: false
+  xy: 1141, 107
+  size: 114, 43
+  orig: 116, 50
+  offset: 2, 7
+  index: -1
+Qeen_shadow girl on frame
+  rotate: false
+  xy: 1537, 136
+  size: 16, 42
+  orig: 19, 48
+  offset: 0, 3
+  index: -1
+Qeen_shadow girl on frame2
+  rotate: true
+  xy: 1492, 51
+  size: 11, 20
+  orig: 12, 22
+  offset: 1, 1
+  index: -1
+Qeen_shadow gold
+  rotate: true
+  xy: 403, 9
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Qeen_shadow head
+  rotate: false
+  xy: 1008, 71
+  size: 89, 67
+  orig: 91, 72
+  offset: 2, 5
+  index: -1
+Qeen_shadow nose
+  rotate: true
+  xy: 1099, 69
+  size: 26, 40
+  orig: 28, 41
+  offset: 2, 0
+  index: -1
+Qeen_shadow rings
+  rotate: false
+  xy: 1198, 20
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Qeen_shadow2
+  rotate: true
+  xy: 1435, 28
+  size: 34, 55
+  orig: 34, 57
+  offset: 0, 1
+  index: -1
+Qeen_shoulder
+  rotate: false
+  xy: 1307, 64
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+Qeen_shoulder white
+  rotate: true
+  xy: 1307, 107
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Qeen_top tooth
+  rotate: true
+  xy: 1522, 487
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+Qeen_white cuff
+  rotate: false
+  xy: 789, 2
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+king_frame_bot
+  rotate: false
+  xy: 792, 329
+  size: 353, 110
+  orig: 353, 349
+  offset: 0, 0
+  index: -1
+king_frame_crown
+  rotate: false
+  xy: 1141, 44
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+king_frame_l gold
+  rotate: true
+  xy: 2, 118
+  size: 39, 325
+  orig: 39, 325
+  offset: 0, 0
+  index: -1
+king_frame_r gold
+  rotate: false
+  xy: 1481, 450
+  size: 39, 325
+  orig: 39, 325
+  offset: 0, 0
+  index: -1
+king_frame_sh_l_top
+  rotate: true
+  xy: 783, 100
+  size: 39, 135
+  orig: 41, 137
+  offset: 1, 1
+  index: -1
+king_frame_sh_r_top
+  rotate: true
+  xy: 496, 18
+  size: 39, 135
+  orig: 41, 137
+  offset: 1, 1
+  index: -1
+king_frame_side_l
+  rotate: true
+  xy: 2, 190
+  size: 29, 675
+  orig: 29, 675
+  offset: 0, 0
+  index: -1
+king_frame_side_r
+  rotate: true
+  xy: 2, 159
+  size: 29, 675
+  orig: 29, 675
+  offset: 0, 0
+  index: -1
+king_frame_top
+  rotate: true
+  xy: 1348, 441
+  size: 334, 131
+  orig: 334, 131
+  offset: 0, 0
+  index: -1

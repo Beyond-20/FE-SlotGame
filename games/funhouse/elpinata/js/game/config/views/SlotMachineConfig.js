@@ -1,0 +1,123 @@
+export const SLOT_MACHINE_CONFIG = {
+    name :"slotMachineComp", type : "Comp", class : "GameSlotMachineComp", showSymbolBeforeBigWin : true,
+            Elements : [
+                {name : "guideRect", type : "Graphics", color : 0xffff00, width : 1490, height : 1120, alpha:0},
+                {name : "reelFrame", type : "Sprite", image : "reelFrame", x : 0, y : 230},
+                {name : "gamelogo", type : "Sprite", image : "gameLogo", anchor : {x : 0.5, y : 0}, x : 740, y : 20, py: -30, scale : 1, pScale : 1.2, onTop : true},
+                {name : "gamelogoL", type : "Sprite", image : "gameLogo", x : -300, y : 590, scale : 0.6, onTop : true},
+                {name : "winAmountComp", type : "Comp", class : "SlotSpinWinAmountComp", x: 740, y : 650,
+                    Elements :[
+                        {name : "winText", type : "Text", style : "winAmountStyle", fontSize : 200, anchor : {x : 0.5, y : 0.5}}
+                    ]
+                },
+                {name : "slotMachine", type : "Comp", class : "GameSlotMachine", x : 0, y : 160, disableMask : true,
+                    anticipationConfig : {
+                            totalElements : 5,
+                            element : {name : "anti", type: "Container",
+                            Elements: [
+                                {name : "anticipation1", type : "AnimatedSprite", animation : {prefix : "Antic_", postfix : "", start : 0, end : 9, toAddZero : true, loop : true, playOnStart : true}, scale : {x : 1.1, y : 1.1}},
+                                {name : "anticipation2", type : "AnimatedSprite", animation : {prefix : "Confetti_", postfix : "", start : 2, end : 25, toAddZero : true, loop : true, playOnStart : true}, scale : {x : 1, y : 1.11}},
+                            ]},
+                            positions : [{x:180, y : 506}, {x:461, y : 506}, {x:742, y : 506}, {x:1026, y : 506}, {x:1302, y : 506}]
+                    },
+                    Elements : [
+                        {name : "maskRect", type : "Graphics", color : 0xff0000, width : 1410, height : 792, x : 40, y : 119},
+                        {name : "coverRect", type : "Graphics", color : 0x000000, width : 10000, height : 10000, x : -1000, y : -2000, alpha : 0.6},
+                        {name : "paylinesComp", type : "Comp", class : "SlotPaylinesComp", x : 14, y: 116, scale : {x : 1, y : 1},
+                            Elements : [
+                                {name : "payline1", type : "Sprite", image : "payline1", x : 0, y : 340},
+                                {name : "payline2", type : "Sprite", image : "payline2", x : 0, y : 50},
+                                {name : "payline3", type : "Sprite", image : "payline3", x : 0, y : 617},
+                                {name : "payline4", type : "Sprite", image : "payline4", x : 0, y : 50},
+                                {name : "payline5", type : "Sprite", image : "payline5", x : 0, y : 50},
+                                {name : "payline6", type : "Sprite", image : "payline6", x : 0, y : 50},
+                                {name : "payline7", type : "Sprite", image : "payline7", x : 0, y : 340},
+                                {name : "payline8", type : "Sprite", image : "payline8", x : 0, y : 50},
+                                {name : "payline9", type : "Sprite", image : "payline9", x : 0, y : 50},
+                                {name : "payline10", type : "Sprite", image : "payline10", x : 0, y : 50},
+                                {name : "payline11", type : "Sprite", image : "payline11", x : 0, y : 50},
+                                {name : "payline12", type : "Sprite", image : "payline12", x : 0, y : 50},
+                                {name : "payline13", type : "Sprite", image : "payline13", x : 0, y : 340},
+                                {name : "payline14", type : "Sprite", image : "payline14", x : 0, y : 50},
+                                {name : "payline15", type : "Sprite", image : "payline15", x : 0, y : 340},
+                                {name : "payline16", type : "Sprite", image : "payline16", x : 0, y : 50},
+                                {name : "payline17", type : "Sprite", image : "payline17", x : 0, y : 340},
+                                {name : "payline18", type : "Sprite", image : "payline18", x : 0, y : 50},
+                                {name : "payline19", type : "Sprite", image : "payline19", x : 0, y : 50},
+                                {name : "payline20", type : "Sprite", image : "payline20", x : 0, y : 50},
+                                {name : "payline21", type : "Sprite", image : "payline21", x : 0, y : 50},
+                                {name : "payline22", type : "Sprite", image : "payline22", x : 0, y : 50},
+                                {name : "payline23", type : "Sprite", image : "payline23", x : 0, y : 50},
+                                {name : "payline24", type : "Sprite", image : "payline24", x : 0, y : 50},
+                                {name : "payline25", type : "Sprite", image : "payline25", x : 0, y : 50},
+                                {name : "payline26", type : "Sprite", image : "payline26", x : 0, y : 50},
+                                {name : "payline27", type : "Sprite", image : "payline27", x : 0, y : 40},
+                                {name : "payline28", type : "Sprite", image : "payline28", x : 0, y : 50},
+                                {name : "payline29", type : "Sprite", image : "payline29", x : 0, y : 50},
+                                {name : "payline30", type : "Sprite", image : "payline30", x : 0, y : 50},
+                                {name : "payline31", type : "Sprite", image : "payline31", x : 0, y : 50},
+                                {name : "payline32", type : "Sprite", image : "payline32", x : 0, y : 50},
+                                {name : "payline33", type : "Sprite", image : "payline33", x : 0, y : 340},
+                                {name : "payline34", type : "Sprite", image : "payline34", x : 0, y : 50},
+                                {name : "payline35", type : "Sprite", image : "payline35", x : 0, y : 50},
+                                {name : "payline36", type : "Sprite", image : "payline36", x : 0, y : 50},
+                                {name : "payline37", type : "Sprite", image : "payline37", x : 0, y : 50},
+                                {name : "payline38", type : "Sprite", image : "payline38", x : 0, y :50},
+                                {name : "payline39", type : "Sprite", image : "payline39", x : 0, y : 50},
+                                {name : "payline40", type : "Sprite", image : "payline40", x : 0, y : 50},
+                                {name : "payline41", type : "Sprite", image : "payline41", x : 0, y : 50},
+                                {name : "payline42", type : "Sprite", image : "payline42", x : 0, y : 50},
+                                {name : "payline43", type : "Sprite", image : "payline43", x : 0, y : 50},
+                                {name : "payline44", type : "Sprite", image : "payline44", x : 0, y : 50},
+                                {name : "payline45", type : "Sprite", image : "payline45", x : 0, y : 50},
+                                {name : "payline46", type : "Sprite", image : "payline46", x : 0, y : 50},
+                                {name : "payline47", type : "Sprite", image : "payline47", x : 0, y : 50},
+                                {name : "payline48", type : "Sprite", image : "payline48", x : 0, y : 340},
+                                {name : "payline49", type : "Sprite", image : "payline49", x : 0, y : 50},
+                                {name : "payline50", type : "Sprite", image : "payline50", x : 0, y : 50}
+                            ]}
+                    ],
+                data : {
+                    noOfReels : 5,
+                    noOfRows : 3,
+                    reelHeight : 1000,
+                    reelsView1 : [[1,2,3], [4,5,7],[7,8,2],[4,11,0],[6,2,10]],
+                    reelsView : [["H1", "SC", "L1"  ],["L1","L2", "L5"],["H4", "H3", "L5"], ["L3", "H4", "L1"], ["L2", "H1", "H3"]],
+                    reelPositionX : [0,278,564,847,1130],
+                    reelContainerPos : {x : 184, y : 250},
+                    symbolHeight : 266,
+                    symbolGap : 0,
+                    anticipationSymbols : ["SC"],
+                    landingSymbols : ["SC"],
+                    anticipationDelay : 2500,
+                    winFrame : {name : "winFrame", type : "Spine", spineName: "effects", defaultState : "LineWin", loop : true, scale : 0.96, y : 14},
+                    symbolsData : {
+                        "WD" : {name : "WD", animation : {prefix : "sym_wild_win_", postfix: "", start : 0, end : 69, toAddZero : true, x : 0, y: 0, scale :1}, expandingAnimation : {prefix : "sym_wild_Wild_expand_", postfix: "", start : 0, end : 88, toAddZero : true, x : 0, y: 0, scale: {x: 0.92, y: 0.92}, loop : true, vPadding : -22}},
+                        "H1" : {name : "H1", animation : {prefix : "mariachi_win_", postfix: "", start : 0, end : 58, toAddZero : true, x: - 6, y: -4}},
+                        "H2" : {name : "H2", animation : {prefix : "Sym_Senorita_win_", postfix: "", start : 0, end : 63, toAddZero : true, x: 6, y: -4}},
+                        "H3" : {name : "H3", animation : {prefix : "Sym_Sombrero_win_", postfix: "", start : 0, end : 40, toAddZero : true, x:0, y:7}},
+                        "H4" : {name : "H4", animation : {prefix : "M_win_", postfix: "", start : 0, end : 40, toAddZero : true,x:0, y:8}},
+                        "H5" : {name : "H5", animation : {prefix : "Sym_Tequila_win_", postfix: "", start : 0, end : 48, toAddZero : true}},
+                        "L1" : {name : "L1", animation : {prefix : "A_win_", postfix: "", start : 0, end : 40, toAddZero : true}},
+                        "L2" : {name : "L2", animation : {prefix : "K_win_", postfix: "", start : 0, end : 40, toAddZero : true, x:0, y:-4}},
+                        "L3" : {name : "L3", animation : {prefix : "Sym_Q_win_", postfix: "", start : 0, end : 40, toAddZero : true}},
+                        "L4" : {name : "L4", animation : {prefix : "J_win_", postfix: "", start : 0, end : 40, toAddZero : true}},
+                        "L5" : {name : "L5", animation : {prefix : "10_win_", postfix: "", start : 0, end : 40, toAddZero : true}},
+                        "L6" : {name : "L6", animation : {prefix : "9_win_", postfix: "", start : 0, end : 40, toAddZero : true}},
+                        "SC" : {name : "SC", animation : {prefix : "Sym_Scatter_win_", postfix: "", start : 0, end : 49, toAddZero : true}, landingAnimation: {prefix : "Sym_Scatter_land_", postfix: "", start : 0, end : 28, toAddZero : true}},
+                    },
+                    winningSoundIndex : [["WD"], ["H1"], ["H2"], ["H3"], ["H4"], ["H5"], ["L1"], ["L2"], ["L3"], ["L4"], ["L5"], ["L6"], ["SC"]]
+                }},
+                {name: "fiveoakComp", type: "Comp", class: "FiveOfAKindComp", x: 0, y : 0, symbolScale: 1.5, symbolX : 750, symbolY: 870,
+                Elements: [
+                        {name : "fiveoak", type: "Spine", spineName: "effects", defaultState: "FiveOfAKindText", loop: true, scale: 0.5, x : 750, y : 410}
+                    ]
+                }
+            ],
+            layoutData : {
+                "Desktop" : {hAlign : "center", vAlign : "middle", widthPerc : 1, heightPerc : 1},
+                "Portrait" : {hAlign : "center", vAlign : "top"},
+                "Landscape" : {hAlign : "center", vAlign : "top", heightPerc: 1.33, widthPerc : 1.5, hPaddingPerc: 0, vPaddingPerc: -0.1,},
+            }
+
+}

@@ -1,0 +1,342 @@
+
+Q.png
+size: 1778,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_glow_00000
+  rotate: false
+  xy: 317, 67
+  size: 117, 168
+  orig: 162, 203
+  offset: 18, 18
+  index: -1
+Q_sweep_00000
+  rotate: false
+  xy: 1721, 73
+  size: 44, 27
+  orig: 151, 208
+  offset: 73, 31
+  index: -1
+Q_sweep_00001
+  rotate: false
+  xy: 1717, 35
+  size: 58, 32
+  orig: 151, 208
+  offset: 60, 31
+  index: -1
+Q_sweep_00002
+  rotate: true
+  xy: 1669, 69
+  size: 71, 50
+  orig: 151, 208
+  offset: 47, 22
+  index: -1
+Q_sweep_00003
+  rotate: true
+  xy: 869, 6
+  size: 95, 74
+  orig: 151, 208
+  offset: 36, 10
+  index: -1
+Q_sweep_00004
+  rotate: false
+  xy: 997, 13
+  size: 102, 89
+  orig: 151, 208
+  offset: 35, 7
+  index: -1
+Q_sweep_00005
+  rotate: false
+  xy: 1274, 2
+  size: 103, 102
+  orig: 151, 208
+  offset: 34, 6
+  index: -1
+Q_sweep_00006
+  rotate: true
+  xy: 1555, 2
+  size: 106, 112
+  orig: 151, 208
+  offset: 25, 8
+  index: -1
+Q_sweep_00007
+  rotate: true
+  xy: 1153, 2
+  size: 101, 119
+  orig: 151, 208
+  offset: 22, 13
+  index: -1
+Q_sweep_00008
+  rotate: false
+  xy: 1303, 108
+  size: 103, 127
+  orig: 151, 208
+  offset: 21, 17
+  index: -1
+Q_sweep_00009
+  rotate: false
+  xy: 805, 103
+  size: 106, 132
+  orig: 151, 208
+  offset: 19, 20
+  index: -1
+Q_sweep_00010
+  rotate: false
+  xy: 696, 102
+  size: 107, 133
+  orig: 151, 208
+  offset: 19, 27
+  index: -1
+Q_sweep_00011
+  rotate: false
+  xy: 1191, 106
+  size: 110, 129
+  orig: 151, 208
+  offset: 17, 38
+  index: -1
+Q_sweep_00012
+  rotate: false
+  xy: 1028, 104
+  size: 112, 131
+  orig: 151, 208
+  offset: 16, 43
+  index: -1
+Q_sweep_00013
+  rotate: false
+  xy: 913, 104
+  size: 113, 131
+  orig: 151, 208
+  offset: 15, 50
+  index: -1
+Q_sweep_00014
+  rotate: false
+  xy: 1408, 109
+  size: 111, 126
+  orig: 151, 208
+  offset: 14, 62
+  index: -1
+Q_sweep_00015
+  rotate: true
+  xy: 1379, 2
+  size: 104, 122
+  orig: 151, 208
+  offset: 13, 73
+  index: -1
+Q_sweep_00016
+  rotate: true
+  xy: 751, 2
+  size: 98, 116
+  orig: 151, 208
+  offset: 12, 83
+  index: -1
+Q_sweep_00017
+  rotate: true
+  xy: 647, 4
+  size: 95, 102
+  orig: 151, 208
+  offset: 13, 94
+  index: -1
+Q_sweep_00018
+  rotate: false
+  xy: 445, 2
+  size: 87, 79
+  orig: 151, 208
+  offset: 18, 105
+  index: -1
+Q_sweep_00019
+  rotate: true
+  xy: 1662, 142
+  size: 71, 57
+  orig: 151, 208
+  offset: 27, 116
+  index: -1
+Q_sweep_00020
+  rotate: true
+  xy: 1669, 3
+  size: 64, 46
+  orig: 151, 208
+  offset: 27, 127
+  index: -1
+chess_part_exp_00000
+  rotate: false
+  xy: 33, 50
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+chess_part_exp_00001
+  rotate: true
+  xy: 317, 53
+  size: 12, 14
+  orig: 171, 102
+  offset: 77, 4
+  index: -1
+chess_part_exp_00002
+  rotate: true
+  xy: 1717, 6
+  size: 27, 25
+  orig: 171, 102
+  offset: 70, 4
+  index: -1
+chess_part_exp_00003
+  rotate: true
+  xy: 2, 2
+  size: 42, 35
+  orig: 171, 102
+  offset: 63, 5
+  index: -1
+chess_part_exp_00004
+  rotate: false
+  xy: 1721, 169
+  size: 55, 44
+  orig: 171, 102
+  offset: 55, 5
+  index: -1
+chess_part_exp_00005
+  rotate: true
+  xy: 1721, 102
+  size: 65, 53
+  orig: 171, 102
+  offset: 50, 5
+  index: -1
+chess_part_exp_00006
+  rotate: true
+  xy: 1101, 28
+  size: 74, 50
+  orig: 171, 102
+  offset: 47, 15
+  index: -1
+chess_part_exp_00007
+  rotate: true
+  xy: 595, 5
+  size: 83, 50
+  orig: 171, 102
+  offset: 44, 21
+  index: -1
+chess_part_exp_00008
+  rotate: true
+  xy: 945, 8
+  size: 94, 50
+  orig: 171, 102
+  offset: 39, 26
+  index: -1
+chess_part_exp_00009
+  rotate: true
+  xy: 1503, 4
+  size: 103, 50
+  orig: 171, 102
+  offset: 34, 30
+  index: -1
+chess_part_exp_00010
+  rotate: false
+  xy: 39, 2
+  size: 111, 49
+  orig: 171, 102
+  offset: 30, 34
+  index: -1
+chess_part_exp_00011
+  rotate: true
+  xy: 1610, 117
+  size: 118, 50
+  orig: 171, 102
+  offset: 27, 36
+  index: -1
+chess_part_exp_00012
+  rotate: true
+  xy: 1558, 111
+  size: 124, 50
+  orig: 171, 102
+  offset: 23, 39
+  index: -1
+chess_part_exp_00013
+  rotate: true
+  xy: 1142, 105
+  size: 130, 47
+  orig: 171, 102
+  offset: 20, 41
+  index: -1
+chess_part_exp_00014
+  rotate: true
+  xy: 646, 101
+  size: 134, 48
+  orig: 171, 102
+  offset: 18, 42
+  index: -1
+chess_part_exp_00015
+  rotate: false
+  xy: 304, 3
+  size: 139, 48
+  orig: 171, 102
+  offset: 16, 43
+  index: -1
+chess_part_exp_00016
+  rotate: true
+  xy: 594, 90
+  size: 145, 50
+  orig: 171, 102
+  offset: 13, 42
+  index: -1
+chess_part_exp_00017
+  rotate: true
+  xy: 489, 85
+  size: 150, 51
+  orig: 171, 102
+  offset: 11, 41
+  index: -1
+chess_part_exp_00018
+  rotate: true
+  xy: 542, 86
+  size: 149, 50
+  orig: 171, 102
+  offset: 8, 42
+  index: -1
+chess_part_exp_00019
+  rotate: true
+  xy: 436, 83
+  size: 152, 51
+  orig: 171, 102
+  offset: 5, 42
+  index: -1
+chess_part_exp_00020
+  rotate: false
+  xy: 152, 3
+  size: 150, 48
+  orig: 171, 102
+  offset: 7, 43
+  index: -1
+chess_part_exp_00021
+  rotate: true
+  xy: 1521, 110
+  size: 125, 35
+  orig: 171, 102
+  offset: 7, 56
+  index: -1
+chess_part_exp_00022
+  rotate: false
+  xy: 1662, 215
+  size: 108, 20
+  orig: 171, 102
+  offset: 8, 71
+  index: -1
+chess_q
+  rotate: true
+  xy: 33, 53
+  size: 182, 282
+  orig: 182, 282
+  offset: 0, 0
+  index: -1
+chess_q step
+  rotate: true
+  xy: 2, 46
+  size: 189, 29
+  orig: 189, 29
+  offset: 0, 0
+  index: -1
+chess_q_crown
+  rotate: true
+  xy: 534, 5
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1

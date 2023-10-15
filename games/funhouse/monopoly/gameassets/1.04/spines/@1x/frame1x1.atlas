@@ -1,0 +1,152 @@
+
+frame1x1.png
+size: 1792,1770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame1x1_monopoly_00000
+  rotate: true
+  xy: 2, 448
+  size: 441, 444
+  orig: 500, 498
+  offset: 31, 30
+  index: -1
+frame1x1_monopoly_00001
+  rotate: true
+  xy: 448, 446
+  size: 441, 444
+  orig: 500, 498
+  offset: 31, 30
+  index: -1
+frame1x1_monopoly_00002
+  rotate: true
+  xy: 894, 446
+  size: 441, 443
+  orig: 500, 498
+  offset: 31, 30
+  index: -1
+frame1x1_monopoly_00003
+  rotate: true
+  xy: 1339, 446
+  size: 441, 442
+  orig: 500, 498
+  offset: 31, 30
+  index: -1
+frame1x1_monopoly_00004
+  rotate: true
+  xy: 896, 2
+  size: 442, 446
+  orig: 500, 498
+  offset: 31, 29
+  index: -1
+frame1x1_monopoly_00005
+  rotate: true
+  xy: 448, 3
+  size: 441, 446
+  orig: 500, 498
+  offset: 32, 29
+  index: -1
+frame1x1_monopoly_00006
+  rotate: true
+  xy: 448, 1331
+  size: 437, 442
+  orig: 500, 498
+  offset: 33, 30
+  index: -1
+frame1x1_monopoly_00007
+  rotate: true
+  xy: 892, 1331
+  size: 437, 442
+  orig: 500, 498
+  offset: 33, 30
+  index: -1
+frame1x1_monopoly_00008
+  rotate: true
+  xy: 1336, 1331
+  size: 437, 442
+  orig: 500, 498
+  offset: 33, 30
+  index: -1
+frame1x1_monopoly_00010
+  rotate: true
+  xy: 2, 5
+  size: 441, 444
+  orig: 500, 498
+  offset: 31, 30
+  index: -1
+frame1x1_monopoly_00011
+  rotate: true
+  xy: 450, 889
+  size: 440, 444
+  orig: 500, 498
+  offset: 32, 30
+  index: -1
+frame1x1_monopoly_00012
+  rotate: true
+  xy: 896, 889
+  size: 440, 446
+  orig: 500, 498
+  offset: 32, 29
+  index: -1
+frame1x1_monopoly_00013
+  rotate: true
+  xy: 1344, 2
+  size: 442, 446
+  orig: 500, 498
+  offset: 30, 29
+  index: -1
+frame1x1_monopoly_00016
+  rotate: true
+  xy: 1344, 889
+  size: 440, 446
+  orig: 500, 498
+  offset: 30, 29
+  index: -1
+frame1x1_monopoly_00017
+  rotate: true
+  xy: 2, 891
+  size: 438, 446
+  orig: 500, 498
+  offset: 32, 29
+  index: -1
+frame1x1_monopoly_00018
+  rotate: true
+  xy: 2, 1332
+  size: 436, 444
+  orig: 500, 498
+  offset: 33, 30
+  index: -1
+
+frame1x12.png
+size: 1791,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame1x1_monopoly_00009
+  rotate: true
+  xy: 449, 2
+  size: 443, 444
+  orig: 500, 498
+  offset: 31, 30
+  index: -1
+frame1x1_monopoly_00014
+  rotate: true
+  xy: 895, 2
+  size: 443, 446
+  orig: 500, 498
+  offset: 30, 29
+  index: -1
+frame1x1_monopoly_00015
+  rotate: true
+  xy: 1343, 2
+  size: 443, 446
+  orig: 500, 498
+  offset: 30, 29
+  index: -1
+frame1x1_monopoly_00019
+  rotate: true
+  xy: 2, 2
+  size: 443, 445
+  orig: 500, 498
+  offset: 31, 30
+  index: -1

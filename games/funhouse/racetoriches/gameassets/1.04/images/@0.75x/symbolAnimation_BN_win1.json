@@ -1,0 +1,45 @@
+{"frames": {
+
+"bonus win_3":
+{
+	"frame": {"x":3,"y":3,"w":249,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":129,"w":249,"h":272},
+	"sourceSize": {"w":510,"h":510}
+},
+"bonus win_4":
+{
+	"frame": {"x":256,"y":3,"w":242,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":131,"w":242,"h":270},
+	"sourceSize": {"w":510,"h":510}
+},
+"bonus win_5":
+{
+	"frame": {"x":256,"y":277,"w":241,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":134,"w":241,"h":267},
+	"sourceSize": {"w":510,"h":510}
+},
+"bonus win_6":
+{
+	"frame": {"x":3,"y":279,"w":239,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":136,"w":239,"h":265},
+	"sourceSize": {"w":510,"h":510}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_BN_win1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "0.51",
+	"related_multi_packs": [ "symbolAnimation_BN_win0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:01736cee8df311e7e1c1e0e5d524fc5f:6d6c47609ca1eec15eb4c32b42b2c5fb:a030d8b80212af6bd74532bd952be335$"
+}
+}

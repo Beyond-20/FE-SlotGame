@@ -1,0 +1,27 @@
+
+J.png
+size: 487,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glasses_J
+  rotate: false
+  xy: 355, 138
+  size: 126, 139
+  orig: 128, 141
+  offset: 1, 1
+  index: -1
+J
+  rotate: true
+  xy: 6, 49
+  size: 228, 343
+  orig: 230, 345
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: false
+  xy: 6, 6
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1

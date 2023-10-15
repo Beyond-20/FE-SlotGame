@@ -1,0 +1,37 @@
+{"frames": {
+
+"sym_wild_Wild_expand_00":
+{
+	"frame": {"x":3,"y":564,"w":270,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":706,"w":270,"h":276},
+	"sourceSize": {"w":550,"h":1100}
+},
+"sym_wild_Wild_expand_01":
+{
+	"frame": {"x":3,"y":284,"w":272,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":706,"w":272,"h":276},
+	"sourceSize": {"w":550,"h":1100}
+},
+"sym_wild_Wild_expand_02":
+{
+	"frame": {"x":3,"y":3,"w":274,"h":277},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":705,"w":274,"h":277},
+	"sourceSize": {"w":550,"h":1100}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_WD_expanding2.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "symbolAnimation_WD_expanding0.json", "symbolAnimation_WD_expanding1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:86db42a7e4ad763419edcd1457706626:f95d7060a579ba8a1e48e37cdea63bce:02ccf6cbd7dffbeed5616e59a61ed7bb$"
+}
+}

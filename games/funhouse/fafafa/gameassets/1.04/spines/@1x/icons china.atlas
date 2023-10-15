@@ -1,0 +1,41 @@
+
+icons china.png
+size: 676,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_body
+  rotate: false
+  xy: 2, 2
+  size: 487, 241
+  orig: 489, 243
+  offset: 1, 1
+  index: -1
+icon_body_1_00123
+  rotate: false
+  xy: 491, 125
+  size: 150, 118
+  orig: 175, 146
+  offset: 11, 12
+  index: -1
+icon_body_2_00573
+  rotate: false
+  xy: 580, 487
+  size: 94, 87
+  orig: 131, 124
+  offset: 24, 13
+  index: -1
+icon_body_3_00612
+  rotate: false
+  xy: 491, 3
+  size: 106, 120
+  orig: 163, 162
+  offset: 15, 24
+  index: -1
+icon_glow
+  rotate: false
+  xy: 2, 245
+  size: 576, 329
+  orig: 584, 338
+  offset: 4, 5
+  index: -1

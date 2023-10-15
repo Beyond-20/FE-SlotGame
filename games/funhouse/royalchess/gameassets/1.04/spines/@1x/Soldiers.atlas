@@ -1,0 +1,629 @@
+
+Soldiers.png
+size: 1808,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coins_out_top_00000
+  rotate: true
+  xy: 2, 5
+  size: 15, 33
+  orig: 103, 417
+  offset: 42, 21
+  index: -1
+coins_out_top_00001
+  rotate: false
+  xy: 1108, 5
+  size: 30, 103
+  orig: 103, 417
+  offset: 33, 4
+  index: -1
+coins_out_top_00002
+  rotate: false
+  xy: 1749, 471
+  size: 46, 66
+  orig: 103, 417
+  offset: 29, 66
+  index: -1
+coins_out_top_00003
+  rotate: true
+  xy: 1489, 378
+  size: 52, 99
+  orig: 103, 417
+  offset: 28, 58
+  index: -1
+coins_out_top_00004
+  rotate: true
+  xy: 1454, 729
+  size: 53, 156
+  orig: 103, 417
+  offset: 28, 30
+  index: -1
+coins_out_top_00005
+  rotate: true
+  xy: 1436, 671
+  size: 56, 206
+  orig: 103, 417
+  offset: 26, 17
+  index: -1
+coins_out_top_00006
+  rotate: true
+  xy: 1080, 666
+  size: 59, 259
+  orig: 103, 417
+  offset: 24, 2
+  index: -1
+coins_out_top_00007
+  rotate: false
+  xy: 939, 371
+  size: 62, 291
+  orig: 103, 417
+  offset: 22, 7
+  index: -1
+coins_out_top_00008
+  rotate: false
+  xy: 517, 372
+  size: 64, 281
+  orig: 103, 417
+  offset: 20, 54
+  index: -1
+coins_out_top_00009
+  rotate: false
+  xy: 402, 47
+  size: 66, 315
+  orig: 103, 417
+  offset: 19, 58
+  index: -1
+coins_out_top_00010
+  rotate: false
+  xy: 449, 655
+  size: 69, 375
+  orig: 103, 417
+  offset: 18, 27
+  index: -1
+coins_out_top_00011
+  rotate: false
+  xy: 1080, 110
+  size: 71, 260
+  orig: 103, 417
+  offset: 17, 62
+  index: -1
+coins_out_top_00012
+  rotate: false
+  xy: 1591, 22
+  size: 64, 227
+  orig: 103, 417
+  offset: 25, 82
+  index: -1
+coins_out_top_00013
+  rotate: false
+  xy: 1366, 430
+  size: 66, 237
+  orig: 103, 417
+  offset: 24, 109
+  index: -1
+coins_out_top_00014
+  rotate: true
+  xy: 1590, 363
+  size: 67, 188
+  orig: 103, 417
+  offset: 23, 135
+  index: -1
+coins_out_top_00015
+  rotate: true
+  xy: 1585, 293
+  size: 68, 183
+  orig: 103, 417
+  offset: 22, 163
+  index: -1
+coins_out_top_00016
+  rotate: false
+  xy: 1432, 10
+  size: 70, 128
+  orig: 103, 417
+  offset: 21, 194
+  index: -1
+coins_out_top_00017
+  rotate: true
+  xy: 172, 4
+  size: 19, 35
+  orig: 103, 417
+  offset: 22, 230
+  index: -1
+eye_solder_cut
+  rotate: true
+  xy: 1283, 727
+  size: 57, 44
+  orig: 61, 49
+  offset: 2, 2
+  index: -1
+solder_kopie_blur
+  rotate: false
+  xy: 2, 359
+  size: 316, 671
+  orig: 412, 768
+  offset: 36, 45
+  index: -1
+solders_back hand
+  rotate: true
+  xy: 1656, 539
+  size: 129, 145
+  orig: 129, 145
+  offset: 0, 0
+  index: -1
+solders_blue opened door
+  rotate: true
+  xy: 1308, 792
+  size: 238, 222
+  orig: 238, 222
+  offset: 0, 0
+  index: -1
+solders_body2
+  rotate: true
+  xy: 1302, 417
+  size: 247, 62
+  orig: 247, 62
+  offset: 0, 0
+  index: -1
+solders_body2red
+  rotate: true
+  xy: 1359, 125
+  size: 247, 62
+  orig: 247, 62
+  offset: 0, 0
+  index: -1
+solders_body_blue
+  rotate: true
+  xy: 1096, 416
+  size: 248, 204
+  orig: 248, 204
+  offset: 0, 0
+  index: -1
+solders_body_red
+  rotate: true
+  xy: 1153, 124
+  size: 248, 204
+  orig: 248, 204
+  offset: 0, 0
+  index: -1
+solders_body_shadow hand r
+  rotate: true
+  xy: 974, 666
+  size: 48, 104
+  orig: 48, 104
+  offset: 0, 0
+  index: -1
+solders_day shadow
+  rotate: true
+  xy: 2, 22
+  size: 335, 43
+  orig: 335, 43
+  offset: 0, 0
+  index: -1
+solders_dot_l
+  rotate: true
+  xy: 37, 8
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+solders_dot_r
+  rotate: true
+  xy: 50, 10
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+solders_eye_full_l
+  rotate: false
+  xy: 1391, 729
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+solders_eye_full_r
+  rotate: false
+  xy: 922, 664
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+solders_eye_l_small
+  rotate: true
+  xy: 1409, 670
+  size: 57, 25
+  orig: 57, 25
+  offset: 0, 0
+  index: -1
+solders_eye_r_small
+  rotate: false
+  xy: 92, 3
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+solders_flag
+  rotate: true
+  xy: 1150, 374
+  size: 40, 134
+  orig: 40, 134
+  offset: 0, 0
+  index: -1
+solders_flag copy
+  rotate: true
+  xy: 1286, 374
+  size: 40, 134
+  orig: 40, 134
+  offset: 0, 0
+  index: -1
+solders_flag2
+  rotate: false
+  xy: 1656, 443
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+solders_flag2 copy
+  rotate: true
+  xy: 1657, 131
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+solders_hair_blue
+  rotate: true
+  xy: 1532, 908
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+solders_hair_red
+  rotate: true
+  xy: 1532, 784
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+solders_hand r
+  rotate: false
+  xy: 1266, 15
+  size: 164, 107
+  orig: 164, 107
+  offset: 0, 0
+  index: -1
+solders_hand_1_l_f b1
+  rotate: true
+  xy: 1003, 402
+  size: 262, 91
+  orig: 262, 91
+  offset: 0, 0
+  index: -1
+solders_hand_2_r
+  rotate: true
+  xy: 1003, 402
+  size: 262, 91
+  orig: 262, 91
+  offset: 0, 0
+  index: -1
+solders_hand_1_l_fist back
+  rotate: false
+  xy: 1507, 309
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+solders_hand_2_r_f1
+  rotate: true
+  xy: 1341, 669
+  size: 57, 33
+  orig: 58, 33
+  offset: 1, 0
+  index: -1
+solders_hand_2_r_f2
+  rotate: false
+  xy: 1003, 372
+  size: 58, 28
+  orig: 59, 28
+  offset: 1, 0
+  index: -1
+solders_hand_2_r_f3
+  rotate: true
+  xy: 1376, 669
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+solders_hand_2_r_f4
+  rotate: false
+  xy: 1770, 276
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+solders_hand_2_r_f5
+  rotate: true
+  xy: 402, 3
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+solders_hand_2_r_fist 2side
+  rotate: false
+  xy: 1507, 240
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+solders_hand_2_r_palm back
+  rotate: false
+  xy: 1422, 374
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+solders_hand_2_r_sh
+  rotate: true
+  xy: 445, 3
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+solders_hand_l_big finger
+  rotate: false
+  xy: 1753, 166
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+solders_hand_l_finger1
+  rotate: true
+  xy: 884, 663
+  size: 51, 36
+  orig: 52, 37
+  offset: 1, 1
+  index: -1
+solders_hand_l_fingers2
+  rotate: false
+  xy: 1329, 728
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+solders_hand_l_palm
+  rotate: false
+  xy: 1657, 59
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+solders_hand_l_shadow hand
+  rotate: false
+  xy: 1140, 7
+  size: 39, 101
+  orig: 39, 112
+  offset: 0, 8
+  index: -1
+solders_head_skin
+  rotate: true
+  xy: 1035, 727
+  size: 303, 246
+  orig: 303, 246
+  offset: 0, 0
+  index: -1
+solders_helm main
+  rotate: false
+  xy: 520, 663
+  size: 362, 367
+  orig: 362, 367
+  offset: 0, 0
+  index: -1
+solders_helm main_gold
+  rotate: true
+  xy: 628, 3
+  size: 362, 367
+  orig: 362, 367
+  offset: 0, 0
+  index: -1
+solders_helm_back
+  rotate: true
+  xy: 1749, 433
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+solders_helm_back_bot
+  rotate: true
+  xy: 1063, 372
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+solders_helm_back_bot_gold
+  rotate: true
+  xy: 1092, 372
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+solders_helm_back_gold
+  rotate: false
+  xy: 1770, 323
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+solders_helm_top_blue
+  rotate: true
+  xy: 1585, 251
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+solders_helm_top_blue_gold
+  rotate: true
+  xy: 1654, 251
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+solders_helm_top_red
+  rotate: false
+  xy: 1723, 224
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+solders_helm_top_red_gold
+  rotate: false
+  xy: 1765, 207
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+solders_holes
+  rotate: true
+  xy: 583, 367
+  size: 294, 176
+  orig: 294, 176
+  offset: 0, 0
+  index: -1
+solders_holes_bot
+  rotate: true
+  xy: 470, 49
+  size: 314, 149
+  orig: 314, 149
+  offset: 0, 0
+  index: -1
+solders_holes_bot_gold
+  rotate: true
+  xy: 884, 716
+  size: 314, 149
+  orig: 314, 149
+  offset: 0, 0
+  index: -1
+solders_holes_gold
+  rotate: true
+  xy: 761, 367
+  size: 294, 176
+  orig: 294, 176
+  offset: 0, 0
+  index: -1
+solders_holes_sh_top
+  rotate: true
+  xy: 997, 91
+  size: 278, 81
+  orig: 281, 82
+  offset: 3, 0
+  index: -1
+solders_legs 2_blue
+  rotate: true
+  xy: 92, 25
+  size: 332, 153
+  orig: 332, 153
+  offset: 0, 0
+  index: -1
+solders_legs2_red
+  rotate: true
+  xy: 247, 25
+  size: 332, 153
+  orig: 332, 153
+  offset: 0, 0
+  index: -1
+solders_neck
+  rotate: true
+  xy: 1423, 140
+  size: 232, 82
+  orig: 232, 82
+  offset: 0, 0
+  index: -1
+solders_neck_gold
+  rotate: true
+  xy: 1507, 6
+  size: 232, 82
+  orig: 232, 82
+  offset: 0, 0
+  index: -1
+solders_night shadow
+  rotate: true
+  xy: 47, 22
+  size: 335, 43
+  orig: 335, 43
+  offset: 0, 0
+  index: -1
+solders_nose
+  rotate: false
+  xy: 134, 3
+  size: 36, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+solders_nose shdow
+  rotate: true
+  xy: 1121, 373
+  size: 41, 27
+  orig: 44, 32
+  offset: 1, 2
+  index: -1
+solders_red opened door
+  rotate: true
+  xy: 1434, 432
+  size: 236, 220
+  orig: 238, 222
+  offset: 1, 1
+  index: -1
+solders_shadow bot
+  rotate: true
+  xy: 449, 365
+  size: 288, 66
+  orig: 293, 71
+  offset: 1, 2
+  index: -1
+solders_shadow bot helm
+  rotate: true
+  xy: 1644, 851
+  size: 179, 160
+  orig: 190, 174
+  offset: 8, 7
+  index: -1
+solders_shadow bot helm_gold
+  rotate: true
+  xy: 1644, 670
+  size: 179, 160
+  orig: 190, 174
+  offset: 8, 7
+  index: -1
+solders_shadow eyes
+  rotate: false
+  xy: 482, 2
+  size: 144, 45
+  orig: 148, 48
+  offset: 2, 1
+  index: -1
+solders_shadow onlegs
+  rotate: true
+  xy: 1283, 786
+  size: 244, 23
+  orig: 246, 23
+  offset: 0, 0
+  index: -1
+solders_side circle
+  rotate: true
+  xy: 997, 6
+  size: 83, 109
+  orig: 83, 109
+  offset: 0, 0
+  index: -1
+solders_side circle_gold
+  rotate: false
+  xy: 1181, 13
+  size: 83, 109
+  orig: 83, 109
+  offset: 0, 0
+  index: -1
+solders_spike
+  rotate: false
+  xy: 320, 364
+  size: 127, 666
+  orig: 129, 668
+  offset: 1, 1
+  index: -1

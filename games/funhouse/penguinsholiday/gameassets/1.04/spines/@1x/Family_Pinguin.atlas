@@ -1,0 +1,125 @@
+
+Family_Pinguin.png
+size: 1166,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_G_Family
+  rotate: true
+  xy: 362, 9
+  size: 347, 354
+  orig: 349, 357
+  offset: 1, 2
+  index: -1
+Body_Penguin_1
+  rotate: true
+  xy: 722, 261
+  size: 95, 279
+  orig: 95, 279
+  offset: 0, 0
+  index: -1
+Body_Penguin_2
+  rotate: true
+  xy: 722, 115
+  size: 140, 192
+  orig: 140, 192
+  offset: 0, 0
+  index: -1
+Body_Penguin_3
+  rotate: false
+  xy: 1052, 78
+  size: 84, 118
+  orig: 84, 118
+  offset: 0, 0
+  index: -1
+Frame_Family
+  rotate: false
+  xy: 6, 6
+  size: 350, 350
+  orig: 352, 352
+  offset: 1, 1
+  index: -1
+Hand_1_Penguin_3
+  rotate: false
+  xy: 884, 77
+  size: 24, 32
+  orig: 26, 34
+  offset: 1, 1
+  index: -1
+Hand_2_Penguin_3
+  rotate: false
+  xy: 1052, 16
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+Hand_Penguin_1
+  rotate: true
+  xy: 819, 12
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+Mouth_Bottom_Penguin_3
+  rotate: true
+  xy: 977, 215
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+Mouth_Top_Penguin_3
+  rotate: false
+  xy: 920, 209
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+Pupil_Penguin_2
+  rotate: true
+  xy: 1142, 148
+  size: 25, 16
+  orig: 27, 18
+  offset: 1, 1
+  index: -1
+Pupil_Penguin_3
+  rotate: false
+  xy: 884, 51
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+Snowball_1
+  rotate: true
+  xy: 1007, 202
+  size: 154, 153
+  orig: 156, 155
+  offset: 1, 1
+  index: -1
+Snowball_2
+  rotate: false
+  xy: 920, 76
+  size: 126, 120
+  orig: 129, 120
+  offset: 0, 0
+  index: -1
+Snowball_3
+  rotate: false
+  xy: 722, 21
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+Snowball_3_Eye
+  rotate: false
+  xy: 1142, 179
+  size: 17, 17
+  orig: 18, 18
+  offset: 0, 1
+  index: -1
+Snowball_3_Nose
+  rotate: true
+  xy: 1118, 22
+  size: 50, 19
+  orig: 52, 22
+  offset: 1, 2
+  index: -1

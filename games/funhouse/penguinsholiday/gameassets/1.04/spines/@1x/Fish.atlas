@@ -1,0 +1,41 @@
+
+Fish.png
+size: 470,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Fish
+  rotate: true
+  xy: 6, 6
+  size: 255, 332
+  orig: 255, 332
+  offset: 0, 0
+  index: -1
+Fin_Fish
+  rotate: false
+  xy: 393, 48
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Glare_Fish
+  rotate: true
+  xy: 344, 132
+  size: 129, 64
+  orig: 131, 66
+  offset: 1, 1
+  index: -1
+Mouth_Fish
+  rotate: true
+  xy: 414, 120
+  size: 141, 50
+  orig: 143, 52
+  offset: 1, 1
+  index: -1
+Pupil_Fish
+  rotate: true
+  xy: 344, 8
+  size: 118, 43
+  orig: 120, 45
+  offset: 1, 1
+  index: -1

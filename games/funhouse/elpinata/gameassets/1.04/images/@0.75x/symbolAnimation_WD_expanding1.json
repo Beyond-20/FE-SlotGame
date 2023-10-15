@@ -1,0 +1,93 @@
+{"frames": {
+
+"sym_wild_Wild_expand_39":
+{
+	"frame": {"x":963,"y":3,"w":326,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":81,"w":326,"h":707},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_40":
+{
+	"frame": {"x":1293,"y":3,"w":304,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":81,"w":304,"h":707},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_41":
+{
+	"frame": {"x":656,"y":3,"w":303,"h":717},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":71,"w":303,"h":717},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_42":
+{
+	"frame": {"x":641,"y":735,"w":297,"h":727},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":61,"w":297,"h":727},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_43":
+{
+	"frame": {"x":3,"y":765,"w":310,"h":745},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":43,"w":310,"h":745},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_44":
+{
+	"frame": {"x":3,"y":3,"w":325,"h":758},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":30,"w":325,"h":758},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_67":
+{
+	"frame": {"x":942,"y":724,"w":328,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":81,"w":328,"h":707},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_86":
+{
+	"frame": {"x":317,"y":765,"w":320,"h":728},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":81,"w":320,"h":728},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_87":
+{
+	"frame": {"x":332,"y":3,"w":320,"h":728},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":81,"w":320,"h":728},
+	"sourceSize": {"w":413,"h":825}
+},
+"sym_wild_Wild_expand_88":
+{
+	"frame": {"x":1601,"y":3,"w":296,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":81,"w":296,"h":707},
+	"sourceSize": {"w":413,"h":825}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_WD_expanding1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.75",
+	"related_multi_packs": [ "symbolAnimation_WD_expanding0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:86db42a7e4ad763419edcd1457706626:f95d7060a579ba8a1e48e37cdea63bce:02ccf6cbd7dffbeed5616e59a61ed7bb$"
+}
+}

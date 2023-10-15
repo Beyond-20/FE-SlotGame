@@ -1,0 +1,173 @@
+{"frames": {
+
+"win_1_0007":
+{
+	"frame": {"x":990,"y":3,"w":969,"h":803},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":969,"h":803},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0008":
+{
+	"frame": {"x":1963,"y":803,"w":958,"h":804},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":958,"h":804},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0009":
+{
+	"frame": {"x":2911,"y":1612,"w":944,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":944,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0010":
+{
+	"frame": {"x":3,"y":2406,"w":945,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":945,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0011":
+{
+	"frame": {"x":943,"y":3235,"w":935,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":935,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0032":
+{
+	"frame": {"x":952,"y":2424,"w":940,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":940,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0033":
+{
+	"frame": {"x":2857,"y":2423,"w":939,"h":801},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":939,"h":801},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0034":
+{
+	"frame": {"x":1896,"y":3229,"w":950,"h":798},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":950,"h":798},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0035":
+{
+	"frame": {"x":2925,"y":814,"w":968,"h":794},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":968,"h":794},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_1_0036":
+{
+	"frame": {"x":3,"y":799,"w":980,"h":792},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":980,"h":792},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0007":
+{
+	"frame": {"x":3,"y":3,"w":983,"h":792},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":0,"w":983,"h":792},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0008":
+{
+	"frame": {"x":1963,"y":3,"w":975,"h":796},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":0,"w":975,"h":796},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0009":
+{
+	"frame": {"x":987,"y":810,"w":963,"h":799},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":0,"w":963,"h":799},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0010":
+{
+	"frame": {"x":1954,"y":1611,"w":953,"h":803},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":0,"w":953,"h":803},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0011":
+{
+	"frame": {"x":1910,"y":2418,"w":943,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":0,"w":943,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0012":
+{
+	"frame": {"x":2850,"y":3229,"w":935,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":0,"w":935,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0031":
+{
+	"frame": {"x":3,"y":3217,"w":936,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":0,"w":936,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0032":
+{
+	"frame": {"x":960,"y":1613,"w":946,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":0,"w":946,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0033":
+{
+	"frame": {"x":3,"y":1595,"w":953,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":0,"w":953,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+},
+"win_2_0034":
+{
+	"frame": {"x":2942,"y":3,"w":959,"h":807},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":0,"w":959,"h":807},
+	"sourceSize": {"w":1038,"h":807}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusAnimations3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "0.75",
+	"related_multi_packs": [ "bonusAnimations0.json", "bonusAnimations1.json", "bonusAnimations2.json", "bonusAnimations4.json", "bonusAnimations5.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f27116e6cfcedcb71a9eadf2e90e822e:5b9f3b8420aeb4e571ece95e07ebc5ec:969cd85f32ba0afa8d274243b66d3617$"
+}
+}

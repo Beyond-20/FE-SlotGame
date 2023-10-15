@@ -1,0 +1,41 @@
+
+hugewin_newspaper.png
+size: 1913,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newspaper_glow2_00000
+  rotate: true
+  xy: 1530, 492
+  size: 493, 381
+  orig: 534, 423
+  offset: 17, 19
+  index: -1
+newspaper_hege_Win_rotate2_00000
+  rotate: false
+  xy: 1530, 263
+  size: 291, 227
+  orig: 337, 267
+  offset: 21, 21
+  index: -1
+popup_huge_win_newspaper
+  rotate: false
+  xy: 2, 2
+  size: 1326, 983
+  orig: 1328, 985
+  offset: 1, 1
+  index: -1
+popup_huge_win_txt
+  rotate: true
+  xy: 1330, 31
+  size: 954, 198
+  orig: 956, 200
+  offset: 1, 1
+  index: -1
+popup_huge_win_txt_sh
+  rotate: false
+  xy: 1530, 193
+  size: 315, 68
+  orig: 316, 68
+  offset: 0, 0
+  index: -1

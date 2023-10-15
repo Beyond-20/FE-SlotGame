@@ -1,0 +1,31 @@
+{"frames": {
+
+"turtles_00000":
+{
+	"frame": {"x":3,"y":3,"w":323,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":323,"h":283},
+	"sourceSize": {"w":333,"h":283}
+},
+"turtles_00001":
+{
+	"frame": {"x":3,"y":290,"w":263,"h":263},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":9,"w":263,"h":263},
+	"sourceSize": {"w":333,"h":283}
+}},
+"animations": {
+	"turtles": ["turtles_00000","turtles_00001"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbolAnimation_H2.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "0.85",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0181cd1bc7d7f4c734e740c6fa8662f:9179b749112a0e83eaa74637c6db8f9e:809f425718abab067bbaf57145c58f65$"
+}
+}

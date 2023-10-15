@@ -1,0 +1,83 @@
+
+popups.png
+size: 1739,1208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+news_star_glow
+  rotate: true
+  xy: 1431, 866
+  size: 340, 304
+  orig: 500, 500
+  offset: 82, 100
+  index: -1
+newspaper_glow_00000
+  rotate: false
+  xy: 874, 693
+  size: 555, 513
+  orig: 631, 610
+  offset: 36, 37
+  index: -1
+popup_BIG WIN
+  rotate: true
+  xy: 1401, 220
+  size: 324, 144
+  orig: 326, 154
+  offset: 1, 8
+  index: -1
+popup_Newspaper
+  rotate: false
+  xy: 2, 408
+  size: 870, 798
+  orig: 872, 800
+  offset: 1, 1
+  index: -1
+popup_big_win_sh
+  rotate: true
+  xy: 1595, 128
+  size: 321, 142
+  orig: 323, 151
+  offset: 1, 8
+  index: -1
+popup_hUGE WIN
+  rotate: true
+  xy: 1547, 451
+  size: 413, 150
+  orig: 415, 152
+  offset: 1, 1
+  index: -1
+popup_huge_win_big_win
+  rotate: false
+  xy: 938, 155
+  size: 461, 389
+  orig: 464, 392
+  offset: 1, 1
+  index: -1
+popup_luck of the
+  rotate: false
+  xy: 938, 9
+  size: 655, 144
+  orig: 657, 148
+  offset: 1, 3
+  index: -1
+popup_luck of the_sh
+  rotate: false
+  xy: 874, 546
+  size: 655, 145
+  orig: 658, 147
+  offset: 2, 1
+  index: -1
+popup_luck_of_lrisb
+  rotate: false
+  xy: 477, 14
+  size: 459, 392
+  orig: 461, 394
+  offset: 1, 1
+  index: -1
+popup_racetrack_riches
+  rotate: false
+  xy: 2, 2
+  size: 473, 404
+  orig: 476, 408
+  offset: 1, 2
+  index: -1

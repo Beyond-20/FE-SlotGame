@@ -1,0 +1,769 @@
+
+characters.png
+size: 1397,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_horse_closed_eye_l
+  rotate: true
+  xy: 1059, 23
+  size: 36, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+green_horse_closed_eye_r
+  rotate: false
+  xy: 1203, 170
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+green_horse_gold1
+  rotate: false
+  xy: 654, 2
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+green_horse_green_line_top
+  rotate: false
+  xy: 1019, 61
+  size: 67, 29
+  orig: 69, 31
+  offset: 1, 1
+  index: -1
+green_horse_hair_back
+  rotate: true
+  xy: 1094, 271
+  size: 135, 158
+  orig: 141, 170
+  offset: 0, 12
+  index: -1
+green_horse_head
+  rotate: false
+  xy: 232, 278
+  size: 229, 243
+  orig: 229, 243
+  offset: 0, 0
+  index: -1
+green_horse_horse brows
+  rotate: false
+  xy: 840, 65
+  size: 65, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+green_horse_horse fringe
+  rotate: true
+  xy: 1027, 157
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+green_horse_horse left ear
+  rotate: true
+  xy: 1166, 37
+  size: 63, 33
+  orig: 64, 34
+  offset: 0, 1
+  index: -1
+green_horse_horse right ear
+  rotate: false
+  xy: 805, 182
+  size: 40, 73
+  orig: 40, 74
+  offset: 0, 1
+  index: -1
+green_horse_jaw_bot
+  rotate: true
+  xy: 516, 32
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+green_horse_jaw_top
+  rotate: true
+  xy: 1345, 53
+  size: 68, 46
+  orig: 70, 50
+  offset: 1, 1
+  index: -1
+green_horse_line green 3
+  rotate: false
+  xy: 463, 399
+  size: 253, 122
+  orig: 254, 122
+  offset: 1, 0
+  index: -1
+green_horse_pupil_l
+  rotate: true
+  xy: 703, 385
+  size: 12, 13
+  orig: 25, 24
+  offset: 5, 2
+  index: -1
+red_Horse_head_eye_pupil_r
+  rotate: true
+  xy: 703, 385
+  size: 12, 13
+  orig: 25, 24
+  offset: 5, 2
+  index: -1
+green_horse_pupil_r
+  rotate: false
+  xy: 1110, 30
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+green_horse_spec_l
+  rotate: true
+  xy: 1337, 78
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+green_horse_spec_l2
+  rotate: true
+  xy: 676, 2
+  size: 18, 12
+  orig: 25, 21
+  offset: 5, 2
+  index: -1
+green_horse_spec_r
+  rotate: false
+  xy: 840, 59
+  size: 7, 4
+  orig: 9, 6
+  offset: 1, 1
+  index: -1
+green_horse_spec_r2
+  rotate: true
+  xy: 205, 2
+  size: 11, 10
+  orig: 15, 14
+  offset: 2, 3
+  index: -1
+green_horse_white_l
+  rotate: false
+  xy: 1249, 29
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+green_horse_white_r
+  rotate: true
+  xy: 1088, 24
+  size: 15, 20
+  orig: 17, 22
+  offset: 1, 1
+  index: -1
+man_green_beard
+  rotate: false
+  xy: 1254, 255
+  size: 140, 151
+  orig: 161, 198
+  offset: 21, 47
+  index: -1
+man_green_beard pt2
+  rotate: false
+  xy: 1346, 168
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+man_green_blinder
+  rotate: false
+  xy: 463, 280
+  size: 193, 117
+  orig: 195, 121
+  offset: 1, 3
+  index: -1
+man_green_body
+  rotate: false
+  xy: 402, 125
+  size: 125, 151
+  orig: 125, 151
+  offset: 0, 0
+  index: -1
+man_green_brows
+  rotate: true
+  xy: 637, 35
+  size: 84, 33
+  orig: 84, 33
+  offset: 0, 0
+  index: -1
+man_green_ear
+  rotate: false
+  xy: 985, 57
+  size: 32, 39
+  orig: 34, 41
+  offset: 1, 1
+  index: -1
+man_green_hair
+  rotate: false
+  xy: 718, 383
+  size: 192, 138
+  orig: 194, 141
+  offset: 1, 2
+  index: -1
+man_green_hand relax
+  rotate: false
+  xy: 799, 4
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+man_green_headp
+  rotate: false
+  xy: 665, 126
+  size: 138, 129
+  orig: 144, 131
+  offset: 5, 1
+  index: -1
+man_green_inhale
+  rotate: true
+  xy: 1027, 231
+  size: 75, 65
+  orig: 80, 69
+  offset: 2, 2
+  index: -1
+man_green_inside of a hat
+  rotate: true
+  xy: 847, 213
+  size: 168, 58
+  orig: 170, 60
+  offset: 1, 1
+  index: -1
+man_green_l top eyelid cl
+  rotate: true
+  xy: 1011, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+man_green_left arm
+  rotate: true
+  xy: 1094, 102
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+man_green_left fingers
+  rotate: false
+  xy: 137, 2
+  size: 33, 35
+  orig: 35, 37
+  offset: 1, 1
+  index: -1
+man_green_left hand
+  rotate: false
+  xy: 1345, 123
+  size: 50, 43
+  orig: 52, 45
+  offset: 1, 1
+  index: -1
+man_green_left thumb
+  rotate: false
+  xy: 1094, 410
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+man_green_left_leg
+  rotate: true
+  xy: 912, 308
+  size: 126, 180
+  orig: 126, 181
+  offset: 0, 0
+  index: -1
+man_green_line green 1
+  rotate: false
+  xy: 1094, 194
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+man_green_line green 2
+  rotate: false
+  xy: 2, 6
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+man_green_middle
+  rotate: false
+  xy: 390, 21
+  size: 124, 102
+  orig: 127, 108
+  offset: 1, 2
+  index: -1
+man_green_r top eyelid cl
+  rotate: false
+  xy: 976, 28
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+man_green_right arm
+  rotate: true
+  xy: 907, 156
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+man_green_right_leg
+  rotate: true
+  xy: 912, 436
+  size: 85, 223
+  orig: 85, 223
+  offset: 0, 0
+  index: -1
+man_green_small hairs
+  rotate: false
+  xy: 1224, 170
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+man_green_smile
+  rotate: true
+  xy: 1331, 427
+  size: 94, 64
+  orig: 99, 108
+  offset: 2, 2
+  index: -1
+man_green_stick
+  rotate: false
+  xy: 2, 39
+  size: 169, 201
+  orig: 171, 203
+  offset: 1, 1
+  index: -1
+man_red_body_red
+  rotate: true
+  xy: 703, 257
+  size: 124, 142
+  orig: 124, 142
+  offset: 0, 0
+  index: -1
+man_red_head_close_eye_l
+  rotate: true
+  xy: 1351, 10
+  size: 41, 29
+  orig: 47, 30
+  offset: 1, 0
+  index: -1
+man_red_head_close_eye_r
+  rotate: false
+  xy: 1036, 2
+  size: 23, 19
+  orig: 26, 20
+  offset: 2, 0
+  index: -1
+man_red_head_eye_l_spec2
+  rotate: false
+  xy: 1110, 49
+  size: 23, 15
+  orig: 28, 20
+  offset: 2, 1
+  index: -1
+man_red_head_eye_r_spec3
+  rotate: true
+  xy: 665, 257
+  size: 21, 18
+  orig: 23, 22
+  offset: 1, 2
+  index: -1
+man_red_head_eye_spec_l
+  rotate: false
+  xy: 1127, 35
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+man_red_head_eye_spec_r
+  rotate: false
+  xy: 217, 3
+  size: 8, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+man_red_head_glass
+  rotate: false
+  xy: 907, 98
+  size: 110, 56
+  orig: 112, 58
+  offset: 1, 1
+  index: -1
+man_red_head_glass_l
+  rotate: false
+  xy: 1331, 412
+  size: 56, 13
+  orig: 58, 15
+  offset: 1, 1
+  index: -1
+man_red_head_glass_r
+  rotate: false
+  xy: 390, 8
+  size: 55, 11
+  orig: 57, 13
+  offset: 1, 1
+  index: -1
+man_red_head_glass_sh
+  rotate: true
+  xy: 658, 280
+  size: 117, 43
+  orig: 119, 45
+  offset: 1, 1
+  index: -1
+man_red_head_hair_top
+  rotate: false
+  xy: 233, 2
+  size: 155, 122
+  orig: 157, 125
+  offset: 1, 2
+  index: -1
+man_red_head_hat_back
+  rotate: true
+  xy: 173, 56
+  size: 184, 58
+  orig: 186, 60
+  offset: 1, 1
+  index: -1
+man_red_head_hat_red
+  rotate: false
+  xy: 1137, 408
+  size: 192, 113
+  orig: 194, 115
+  offset: 1, 1
+  index: -1
+man_red_head_head_def
+  rotate: false
+  xy: 233, 126
+  size: 167, 150
+  orig: 169, 153
+  offset: 1, 2
+  index: -1
+man_red_head_mouth_1
+  rotate: false
+  xy: 1203, 97
+  size: 79, 71
+  orig: 84, 75
+  offset: 2, 2
+  index: -1
+man_red_head_mouth_2
+  rotate: true
+  xy: 847, 143
+  size: 68, 58
+  orig: 71, 60
+  offset: 2, 1
+  index: -1
+man_red_head_mouth_3
+  rotate: true
+  xy: 745, 60
+  size: 64, 55
+  orig: 67, 115
+  offset: 1, 1
+  index: -1
+man_red_head_pupil_l
+  rotate: false
+  xy: 1061, 2
+  size: 20, 19
+  orig: 22, 21
+  offset: 1, 1
+  index: -1
+man_red_head_pupil_r
+  rotate: false
+  xy: 685, 261
+  size: 16, 17
+  orig: 18, 19
+  offset: 1, 1
+  index: -1
+man_red_head_white_l
+  rotate: false
+  xy: 1019, 29
+  size: 38, 30
+  orig: 40, 33
+  offset: 1, 2
+  index: -1
+man_red_head_white_r
+  rotate: false
+  xy: 205, 15
+  size: 23, 22
+  orig: 27, 24
+  offset: 2, 1
+  index: -1
+man_red_neck_red
+  rotate: false
+  xy: 1284, 88
+  size: 59, 80
+  orig: 64, 84
+  offset: 2, 4
+  index: -1
+red_Horse_head_brow_l
+  rotate: false
+  xy: 966, 2
+  size: 43, 24
+  orig: 43, 25
+  offset: 0, 1
+  index: -1
+red_Horse_head_brow_r
+  rotate: false
+  xy: 494, 2
+  size: 18, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+red_Horse_head_close_l
+  rotate: true
+  xy: 1254, 58
+  size: 37, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+red_Horse_head_close_r
+  rotate: false
+  xy: 1088, 41
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+red_Horse_head_ear_r
+  rotate: true
+  xy: 867, 3
+  size: 60, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+red_Horse_head_eye_l_spec
+  rotate: false
+  xy: 1351, 2
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+red_Horse_head_eye_l_spec2
+  rotate: false
+  xy: 1382, 43
+  size: 13, 8
+  orig: 22, 14
+  offset: 7, 4
+  index: -1
+red_Horse_head_eye_pupil_l
+  rotate: true
+  xy: 1135, 49
+  size: 15, 16
+  orig: 17, 19
+  offset: 1, 2
+  index: -1
+red_Horse_head_eye_r_spec
+  rotate: false
+  xy: 390, 2
+  size: 7, 4
+  orig: 9, 6
+  offset: 1, 1
+  index: -1
+red_Horse_head_eye_r_spec2
+  rotate: true
+  xy: 1389, 414
+  size: 11, 6
+  orig: 15, 12
+  offset: 2, 3
+  index: -1
+red_Horse_head_green_part
+  rotate: false
+  xy: 590, 2
+  size: 62, 28
+  orig: 65, 31
+  offset: 1, 2
+  index: -1
+red_Horse_head_hair_back
+  rotate: false
+  xy: 529, 121
+  size: 134, 157
+  orig: 139, 168
+  offset: 0, 11
+  index: -1
+red_Horse_head_head
+  rotate: false
+  xy: 2, 242
+  size: 228, 279
+  orig: 228, 279
+  offset: 0, 0
+  index: -1
+red_Horse_head_horse fringe
+  rotate: false
+  xy: 672, 60
+  size: 71, 64
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+red_Horse_head_jaw_bot
+  rotate: true
+  xy: 907, 220
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+red_Horse_head_jaw_top
+  rotate: false
+  xy: 843, 99
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+red_Horse_head_white_l
+  rotate: false
+  xy: 1249, 2
+  size: 29, 25
+  orig: 32, 27
+  offset: 2, 1
+  index: -1
+red_Horse_head_white_r
+  rotate: true
+  xy: 1224, 255
+  size: 14, 19
+  orig: 16, 21
+  offset: 1, 1
+  index: -1
+smoke_00000
+  rotate: false
+  xy: 447, 8
+  size: 45, 11
+  orig: 94, 40
+  offset: 1, 7
+  index: -1
+smoke_00001
+  rotate: false
+  xy: 173, 39
+  size: 56, 15
+  orig: 94, 40
+  offset: 3, 7
+  index: -1
+smoke_00002
+  rotate: false
+  xy: 898, 5
+  size: 66, 23
+  orig: 94, 40
+  offset: 6, 5
+  index: -1
+smoke_00003
+  rotate: false
+  xy: 1019, 92
+  size: 69, 27
+  orig: 94, 40
+  offset: 8, 4
+  index: -1
+smoke_00004
+  rotate: false
+  xy: 516, 2
+  size: 72, 28
+  orig: 94, 40
+  offset: 10, 4
+  index: -1
+smoke_00005
+  rotate: false
+  xy: 907, 64
+  size: 76, 32
+  orig: 94, 40
+  offset: 11, 4
+  index: -1
+smoke_00006
+  rotate: false
+  xy: 898, 30
+  size: 76, 32
+  orig: 94, 40
+  offset: 11, 4
+  index: -1
+smoke_00007
+  rotate: false
+  xy: 672, 25
+  size: 77, 33
+  orig: 94, 40
+  offset: 11, 4
+  index: -1
+smoke_00008
+  rotate: false
+  xy: 1019, 121
+  size: 73, 33
+  orig: 94, 40
+  offset: 15, 4
+  index: -1
+smoke_00009
+  rotate: false
+  xy: 1090, 66
+  size: 74, 34
+  orig: 94, 40
+  offset: 15, 3
+  index: -1
+smoke_00010
+  rotate: true
+  xy: 805, 120
+  size: 60, 36
+  orig: 94, 40
+  offset: 30, 2
+  index: -1
+smoke_00011
+  rotate: true
+  xy: 802, 59
+  size: 59, 36
+  orig: 94, 40
+  offset: 31, 2
+  index: -1
+smoke_00012
+  rotate: false
+  xy: 1201, 59
+  size: 51, 36
+  orig: 94, 40
+  offset: 39, 2
+  index: -1
+smoke_00013
+  rotate: false
+  xy: 1284, 50
+  size: 51, 36
+  orig: 94, 40
+  offset: 40, 2
+  index: -1
+smoke_00014
+  rotate: false
+  xy: 751, 22
+  size: 46, 36
+  orig: 94, 40
+  offset: 46, 2
+  index: -1
+smoke_00015
+  rotate: false
+  xy: 1201, 25
+  size: 46, 32
+  orig: 94, 40
+  offset: 46, 2
+  index: -1
+smoke_00016
+  rotate: true
+  xy: 1284, 2
+  size: 46, 32
+  orig: 94, 40
+  offset: 47, 2
+  index: -1
+smoke_00017
+  rotate: true
+  xy: 1318, 2
+  size: 46, 31
+  orig: 94, 40
+  offset: 47, 2
+  index: -1
+smoke_00018
+  rotate: true
+  xy: 172, 2
+  size: 35, 31
+  orig: 94, 40
+  offset: 58, 2
+  index: -1
+smoke_00019
+  rotate: false
+  xy: 1245, 258
+  size: 7, 11
+  orig: 94, 40
+  offset: 81, 3
+  index: -1

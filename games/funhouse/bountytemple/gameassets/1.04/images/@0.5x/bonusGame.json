@@ -1,0 +1,44 @@
+{"frames": {
+
+"bonusbg":
+{
+	"frame": {"x":3,"y":1288,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720}
+},
+"bonusbg_P":
+{
+	"frame": {"x":1288,"y":3,"w":720,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1280},
+	"sourceSize": {"w":720,"h":1280}
+},
+"bonusGameBG":
+{
+	"frame": {"x":3,"y":3,"w":1281,"h":1281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1281,"h":1281},
+	"sourceSize": {"w":1281,"h":1281}
+},
+"bonuswinbg":
+{
+	"frame": {"x":1288,"y":1287,"w":390,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":100},
+	"sourceSize": {"w":390,"h":100}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusGame.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:84661673012b060f55fda07f35c9efb0:52f4e4b6b307f7c9d52585cda0c3459d:6c7e3eaec8e4961517ed4bb7d30c701c$"
+}
+}

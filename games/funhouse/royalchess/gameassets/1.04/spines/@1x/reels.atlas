@@ -1,0 +1,118 @@
+
+reels.png
+size: 1822,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chess_reel_crown
+  rotate: true
+  xy: 914, 23
+  size: 238, 64
+  orig: 240, 66
+  offset: 1, 1
+  index: -1
+chess_reel_gold bot l
+  rotate: false
+  xy: 2, 2
+  size: 803, 73
+  orig: 806, 75
+  offset: 1, 1
+  index: -1
+chess_reel_gold top l
+  rotate: true
+  xy: 2, 358
+  size: 678, 1077
+  orig: 680, 1079
+  offset: 1, 1
+  index: -1
+chess_reel_shadow gold bot
+  rotate: true
+  xy: 370, 181
+  size: 78, 44
+  orig: 80, 48
+  offset: 1, 1
+  index: -1
+chess_reel_squares
+  rotate: false
+  xy: 1081, 39
+  size: 640, 997
+  orig: 642, 999
+  offset: 1, 1
+  index: -1
+reel_saber_00000
+  rotate: false
+  xy: 1723, 20
+  size: 92, 129
+  orig: 138, 592
+  offset: 21, 441
+  index: -1
+reel_saber_00001
+  rotate: false
+  xy: 1723, 151
+  size: 95, 208
+  orig: 138, 592
+  offset: 20, 360
+  index: -1
+reel_saber_00002
+  rotate: false
+  xy: 1723, 361
+  size: 97, 296
+  orig: 138, 592
+  offset: 21, 270
+  index: -1
+reel_saber_00003
+  rotate: false
+  xy: 1723, 659
+  size: 97, 377
+  orig: 138, 592
+  offset: 20, 187
+  index: -1
+reel_saber_00004
+  rotate: true
+  xy: 2, 261
+  size: 95, 456
+  orig: 138, 592
+  offset: 22, 107
+  index: -1
+reel_saber_00005
+  rotate: true
+  xy: 460, 263
+  size: 93, 530
+  orig: 138, 592
+  offset: 22, 32
+  index: -1
+reel_saber_00006
+  rotate: true
+  xy: 460, 167
+  size: 94, 452
+  orig: 138, 592
+  offset: 21, 33
+  index: -1
+reel_saber_00007
+  rotate: true
+  xy: 2, 168
+  size: 91, 366
+  orig: 138, 592
+  offset: 24, 33
+  index: -1
+reel_saber_00008
+  rotate: true
+  xy: 2, 77
+  size: 89, 291
+  orig: 138, 592
+  offset: 26, 32
+  index: -1
+reel_saber_00009
+  rotate: false
+  xy: 992, 151
+  size: 81, 205
+  orig: 138, 592
+  offset: 33, 33
+  index: -1
+reel_saber_00010
+  rotate: false
+  xy: 980, 25
+  size: 77, 124
+  orig: 138, 592
+  offset: 35, 32
+  index: -1

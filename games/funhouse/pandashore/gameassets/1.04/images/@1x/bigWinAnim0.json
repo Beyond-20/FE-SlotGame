@@ -1,0 +1,64 @@
+{"frames": {
+
+"big_win_loop_000":
+{
+	"frame": {"x":3,"y":3,"w":1880,"h":1257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":229,"w":1880,"h":1257},
+	"sourceSize": {"w":2731,"h":1536}
+},
+"big_win_loop_001":
+{
+	"frame": {"x":1887,"y":3,"w":1880,"h":1257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":229,"w":1880,"h":1257},
+	"sourceSize": {"w":2731,"h":1536}
+},
+"big_win_loop_002":
+{
+	"frame": {"x":3,"y":1264,"w":1880,"h":1257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":229,"w":1880,"h":1257},
+	"sourceSize": {"w":2731,"h":1536}
+},
+"big_win_loop_003":
+{
+	"frame": {"x":3,"y":2525,"w":1880,"h":1257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":229,"w":1880,"h":1257},
+	"sourceSize": {"w":2731,"h":1536}
+},
+"big_win_loop_004":
+{
+	"frame": {"x":1887,"y":1264,"w":1880,"h":1257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":229,"w":1880,"h":1257},
+	"sourceSize": {"w":2731,"h":1536}
+},
+"big_win_loop_005":
+{
+	"frame": {"x":1887,"y":2525,"w":1880,"h":1257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":229,"w":1880,"h":1257},
+	"sourceSize": {"w":2731,"h":1536}
+}},
+"animations": {
+	"big_win_loop": ["big_win_loop_000","big_win_loop_001","big_win_loop_002","big_win_loop_003","big_win_loop_004","big_win_loop_005","big_win_loop_006","big_win_loop_007","big_win_loop_008","big_win_loop_009","big_win_loop_010","big_win_loop_011","big_win_loop_012","big_win_loop_013","big_win_loop_014","big_win_loop_015","big_win_loop_016","big_win_loop_017","big_win_loop_018","big_win_loop_019","big_win_loop_020","big_win_loop_021","big_win_loop_022","big_win_loop_023","big_win_loop_024","big_win_loop_025","big_win_loop_026","big_win_loop_027","big_win_loop_028","big_win_loop_029"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bigWinAnim0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "bigWinAnim1.json", "bigWinAnim2.json", "bigWinAnim3.json", "bigWinAnim4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:08b393bf1d717c4a6126bd1e8af179d2:9319ae0dd8e9a4c34499b4bf494d2dae:ebbfe9a94f7bb49351b030bdff29988b$"
+}
+}

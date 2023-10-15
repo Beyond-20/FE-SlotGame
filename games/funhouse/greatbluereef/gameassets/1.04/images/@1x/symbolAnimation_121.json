@@ -1,0 +1,53 @@
+{"frames": {
+
+"an_scatter_win_22":
+{
+	"frame": {"x":3,"y":3,"w":316,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":113,"w":316,"h":302},
+	"sourceSize": {"w":544,"h":503}
+},
+"an_scatter_win_23":
+{
+	"frame": {"x":323,"y":3,"w":316,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":113,"w":316,"h":302},
+	"sourceSize": {"w":544,"h":503}
+},
+"an_scatter_win_24":
+{
+	"frame": {"x":643,"y":3,"w":316,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":113,"w":316,"h":302},
+	"sourceSize": {"w":544,"h":503}
+},
+"an_scatter_win_25":
+{
+	"frame": {"x":3,"y":309,"w":316,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":113,"w":316,"h":302},
+	"sourceSize": {"w":544,"h":503}
+},
+"an_scatter_win_26":
+{
+	"frame": {"x":3,"y":615,"w":316,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":113,"w":316,"h":302},
+	"sourceSize": {"w":544,"h":503}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_121.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "symbolAnimation_120.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e268820414c180c8df35782e58ed565e:3e1cf212605b49dfeb952a4f75bb926e:1757c8c6eae666867375c47259dbb416$"
+}
+}

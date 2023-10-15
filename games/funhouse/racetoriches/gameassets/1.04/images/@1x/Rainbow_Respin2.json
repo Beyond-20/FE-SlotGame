@@ -1,0 +1,125 @@
+{"frames": {
+
+"Rainbow_Respin_00001":
+{
+	"frame": {"x":3009,"y":3477,"w":950,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":933,"y":434,"w":950,"h":322},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00002":
+{
+	"frame": {"x":3009,"y":3144,"w":962,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":905,"y":429,"w":962,"h":329},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00003":
+{
+	"frame": {"x":3078,"y":2789,"w":970,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":877,"y":424,"w":970,"h":351},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00004":
+{
+	"frame": {"x":3078,"y":2420,"w":979,"h":365},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":849,"y":418,"w":979,"h":365},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00009":
+{
+	"frame": {"x":1548,"y":2420,"w":1526,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":218,"w":1526,"h":637},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00010":
+{
+	"frame": {"x":3,"y":2418,"w":1541,"h":706},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":149,"w":1541,"h":706},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00022":
+{
+	"frame": {"x":1519,"y":3128,"w":1486,"h":788},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":230,"y":67,"w":1486,"h":788},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00023":
+{
+	"frame": {"x":3,"y":3128,"w":1512,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":62,"w":1512,"h":793},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00024":
+{
+	"frame": {"x":3,"y":1618,"w":1592,"h":796},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":59,"w":1592,"h":796},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00025":
+{
+	"frame": {"x":1709,"y":1617,"w":1676,"h":799},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":56,"w":1676,"h":799},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00026":
+{
+	"frame": {"x":3,"y":815,"w":1702,"h":799},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":56,"w":1702,"h":799},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00027":
+{
+	"frame": {"x":1783,"y":812,"w":1726,"h":801},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":54,"w":1726,"h":801},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00028":
+{
+	"frame": {"x":1783,"y":3,"w":1752,"h":805},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":50,"w":1752,"h":805},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00029":
+{
+	"frame": {"x":3,"y":3,"w":1776,"h":808},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":47,"w":1776,"h":808},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Rainbow_Respin2.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "Rainbow_Respin0.json", "Rainbow_Respin1.json", "Rainbow_Respin3.json", "Rainbow_Respin4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba50e73c1a23e6e9a9393359e04cd72a:149f278776a9ef4e02c5245eeea220b2:8286be4d7379b3565690c55effcf4e65$"
+}
+}

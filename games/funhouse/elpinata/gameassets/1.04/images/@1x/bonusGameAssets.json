@@ -1,0 +1,60 @@
+{"frames": {
+
+"Bonus bg":
+{
+	"frame": {"x":3,"y":3,"w":2560,"h":1439},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2560,"h":1439},
+	"sourceSize": {"w":2560,"h":1439}
+},
+"frame":
+{
+	"frame": {"x":3,"y":1446,"w":2556,"h":1106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":2556,"h":1106},
+	"sourceSize": {"w":2558,"h":1113}
+},
+"Pinata glow":
+{
+	"frame": {"x":3039,"y":3,"w":401,"h":383},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":401,"h":383},
+	"sourceSize": {"w":401,"h":383}
+},
+"Pinatarope":
+{
+	"frame": {"x":2796,"y":131,"w":40,"h":703},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":703},
+	"sourceSize": {"w":40,"h":703}
+},
+"TextFieldBig":
+{
+	"frame": {"x":2567,"y":3,"w":468,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":468,"h":124},
+	"sourceSize": {"w":468,"h":124}
+},
+"TextFieldSmall":
+{
+	"frame": {"x":2567,"y":131,"w":225,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":106},
+	"sourceSize": {"w":225,"h":106}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusGameAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:788d3bd771059be73949ae986d0de202:a578d34aee8b1bf3c10427d23aaa2a32:a53a514e8eca62abe29a6a0929b40e63$"
+}
+}

@@ -1,0 +1,31 @@
+{"frames": {
+
+"fish_00000":
+{
+	"frame": {"x":3,"y":3,"w":245,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":245,"h":212},
+	"sourceSize": {"w":250,"h":212}
+},
+"fish_00001":
+{
+	"frame": {"x":3,"y":219,"w":198,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":7,"w":198,"h":197},
+	"sourceSize": {"w":250,"h":212}
+}},
+"animations": {
+	"fish": ["fish_00000","fish_00001"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbolAnimation_H1.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "0.6375",
+	"smartupdate": "$TexturePacker:SmartUpdate:5762e887a64556f6f5bda7ccdffe080b:95b88714d42d2a0207ae1186db0dd60f:5f5b074bf27740d0361c156d09d6535f$"
+}
+}

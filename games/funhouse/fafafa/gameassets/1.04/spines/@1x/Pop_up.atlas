@@ -1,0 +1,48 @@
+
+Pop_up.png
+size: 2310,1999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Popup_bg
+  rotate: false
+  xy: 2, 2
+  size: 768, 593
+  orig: 770, 595
+  offset: 1, 1
+  index: -1
+Popup_frame
+  rotate: false
+  xy: 772, 9
+  size: 768, 586
+  orig: 770, 588
+  offset: 1, 1
+  index: -1
+Popup_left
+  rotate: true
+  xy: 1542, 438
+  size: 157, 766
+  orig: 159, 768
+  offset: 1, 1
+  index: -1
+Popup_right
+  rotate: true
+  xy: 1542, 279
+  size: 157, 766
+  orig: 159, 768
+  offset: 1, 1
+  index: -1
+popup_glow_00038
+  rotate: true
+  xy: 2, 597
+  size: 1400, 1091
+  orig: 1400, 1150
+  offset: 0, 59
+  index: -1
+popup_glow_00048
+  rotate: true
+  xy: 1095, 597
+  size: 1400, 1091
+  orig: 1400, 1150
+  offset: 0, 59
+  index: -1

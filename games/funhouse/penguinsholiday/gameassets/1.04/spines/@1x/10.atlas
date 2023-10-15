@@ -1,0 +1,27 @@
+
+10.png
+size: 444,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 6, 6
+  size: 370, 340
+  orig: 372, 342
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: true
+  xy: 382, 96
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1
+Track_10_Glow
+  rotate: true
+  xy: 382, 32
+  size: 58, 56
+  orig: 80, 80
+  offset: 10, 13
+  index: -1

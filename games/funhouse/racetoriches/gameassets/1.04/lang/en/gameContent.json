@@ -1,0 +1,20 @@
+{
+  "wildText": "WILD can replace any symbols, except the Scatter, to form winning combinations.",
+  "scatterText": "3x SCATTER symbols on reels 1, 3 and 5 triggers the MEGABOARD.",
+  "triggeredText": "YOU'VE TRIGGERED THE" ,
+  "megaboardText": "MEGABOARD",
+  "bonusPopBoxMsg1": "ROLL THE DICE AND GO AROUND THE MEGABOARD TO PERMANENTLY UPGRADE YOUR FREE SPINS ROUND.",
+  "bonusPopBoxMsg2": "STAY AHEAD OF THE CHASING JOCKEY WHILE ADDING WILDS, MYSTERIES, MULTIPLIERS, REMOVED SYMBOLS AND INSTANT WINS.",
+  "bonusPopBoxMsg3": "COMPLETE THREE LAPS WITHOUT GETTING CAUGHT TO REACH BIG MONEY AND MULTIPLY ALL YOUR WINNINGS BY UP TO X10.",
+  "startText": "START",
+  "firstLapText": "FIRST LAP",
+  "secondLapText": "SECOND LAP",
+  "finalLapText": "FINAL LAP",
+  "lapText": "LAP",
+  "extraRollText": "EXTRA ROLL",
+  "megaboardUpgradedText": "MEGABOARD UPGRADED!",
+  "fromFSWin" : "@1r\nfrom MEGA BOARD",
+  "pressAnyWhereText" : "PRESS ANYWHERE TO CONTINUE",
+  "youhavewonText" : "YOU'VE WON",
+  "totalWinText": "TOTAL WIN"
+}

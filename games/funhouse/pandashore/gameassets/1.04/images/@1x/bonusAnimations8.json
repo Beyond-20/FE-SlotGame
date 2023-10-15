@@ -1,0 +1,85 @@
+{"frames": {
+
+"win_1_0009":
+{
+	"frame": {"x":1266,"y":3,"w":1258,"h":1076},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1258,"h":1076},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_1_0010":
+{
+	"frame": {"x":3,"y":3,"w":1259,"h":1076},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":1259,"h":1076},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_1_0011":
+{
+	"frame": {"x":1255,"y":2162,"w":1246,"h":1076},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":1246,"h":1076},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_1_0032":
+{
+	"frame": {"x":2528,"y":1082,"w":1253,"h":1076},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":1253,"h":1076},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_1_0033":
+{
+	"frame": {"x":2505,"y":2162,"w":1251,"h":1068},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1251,"h":1068},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_2_0011":
+{
+	"frame": {"x":2528,"y":3,"w":1256,"h":1075},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":0,"w":1256,"h":1075},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_2_0013":
+{
+	"frame": {"x":3,"y":1083,"w":1237,"h":1075},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":0,"w":1237,"h":1075},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_2_0028":
+{
+	"frame": {"x":1244,"y":1083,"w":1227,"h":1075},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":0,"w":1227,"h":1075},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_2_0031":
+{
+	"frame": {"x":3,"y":2162,"w":1248,"h":1076},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":0,"w":1248,"h":1076},
+	"sourceSize": {"w":1384,"h":1076}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusAnimations8.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "bonusAnimations0.json", "bonusAnimations1.json", "bonusAnimations2.json", "bonusAnimations3.json", "bonusAnimations4.json", "bonusAnimations5.json", "bonusAnimations6.json", "bonusAnimations7.json", "bonusAnimations9.json", "bonusAnimations10.json", "bonusAnimations11.json", "bonusAnimations12.json", "bonusAnimations13.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f27116e6cfcedcb71a9eadf2e90e822e:5b9f3b8420aeb4e571ece95e07ebc5ec:969cd85f32ba0afa8d274243b66d3617$"
+}
+}

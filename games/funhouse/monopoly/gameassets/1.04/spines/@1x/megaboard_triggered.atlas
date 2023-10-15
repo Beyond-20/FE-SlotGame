@@ -1,0 +1,202 @@
+
+megaboard_triggered.png
+size: 1665,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+megaboard_Megaboard
+  rotate: false
+  xy: 751, 220
+  size: 857, 242
+  orig: 859, 245
+  offset: 1, 1
+  index: -1
+megaboard_TRIGGERED
+  rotate: false
+  xy: 966, 38
+  size: 642, 180
+  orig: 644, 183
+  offset: 1, 1
+  index: -1
+megaboard_backs_1
+  rotate: true
+  xy: 919, 8
+  size: 79, 45
+  orig: 81, 47
+  offset: 1, 1
+  index: -1
+megaboard_backs_2
+  rotate: false
+  xy: 648, 16
+  size: 95, 53
+  orig: 98, 55
+  offset: 2, 1
+  index: -1
+megaboard_backs_3
+  rotate: false
+  xy: 836, 89
+  size: 91, 126
+  orig: 93, 128
+  offset: 1, 1
+  index: -1
+megaboard_backs_4
+  rotate: true
+  xy: 1610, 292
+  size: 116, 52
+  orig: 118, 54
+  offset: 1, 1
+  index: -1
+megaboard_backs_5
+  rotate: false
+  xy: 829, 8
+  size: 88, 70
+  orig: 90, 72
+  offset: 1, 1
+  index: -1
+megaboard_backs_6
+  rotate: true
+  xy: 751, 80
+  size: 135, 83
+  orig: 137, 85
+  offset: 1, 1
+  index: -1
+megaboard_chest
+  rotate: false
+  xy: 238, 71
+  size: 511, 391
+  orig: 546, 406
+  offset: 34, 1
+  index: -1
+megaboard_coin_10
+  rotate: false
+  xy: 1610, 138
+  size: 39, 37
+  orig: 43, 42
+  offset: 1, 2
+  index: -1
+megaboard_coin_11
+  rotate: false
+  xy: 966, 2
+  size: 47, 34
+  orig: 51, 39
+  offset: 3, 2
+  index: -1
+megaboard_coin_12
+  rotate: false
+  xy: 303, 7
+  size: 72, 62
+  orig: 75, 66
+  offset: 2, 2
+  index: -1
+megaboard_coin_13
+  rotate: false
+  xy: 1610, 177
+  size: 41, 38
+  orig: 45, 41
+  offset: 2, 1
+  index: -1
+megaboard_coin_15
+  rotate: false
+  xy: 539, 13
+  size: 54, 56
+  orig: 57, 59
+  offset: 1, 2
+  index: -1
+megaboard_coin_16
+  rotate: false
+  xy: 1610, 410
+  size: 53, 52
+  orig: 55, 56
+  offset: 1, 2
+  index: -1
+megaboard_coin_2
+  rotate: true
+  xy: 1050, 4
+  size: 32, 22
+  orig: 35, 24
+  offset: 2, 1
+  index: -1
+megaboard_coin_3
+  rotate: false
+  xy: 1610, 217
+  size: 50, 37
+  orig: 66, 40
+  offset: 2, 2
+  index: -1
+megaboard_coin_4
+  rotate: false
+  xy: 1610, 256
+  size: 51, 34
+  orig: 67, 37
+  offset: 1, 2
+  index: -1
+megaboard_coin_5
+  rotate: false
+  xy: 377, 9
+  size: 46, 60
+  orig: 50, 62
+  offset: 2, 1
+  index: -1
+megaboard_coin_6
+  rotate: true
+  xy: 595, 15
+  size: 54, 51
+  orig: 57, 54
+  offset: 2, 2
+  index: -1
+megaboard_coin_7
+  rotate: false
+  xy: 745, 16
+  size: 82, 53
+  orig: 87, 55
+  offset: 1, 1
+  index: -1
+megaboard_coin_8
+  rotate: false
+  xy: 1074, 11
+  size: 45, 25
+  orig: 48, 27
+  offset: 2, 1
+  index: -1
+megaboard_coin_9
+  rotate: false
+  xy: 483, 12
+  size: 54, 57
+  orig: 56, 61
+  offset: 1, 1
+  index: -1
+megaboard_glow
+  rotate: true
+  xy: 2, 3
+  size: 459, 234
+  orig: 492, 263
+  offset: 16, 14
+  index: -1
+megaboard_lights_1
+  rotate: false
+  xy: 1015, 3
+  size: 33, 33
+  orig: 36, 36
+  offset: 1, 2
+  index: -1
+megaboard_lights_2
+  rotate: true
+  xy: 1121, 11
+  size: 25, 24
+  orig: 28, 28
+  offset: 1, 2
+  index: -1
+megaboard_lights_3
+  rotate: false
+  xy: 238, 6
+  size: 63, 63
+  orig: 66, 67
+  offset: 2, 2
+  index: -1
+megaboard_lights_4
+  rotate: true
+  xy: 425, 12
+  size: 57, 56
+  orig: 63, 59
+  offset: 1, 2
+  index: -1

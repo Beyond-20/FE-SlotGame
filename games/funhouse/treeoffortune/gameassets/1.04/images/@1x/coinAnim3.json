@@ -1,0 +1,45 @@
+{"frames": {
+
+"coins_00012":
+{
+	"frame": {"x":3,"y":3,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+},
+"coins_00013":
+{
+	"frame": {"x":2023,"y":3,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+},
+"coins_00014":
+{
+	"frame": {"x":3,"y":1636,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+},
+"coins_00015":
+{
+	"frame": {"x":2023,"y":1636,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "coinAnim3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "coinAnim0.json", "coinAnim1.json", "coinAnim2.json", "coinAnim4.json", "coinAnim5.json", "coinAnim6.json", "coinAnim7.json", "coinAnim8.json", "coinAnim9.json", "coinAnim10.json", "coinAnim11.json", "coinAnim12.json", "coinAnim13.json", "coinAnim14.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8924c2c773f01b2cff45eb32bd575a59:2d8fddf9971d2886253b18a86f5141d7:cfce0cf03247e418ad7133578208042b$"
+}
+}

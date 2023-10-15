@@ -1,0 +1,375 @@
+{"frames": {
+
+"Girl_00":
+{
+	"frame": {"x":1325,"y":2315,"w":320,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":320,"h":319},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_01":
+{
+	"frame": {"x":3,"y":2372,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":320,"h":320},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_02":
+{
+	"frame": {"x":1670,"y":1990,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":320,"h":320},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_03":
+{
+	"frame": {"x":1000,"y":2012,"w":321,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":40,"w":321,"h":321},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_04":
+{
+	"frame": {"x":1343,"y":1990,"w":323,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":40,"w":323,"h":321},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_05":
+{
+	"frame": {"x":671,"y":2007,"w":325,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":40,"w":325,"h":321},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_06":
+{
+	"frame": {"x":1356,"y":1664,"w":327,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":40,"w":327,"h":322},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_07":
+{
+	"frame": {"x":339,"y":1692,"w":328,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":40,"w":328,"h":323},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_08":
+{
+	"frame": {"x":1695,"y":1338,"w":327,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":40,"w":327,"h":324},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_09":
+{
+	"frame": {"x":680,"y":1679,"w":328,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":41,"w":328,"h":324},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_10":
+{
+	"frame": {"x":3,"y":1716,"w":327,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":41,"w":327,"h":325},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_11":
+{
+	"frame": {"x":334,"y":2019,"w":324,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":40,"w":324,"h":327},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_12":
+{
+	"frame": {"x":662,"y":2332,"w":320,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":320,"h":327},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_13":
+{
+	"frame": {"x":331,"y":2350,"w":320,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":320,"h":325},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_14":
+{
+	"frame": {"x":3,"y":2045,"w":324,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":324,"h":323},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_15":
+{
+	"frame": {"x":1021,"y":1359,"w":331,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":331,"h":324},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_16":
+{
+	"frame": {"x":1438,"y":676,"w":337,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":37,"w":337,"h":330},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_17":
+{
+	"frame": {"x":3,"y":1043,"w":337,"h":336},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":32,"w":337,"h":336},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_18":
+{
+	"frame": {"x":356,"y":669,"w":338,"h":340},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":338,"h":340},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_19":
+{
+	"frame": {"x":724,"y":667,"w":338,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":338,"h":343},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_20":
+{
+	"frame": {"x":3,"y":694,"w":337,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":23,"w":337,"h":345},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_21":
+{
+	"frame": {"x":344,"y":1013,"w":337,"h":342},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":23,"w":337,"h":342},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_22":
+{
+	"frame": {"x":1089,"y":349,"w":345,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":345,"h":345},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_23":
+{
+	"frame": {"x":1451,"y":333,"w":346,"h":339},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":23,"w":346,"h":339},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_24":
+{
+	"frame": {"x":3,"y":346,"w":349,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":23,"w":349,"h":344},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_25":
+{
+	"frame": {"x":1090,"y":3,"w":357,"h":342},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":23,"w":357,"h":342},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_26":
+{
+	"frame": {"x":3,"y":3,"w":359,"h":339},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":29,"w":359,"h":339},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_27":
+{
+	"frame": {"x":728,"y":3,"w":358,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":36,"w":358,"h":325},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_28":
+{
+	"frame": {"x":366,"y":3,"w":358,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":36,"w":358,"h":331},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_29":
+{
+	"frame": {"x":728,"y":332,"w":357,"h":331},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":37,"w":357,"h":331},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_30":
+{
+	"frame": {"x":366,"y":338,"w":354,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":38,"w":354,"h":327},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_31":
+{
+	"frame": {"x":1451,"y":3,"w":348,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":38,"w":348,"h":326},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_32":
+{
+	"frame": {"x":1066,"y":698,"w":335,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":38,"w":335,"h":330},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_33":
+{
+	"frame": {"x":685,"y":1345,"w":332,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":39,"w":332,"h":330},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_34":
+{
+	"frame": {"x":344,"y":1359,"w":332,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":39,"w":332,"h":329},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_35":
+{
+	"frame": {"x":3,"y":1383,"w":332,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":39,"w":332,"h":329},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_36":
+{
+	"frame": {"x":685,"y":1014,"w":333,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":39,"w":333,"h":327},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_37":
+{
+	"frame": {"x":1405,"y":1010,"w":333,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":40,"w":333,"h":324},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_38":
+{
+	"frame": {"x":1022,"y":1032,"w":333,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":40,"w":333,"h":323},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_39":
+{
+	"frame": {"x":1359,"y":1338,"w":332,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":40,"w":332,"h":322},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_40":
+{
+	"frame": {"x":1012,"y":1687,"w":327,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":40,"w":327,"h":321},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_41":
+{
+	"frame": {"x":1687,"y":1666,"w":324,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":40,"w":324,"h":320},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_42":
+{
+	"frame": {"x":986,"y":2337,"w":320,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":320,"h":319},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_43":
+{
+	"frame": {"x":1670,"y":2314,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":40,"w":320,"h":320},
+	"sourceSize": {"w":400,"h":400}
+},
+"Girl_44":
+{
+	"frame": {"x":1310,"y":2638,"w":320,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":320,"h":319},
+	"sourceSize": {"w":400,"h":400}
+}},
+"animations": {
+	"Girl": ["Girl_00","Girl_01","Girl_02","Girl_03","Girl_04","Girl_05","Girl_06","Girl_07","Girl_08","Girl_09","Girl_10","Girl_11","Girl_12","Girl_13","Girl_14","Girl_15","Girl_16","Girl_17","Girl_18","Girl_19","Girl_20","Girl_21","Girl_22","Girl_23","Girl_24","Girl_25","Girl_26","Girl_27","Girl_28","Girl_29","Girl_30","Girl_31","Girl_32","Girl_33","Girl_34","Girl_35","Girl_36","Girl_37","Girl_38","Girl_39","Girl_40","Girl_41","Girl_42","Girl_43","Girl_44"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_4.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2e4c2f045be85bfa86a7a7b2844b19b4:b69c759f5fe9b1ed5ec93b1ddca094a7:3fd7dfd40147a0bb251917adfd1eaa3a$"
+}
+}

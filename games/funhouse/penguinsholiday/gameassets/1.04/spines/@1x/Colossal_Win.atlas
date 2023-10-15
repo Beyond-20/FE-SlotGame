@@ -1,0 +1,146 @@
+
+Colossal_Win.png
+size: 1936,1582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin_10_Colossal_Win
+  rotate: true
+  xy: 1715, 819
+  size: 82, 68
+  orig: 84, 70
+  offset: 1, 1
+  index: -1
+Coin_11_Colossal_Win
+  rotate: true
+  xy: 1715, 1065
+  size: 100, 77
+  orig: 102, 79
+  offset: 1, 1
+  index: -1
+Coin_12_Colossal_Win
+  rotate: true
+  xy: 1788, 1229
+  size: 66, 59
+  orig: 68, 61
+  offset: 1, 1
+  index: -1
+Coin_13_Colossal_Win
+  rotate: true
+  xy: 1715, 1167
+  size: 128, 71
+  orig: 130, 73
+  offset: 1, 1
+  index: -1
+Coin_15_Colossal_Win
+  rotate: false
+  xy: 1164, 29
+  size: 83, 114
+  orig: 85, 116
+  offset: 1, 1
+  index: -1
+Coin_16_Colossal_Win
+  rotate: false
+  xy: 1715, 903
+  size: 71, 80
+  orig: 73, 82
+  offset: 1, 1
+  index: -1
+Coin_1_Colossal_Win
+  rotate: false
+  xy: 1715, 1405
+  size: 191, 175
+  orig: 193, 177
+  offset: 1, 1
+  index: -1
+Coin_2_Colossal_Win
+  rotate: true
+  xy: 1842, 1319
+  size: 84, 58
+  orig: 86, 60
+  offset: 1, 1
+  index: -1
+Coin_3_Colossal_Win
+  rotate: false
+  xy: 1715, 985
+  size: 76, 78
+  orig: 78, 80
+  offset: 1, 1
+  index: -1
+Coin_4_Colossal_Win
+  rotate: true
+  xy: 1249, 36
+  size: 107, 74
+  orig: 109, 76
+  offset: 1, 1
+  index: -1
+Coin_5_Colossal_Win
+  rotate: true
+  xy: 1788, 1178
+  size: 49, 63
+  orig: 52, 65
+  offset: 1, 1
+  index: -1
+Coin_6_Colossal_Win
+  rotate: false
+  xy: 1072, 24
+  size: 90, 119
+  orig: 92, 121
+  offset: 1, 1
+  index: -1
+Coin_7_Colossal_Win
+  rotate: false
+  xy: 1715, 1297
+  size: 125, 106
+  orig: 127, 108
+  offset: 1, 1
+  index: -1
+Coin_8_Colossal_Win
+  rotate: false
+  xy: 1715, 740
+  size: 66, 77
+  orig: 68, 79
+  offset: 1, 1
+  index: -1
+Coin_9_Colossal_Win
+  rotate: true
+  xy: 1715, 653
+  size: 85, 56
+  orig: 87, 58
+  offset: 1, 1
+  index: -1
+Colossal_Win
+  rotate: false
+  xy: 2, 2
+  size: 1068, 180
+  orig: 1072, 182
+  offset: 2, 1
+  index: -1
+Glow_2_Colossal_Win
+  rotate: true
+  xy: 1484, 46
+  size: 598, 450
+  orig: 609, 463
+  offset: 3, 10
+  index: -1
+Glow_Colossal_Win
+  rotate: false
+  xy: 2, 646
+  size: 1711, 934
+  orig: 1713, 962
+  offset: 1, 26
+  index: -1
+Ice_Colossal_Win
+  rotate: false
+  xy: 2, 184
+  size: 1480, 460
+  orig: 1482, 462
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: false
+  xy: 1072, 145
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,22 @@
+{
+    "gamerules": {
+        "rtp": "97.00%.",
+        "lastdate": "14 June 2022",
+        "gamerules2": "50 paylines, pays left to right",
+        "wildRules": "Substitutes for all symbols except SCATTER Stacked on all reels Doubles wins when substitutes",
+        "scatterRules": "Pinata Bonus: Choose 2 out of 6 Pinatas to win extra free game and multiplier Up to 33 Free Spins! Up to x15 Multiplier!",
+        "fishingBonus": "3 or more scatters awards Pinata Bonus!",
+        "fishingBonus1": "3 or more scatter symbols trigger 8 free games with x2 multiplier",
+        "fishingBonus2": "Choose 2 out of 6 Pinatas for extra free games or multiplier",
+        "fishingBonus3": "win up to 33 FREEGAMES or up to 15x MULTIPLIER.",
+        "fishingBonus4": "3 or more scatter symbols during free games spins awards you 15 additional free spins with the same multiplier.",
+        "fishingBonus5": "Extra free spins can be won, infinitely",
+        "highestWin": "Only the highest win pays perline"
+    },
+    "headings": {
+        "gameName": "EL PINATA ",
+        "freeSpins": "FREE SPINS ",
+        "fishingBonusHeading": "Pinata Bonus Round",
+        "winUpto": "WIN UPTO 10,000 X BET"
+    }
+}

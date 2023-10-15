@@ -1,0 +1,48 @@
+{"frames": {
+
+"coins_00000":
+{
+	"frame": {"x":3,"y":3,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+},
+"coins_00001":
+{
+	"frame": {"x":2023,"y":3,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+},
+"coins_00002":
+{
+	"frame": {"x":3,"y":1636,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+},
+"coins_00003":
+{
+	"frame": {"x":2023,"y":1636,"w":2016,"h":1629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2016,"h":1629},
+	"sourceSize": {"w":2016,"h":1629}
+}},
+"animations": {
+	"coins": ["coins_00000","coins_00001","coins_00002","coins_00003","coins_00004","coins_00005","coins_00006","coins_00007","coins_00008","coins_00009","coins_00010","coins_00011","coins_00012","coins_00013","coins_00014","coins_00015","coins_00016","coins_00017","coins_00018","coins_00019","coins_00020","coins_00021","coins_00022","coins_00023","coins_00024","coins_00025","coins_00026","coins_00027","coins_00028","coins_00029","coins_00030","coins_00031","coins_00032","coins_00033","coins_00034","coins_00035","coins_00036","coins_00037","coins_00038","coins_00039","coins_00040","coins_00041","coins_00042","coins_00043","coins_00044","coins_00045","coins_00046","coins_00047","coins_00048","coins_00049","coins_00050","coins_00051","coins_00052","coins_00053","coins_00054","coins_00055","coins_00056","coins_00057"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "coinAnim0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "coinAnim1.json", "coinAnim2.json", "coinAnim3.json", "coinAnim4.json", "coinAnim5.json", "coinAnim6.json", "coinAnim7.json", "coinAnim8.json", "coinAnim9.json", "coinAnim10.json", "coinAnim11.json", "coinAnim12.json", "coinAnim13.json", "coinAnim14.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8924c2c773f01b2cff45eb32bd575a59:2d8fddf9971d2886253b18a86f5141d7:cfce0cf03247e418ad7133578208042b$"
+}
+}

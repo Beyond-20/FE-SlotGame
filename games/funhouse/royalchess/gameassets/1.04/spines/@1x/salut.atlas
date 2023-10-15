@@ -1,0 +1,153 @@
+
+salut.png
+size: 2025,1646
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+popup_salut_00000
+  rotate: true
+  xy: 1646, 77
+  size: 77, 66
+  orig: 608, 590
+  offset: 250, 291
+  index: -1
+popup_salut_00001
+  rotate: true
+  xy: 1500, 1122
+  size: 106, 96
+  orig: 608, 590
+  offset: 237, 270
+  index: -1
+popup_salut_00002
+  rotate: false
+  xy: 1646, 156
+  size: 134, 127
+  orig: 608, 590
+  offset: 224, 250
+  index: -1
+popup_salut_00003
+  rotate: false
+  xy: 1827, 211
+  size: 162, 151
+  orig: 608, 590
+  offset: 209, 242
+  index: -1
+popup_salut_00004
+  rotate: true
+  xy: 1827, 364
+  size: 190, 193
+  orig: 608, 590
+  offset: 194, 219
+  index: -1
+popup_salut_00005
+  rotate: false
+  xy: 1427, 30
+  size: 217, 235
+  orig: 608, 590
+  offset: 179, 195
+  index: -1
+popup_salut_00006
+  rotate: true
+  xy: 1150, 22
+  size: 243, 275
+  orig: 608, 590
+  offset: 165, 172
+  index: -1
+popup_salut_00007
+  rotate: true
+  xy: 1508, 285
+  size: 269, 317
+  orig: 608, 590
+  offset: 151, 147
+  index: -1
+popup_salut_00008
+  rotate: true
+  xy: 1150, 267
+  size: 294, 356
+  orig: 608, 590
+  offset: 138, 127
+  index: -1
+popup_salut_00009
+  rotate: true
+  xy: 1598, 907
+  size: 321, 403
+  orig: 608, 590
+  offset: 123, 97
+  index: -1
+popup_salut_00010
+  rotate: true
+  xy: 1547, 556
+  size: 349, 441
+  orig: 608, 590
+  offset: 107, 74
+  index: -1
+popup_salut_00011
+  rotate: false
+  xy: 770, 25
+  size: 378, 484
+  orig: 608, 590
+  offset: 90, 50
+  index: -1
+popup_salut_00012
+  rotate: true
+  xy: 1500, 1230
+  size: 414, 523
+  orig: 608, 590
+  offset: 73, 26
+  index: -1
+popup_salut_00013
+  rotate: false
+  xy: 540, 1099
+  size: 444, 545
+  orig: 608, 590
+  offset: 56, 11
+  index: -1
+popup_salut_00014
+  rotate: false
+  xy: 531, 511
+  size: 478, 553
+  orig: 608, 590
+  offset: 40, 8
+  index: -1
+popup_salut_00015
+  rotate: false
+  xy: 986, 1102
+  size: 512, 542
+  orig: 608, 590
+  offset: 22, 10
+  index: -1
+popup_salut_00016
+  rotate: false
+  xy: 2, 2
+  size: 534, 503
+  orig: 608, 590
+  offset: 12, 67
+  index: -1
+popup_salut_00017
+  rotate: true
+  xy: 2, 507
+  size: 557, 527
+  orig: 608, 590
+  offset: 10, 58
+  index: -1
+popup_salut_00018
+  rotate: true
+  xy: 2, 1066
+  size: 578, 536
+  orig: 608, 590
+  offset: 12, 54
+  index: -1
+popup_salut_00019
+  rotate: true
+  xy: 1011, 563
+  size: 537, 534
+  orig: 608, 590
+  offset: 63, 55
+  index: -1
+popup_salut_00020
+  rotate: true
+  xy: 538, 3
+  size: 506, 230
+  orig: 608, 590
+  offset: 95, 203
+  index: -1

@@ -1,0 +1,53 @@
+{"frames": {
+
+"Rainbow_Respin_00001":
+{
+	"frame": {"x":1164,"y":254,"w":713,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":700,"y":326,"w":713,"h":242},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Rainbow_Respin_00002":
+{
+	"frame": {"x":1164,"y":3,"w":722,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":322,"w":722,"h":247},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Rainbow_Respin_00010":
+{
+	"frame": {"x":3,"y":3,"w":1157,"h":530},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":112,"w":1157,"h":530},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Rainbow_Respin_00011":
+{
+	"frame": {"x":3,"y":537,"w":1157,"h":530},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":112,"w":1157,"h":530},
+	"sourceSize": {"w":1440,"h":810}
+},
+"Rainbow_Respin_00016":
+{
+	"frame": {"x":3,"y":1071,"w":1103,"h":566},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":76,"w":1103,"h":566},
+	"sourceSize": {"w":1440,"h":810}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Rainbow_Respin2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.75",
+	"related_multi_packs": [ "Rainbow_Respin0.json", "Rainbow_Respin1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba50e73c1a23e6e9a9393359e04cd72a:149f278776a9ef4e02c5245eeea220b2:8286be4d7379b3565690c55effcf4e65$"
+}
+}

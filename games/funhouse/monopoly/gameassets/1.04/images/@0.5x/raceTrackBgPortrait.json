@@ -1,0 +1,20 @@
+{"frames": {
+
+"bonusGamebg_P":
+{
+	"frame": {"x":3,"y":3,"w":958,"h":1008},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":958,"h":1008},
+	"sourceSize": {"w":958,"h":1008}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "raceTrackBgPortrait.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1acd2b50e9cf62e4dd0f56bdd35167c1:be7190ce08d5a5c3dd88c06178e92876:252e745bad986e4ef39e16c12cb701fc$"
+}
+}

@@ -1,0 +1,92 @@
+{"frames": {
+
+"acceptBtn_down":
+{
+	"frame": {"x":227,"y":1796,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":46},
+	"sourceSize": {"w":50,"h":46}
+},
+"acceptBtn_up":
+{
+	"frame": {"x":227,"y":1846,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":46},
+	"sourceSize": {"w":50,"h":46}
+},
+"bigwinbg":
+{
+	"frame": {"x":3,"y":1905,"w":400,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":124},
+	"sourceSize": {"w":400,"h":124}
+},
+"buyBonusBtnBG":
+{
+	"frame": {"x":3,"y":1731,"w":220,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":170},
+	"sourceSize": {"w":220,"h":170}
+},
+"gameOkBtn_up":
+{
+	"frame": {"x":227,"y":1731,"w":113,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":61},
+	"sourceSize": {"w":113,"h":61}
+},
+"reelDecor":
+{
+	"frame": {"x":3,"y":3,"w":970,"h":572},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":970,"h":572},
+	"sourceSize": {"w":970,"h":572}
+},
+"reeldividers":
+{
+	"frame": {"x":3,"y":1155,"w":970,"h":572},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":970,"h":572},
+	"sourceSize": {"w":970,"h":572}
+},
+"reelFrame":
+{
+	"frame": {"x":3,"y":579,"w":970,"h":572},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":970,"h":572},
+	"sourceSize": {"w":970,"h":572}
+},
+"rejectBtn_down":
+{
+	"frame": {"x":281,"y":1796,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":46},
+	"sourceSize": {"w":50,"h":46}
+},
+"rejectBtn_up":
+{
+	"frame": {"x":281,"y":1846,"w":50,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":46},
+	"sourceSize": {"w":50,"h":46}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameElements.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:bd85a4e2475c790759cfac2ac5295e7d:649add5a48eb3adf3b58c92f9b42d5ff:d4c9f6938a9e79974262d6740d5ac280$"
+}
+}

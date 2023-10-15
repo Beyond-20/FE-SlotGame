@@ -1,0 +1,85 @@
+{"frames": {
+
+"scales_loop_0013":
+{
+	"frame": {"x":1362,"y":1058,"w":1353,"h":1054},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":1353,"h":1054},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"scales_loop_0014":
+{
+	"frame": {"x":3,"y":2110,"w":1352,"h":1051},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":1352,"h":1051},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"scales_loop_0016":
+{
+	"frame": {"x":2719,"y":2114,"w":1352,"h":1047},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":1352,"h":1047},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"scales_loop_0018":
+{
+	"frame": {"x":3,"y":3,"w":1355,"h":1052},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":1355,"h":1052},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"scales_loop_0019":
+{
+	"frame": {"x":1362,"y":3,"w":1355,"h":1051},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":1355,"h":1051},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"scales_loop_0022":
+{
+	"frame": {"x":2721,"y":1056,"w":1354,"h":1054},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":0,"w":1354,"h":1054},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_1_0041":
+{
+	"frame": {"x":1359,"y":2116,"w":1351,"h":1054},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":1351,"h":1054},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_2_0000":
+{
+	"frame": {"x":2721,"y":3,"w":1355,"h":1049},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":1355,"h":1049},
+	"sourceSize": {"w":1384,"h":1076}
+},
+"win_2_0002":
+{
+	"frame": {"x":3,"y":1059,"w":1353,"h":1047},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":1353,"h":1047},
+	"sourceSize": {"w":1384,"h":1076}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusAnimations3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "bonusAnimations0.json", "bonusAnimations1.json", "bonusAnimations2.json", "bonusAnimations4.json", "bonusAnimations5.json", "bonusAnimations6.json", "bonusAnimations7.json", "bonusAnimations8.json", "bonusAnimations9.json", "bonusAnimations10.json", "bonusAnimations11.json", "bonusAnimations12.json", "bonusAnimations13.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f27116e6cfcedcb71a9eadf2e90e822e:5b9f3b8420aeb4e571ece95e07ebc5ec:969cd85f32ba0afa8d274243b66d3617$"
+}
+}

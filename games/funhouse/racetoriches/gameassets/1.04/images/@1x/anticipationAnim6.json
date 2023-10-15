@@ -1,0 +1,61 @@
+{"frames": {
+
+"rainbow_00069":
+{
+	"frame": {"x":3,"y":3,"w":494,"h":1243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":1243},
+	"sourceSize": {"w":494,"h":1243}
+},
+"rainbow_00070":
+{
+	"frame": {"x":501,"y":3,"w":494,"h":1243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":1243},
+	"sourceSize": {"w":494,"h":1243}
+},
+"rainbow_00071":
+{
+	"frame": {"x":3,"y":1250,"w":494,"h":1243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":1243},
+	"sourceSize": {"w":494,"h":1243}
+},
+"rainbow_00072":
+{
+	"frame": {"x":501,"y":1250,"w":494,"h":1243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":1243},
+	"sourceSize": {"w":494,"h":1243}
+},
+"rainbow_00073":
+{
+	"frame": {"x":3,"y":2497,"w":494,"h":1243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":1243},
+	"sourceSize": {"w":494,"h":1243}
+},
+"rainbow_00074":
+{
+	"frame": {"x":501,"y":2497,"w":494,"h":1243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":1243},
+	"sourceSize": {"w":494,"h":1243}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "anticipationAnim6.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":4096},
+	"scale": "0.6",
+	"related_multi_packs": [ "anticipationAnim0.json", "anticipationAnim1.json", "anticipationAnim2.json", "anticipationAnim3.json", "anticipationAnim4.json", "anticipationAnim5.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1bba3727e65d4b74d53cdb9f650bfb5b:cbb01ed8180715da7d13ede45a0bc481:71c649afbd022bdb963a0acd591a3343$"
+}
+}

@@ -1,0 +1,90 @@
+
+Mega_Win.png
+size: 1230,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin_1_Mega_Win
+  rotate: true
+  xy: 1005, 3
+  size: 60, 41
+  orig: 62, 43
+  offset: 1, 1
+  index: -1
+Coin_2_Mega_Win
+  rotate: false
+  xy: 1087, 260
+  size: 54, 56
+  orig: 56, 58
+  offset: 1, 1
+  index: -1
+Coin_3_Mega_Win
+  rotate: false
+  xy: 1044, 159
+  size: 35, 45
+  orig: 37, 47
+  offset: 1, 1
+  index: -1
+Coin_4_Mega_Win
+  rotate: false
+  xy: 1044, 118
+  size: 35, 39
+  orig: 37, 41
+  offset: 1, 1
+  index: -1
+Coin_5_Mega_Win
+  rotate: true
+  xy: 1073, 318
+  size: 38, 75
+  orig: 40, 77
+  offset: 1, 1
+  index: -1
+Coin_6_Mega_Win
+  rotate: true
+  xy: 1044, 255
+  size: 60, 41
+  orig: 62, 43
+  offset: 1, 1
+  index: -1
+Coin_7_Mega_Win
+  rotate: true
+  xy: 1044, 206
+  size: 47, 42
+  orig: 49, 44
+  offset: 1, 1
+  index: -1
+Coin_8_Mega_Win
+  rotate: false
+  xy: 1150, 302
+  size: 71, 54
+  orig: 73, 56
+  offset: 1, 1
+  index: -1
+Glow_Mega_Win
+  rotate: false
+  xy: 2, 317
+  size: 1069, 701
+  orig: 1207, 724
+  offset: 99, 22
+  index: -1
+Ice_Mega_Win
+  rotate: false
+  xy: 2, 2
+  size: 1001, 313
+  orig: 1003, 315
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: true
+  xy: 1005, 65
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1
+Mega_Win
+  rotate: true
+  xy: 1073, 358
+  size: 660, 155
+  orig: 663, 158
+  offset: 2, 2
+  index: -1

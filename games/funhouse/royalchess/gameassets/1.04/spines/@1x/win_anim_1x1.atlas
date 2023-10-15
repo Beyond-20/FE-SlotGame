@@ -1,0 +1,111 @@
+
+win_anim_1x1.png
+size: 1262,445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_win_00000
+  rotate: true
+  xy: 1141, 14
+  size: 93, 109
+  orig: 225, 225
+  offset: 66, 58
+  index: -1
+frame_win_00001
+  rotate: false
+  xy: 1141, 109
+  size: 119, 131
+  orig: 225, 225
+  offset: 53, 47
+  index: -1
+frame_win_00002
+  rotate: true
+  xy: 976, 71
+  size: 165, 163
+  orig: 225, 225
+  offset: 30, 31
+  index: -1
+frame_win_00003
+  rotate: false
+  xy: 801, 53
+  size: 173, 179
+  orig: 225, 225
+  offset: 26, 23
+  index: -1
+frame_win_00004
+  rotate: false
+  xy: 612, 33
+  size: 187, 195
+  orig: 225, 225
+  offset: 19, 15
+  index: -1
+frame_win_00005
+  rotate: false
+  xy: 1014, 242
+  size: 193, 201
+  orig: 225, 225
+  offset: 16, 12
+  index: -1
+frame_win_00006
+  rotate: false
+  xy: 815, 238
+  size: 197, 205
+  orig: 225, 225
+  offset: 14, 10
+  index: -1
+frame_win_00007
+  rotate: false
+  xy: 414, 230
+  size: 203, 213
+  orig: 225, 225
+  offset: 11, 6
+  index: -1
+frame_win_00008
+  rotate: false
+  xy: 208, 11
+  size: 204, 213
+  orig: 225, 225
+  offset: 10, 6
+  index: -1
+frame_win_00009
+  rotate: false
+  xy: 2, 226
+  size: 207, 217
+  orig: 225, 225
+  offset: 9, 4
+  index: -1
+frame_win_00010
+  rotate: false
+  xy: 2, 5
+  size: 204, 219
+  orig: 225, 225
+  offset: 10, 3
+  index: -1
+frame_win_00011
+  rotate: false
+  xy: 211, 226
+  size: 201, 217
+  orig: 225, 225
+  offset: 12, 4
+  index: -1
+frame_win_00012
+  rotate: false
+  xy: 414, 15
+  size: 196, 213
+  orig: 225, 225
+  offset: 14, 6
+  index: -1
+frame_win_00013
+  rotate: false
+  xy: 619, 234
+  size: 194, 209
+  orig: 225, 225
+  offset: 16, 8
+  index: -1
+frame_win_00014
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

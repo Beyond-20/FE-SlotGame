@@ -1,0 +1,28 @@
+{"frames": {
+
+"closingdoorleft":
+{
+	"frame": {"x":3,"y":3,"w":641,"h":729},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":641,"h":729},
+	"sourceSize": {"w":641,"h":729}
+},
+"doorleft":
+{
+	"frame": {"x":3,"y":736,"w":641,"h":729},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":641,"h":729},
+	"sourceSize": {"w":641,"h":729}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusGameAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:593269ac4b5b68572ba0c337b452bf00:26248d98c6f205817b4cf51d17f9549c:a53a514e8eca62abe29a6a0929b40e63$"
+}
+}

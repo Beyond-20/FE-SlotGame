@@ -1,0 +1,419 @@
+
+Imperors.png
+size: 1718,1542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 0, 561
+  size: 476, 486
+  orig: 476, 501
+  offset: 0, 15
+  index: -1
+2_00009
+  rotate: false
+  xy: 482, 1073
+  size: 467, 469
+  orig: 476, 501
+  offset: 1, 23
+  index: -1
+3_00016
+  rotate: false
+  xy: 0, 1053
+  size: 476, 489
+  orig: 476, 501
+  offset: 0, 12
+  index: -1
+IMP_Blu_A pair of mustache
+  rotate: false
+  xy: 1572, 14
+  size: 68, 46
+  orig: 70, 48
+  offset: 1, 1
+  index: -1
+IMP_Blu_Bandage
+  rotate: false
+  xy: 551, 142
+  size: 121, 413
+  orig: 121, 413
+  offset: 0, 0
+  index: -1
+IMP_Blu_Bandage_Shadow
+  rotate: false
+  xy: 1228, 639
+  size: 155, 109
+  orig: 157, 111
+  offset: 1, 1
+  index: -1
+IMP_Blu_Beard and hair
+  rotate: false
+  xy: 1454, 574
+  size: 150, 169
+  orig: 152, 171
+  offset: 1, 1
+  index: -1
+IMP_Blu_Body
+  rotate: false
+  xy: 955, 1261
+  size: 341, 281
+  orig: 343, 283
+  offset: 1, 1
+  index: -1
+IMP_Blu_Body_2
+  rotate: false
+  xy: 482, 716
+  size: 285, 351
+  orig: 285, 351
+  offset: 0, 0
+  index: -1
+IMP_Blu_Boot_L
+  rotate: false
+  xy: 384, 0
+  size: 109, 76
+  orig: 111, 78
+  offset: 1, 1
+  index: -1
+IMP_Blu_Boot_L2
+  rotate: true
+  xy: 499, 9
+  size: 84, 46
+  orig: 86, 48
+  offset: 1, 1
+  index: -1
+IMP_Blu_Boot_R
+  rotate: true
+  xy: 1631, 1036
+  size: 109, 82
+  orig: 111, 84
+  offset: 1, 1
+  index: -1
+IMP_Blu_Boot_R2
+  rotate: true
+  xy: 1389, 655
+  size: 88, 59
+  orig: 90, 61
+  offset: 1, 1
+  index: -1
+IMP_Blu_Eyebrows
+  rotate: false
+  xy: 1583, 409
+  size: 132, 159
+  orig: 134, 161
+  offset: 1, 1
+  index: -1
+IMP_Blu_Helmet
+  rotate: false
+  xy: 1381, 1
+  size: 134, 99
+  orig: 136, 101
+  offset: 1, 1
+  index: -1
+IMP_Blu_Helmet s elements_L
+  rotate: false
+  xy: 1628, 749
+  size: 58, 65
+  orig: 60, 67
+  offset: 1, 1
+  index: -1
+IMP_Blu_Helmet s elements_R
+  rotate: true
+  xy: 1628, 820
+  size: 93, 61
+  orig: 95, 63
+  offset: 1, 1
+  index: -1
+IMP_Blu_Layer 23
+  rotate: false
+  xy: 1487, 164
+  size: 105, 203
+  orig: 107, 205
+  offset: 1, 1
+  index: -1
+IMP_Blu_Left
+  rotate: false
+  xy: 1610, 585
+  size: 95, 61
+  orig: 97, 63
+  offset: 1, 1
+  index: -1
+IMP_Blu_Left scurf
+  rotate: false
+  xy: 438, 99
+  size: 107, 456
+  orig: 107, 456
+  offset: 0, 0
+  index: -1
+IMP_Blu_Mouth
+  rotate: true
+  xy: 1694, 1505
+  size: 37, 24
+  orig: 39, 26
+  offset: 1, 1
+  index: -1
+IMP_Blu_Object
+  rotate: true
+  xy: 678, 0
+  size: 169, 245
+  orig: 171, 247
+  offset: 1, 1
+  index: -1
+IMP_Blu_Object_00000
+  rotate: false
+  xy: 965, 134
+  size: 195, 219
+  orig: 230, 263
+  offset: 19, 27
+  index: -1
+IMP_Blu_Right  scurf
+  rotate: false
+  xy: 276, 92
+  size: 156, 463
+  orig: 156, 463
+  offset: 0, 0
+  index: -1
+IMP_Blu_Right hand
+  rotate: true
+  xy: 1635, 75
+  size: 85, 59
+  orig: 87, 61
+  offset: 1, 1
+  index: -1
+IMP_Blu_Robe
+  rotate: true
+  xy: 1253, 754
+  size: 313, 164
+  orig: 313, 164
+  offset: 0, 0
+  index: -1
+IMP_Blu_Sleeve_L
+  rotate: false
+  xy: 1350, 106
+  size: 131, 217
+  orig: 133, 219
+  offset: 1, 1
+  index: -1
+IMP_Blu_sh from Right hand
+  rotate: true
+  xy: 551, 10
+  size: 66, 83
+  orig: 68, 85
+  offset: 1, 1
+  index: -1
+IMP_Blu_sh from object
+  rotate: false
+  xy: 711, 561
+  size: 194, 122
+  orig: 196, 124
+  offset: 1, 1
+  index: -1
+IMP_Blu_sh from scurf
+  rotate: true
+  xy: 551, 82
+  size: 54, 116
+  orig: 56, 118
+  offset: 1, 1
+  index: -1
+IMP_Blu_sh from scurf2
+  rotate: false
+  xy: 1631, 1151
+  size: 69, 175
+  orig: 71, 177
+  offset: 1, 1
+  index: -1
+IMP_Red_Cloth
+  rotate: true
+  xy: 830, 245
+  size: 310, 129
+  orig: 310, 129
+  offset: 0, 0
+  index: -1
+IMP_Red_Elemnts of helmet L
+  rotate: false
+  xy: 276, 0
+  size: 102, 86
+  orig: 104, 88
+  offset: 1, 1
+  index: -1
+IMP_Red_Elemnts of helmet R
+  rotate: true
+  xy: 1521, 0
+  size: 158, 45
+  orig: 160, 47
+  offset: 1, 1
+  index: -1
+IMP_Red_Face
+  rotate: false
+  xy: 1598, 281
+  size: 118, 122
+  orig: 120, 124
+  offset: 1, 1
+  index: -1
+IMP_Red_Gold strips L
+  rotate: true
+  xy: 1628, 919
+  size: 111, 89
+  orig: 113, 91
+  offset: 1, 1
+  index: -1
+IMP_Red_Gold strips R
+  rotate: false
+  xy: 1610, 652
+  size: 108, 91
+  orig: 110, 93
+  offset: 1, 1
+  index: -1
+IMP_Red_Hair
+  rotate: false
+  xy: 1166, 100
+  size: 178, 208
+  orig: 180, 210
+  offset: 1, 1
+  index: -1
+IMP_Red_Helmet
+  rotate: false
+  xy: 1598, 166
+  size: 117, 109
+  orig: 119, 111
+  offset: 1, 1
+  index: -1
+IMP_Red_Left hand
+  rotate: true
+  xy: 1572, 66
+  size: 92, 57
+  orig: 94, 59
+  offset: 1, 1
+  index: -1
+IMP_Red_Left scurf
+  rotate: false
+  xy: 773, 689
+  size: 183, 378
+  orig: 209, 378
+  offset: 0, 0
+  index: -1
+IMP_Red_Mouth
+  rotate: true
+  xy: 1487, 123
+  size: 35, 28
+  orig: 37, 30
+  offset: 1, 1
+  index: -1
+IMP_Red_Object
+  rotate: true
+  xy: 1423, 749
+  size: 325, 199
+  orig: 327, 201
+  offset: 1, 1
+  index: -1
+IMP_Red_Object2_00000
+  rotate: true
+  xy: 965, 359
+  size: 262, 202
+  orig: 262, 216
+  offset: 0, 0
+  index: -1
+IMP_Red_Right hand
+  rotate: false
+  xy: 830, 183
+  size: 122, 56
+  orig: 124, 58
+  offset: 1, 1
+  index: -1
+IMP_Red_Right scurf
+  rotate: true
+  xy: 955, 1073
+  size: 182, 373
+  orig: 182, 373
+  offset: 0, 0
+  index: -1
+IMP_Red_Robe
+  rotate: false
+  xy: 0, 42
+  size: 270, 513
+  orig: 270, 513
+  offset: 0, 0
+  index: -1
+IMP_Red_Scurf shadow L
+  rotate: false
+  xy: 962, 765
+  size: 285, 302
+  orig: 287, 304
+  offset: 1, 1
+  index: -1
+IMP_Red_Scurf shadow R
+  rotate: false
+  xy: 1173, 314
+  size: 135, 307
+  orig: 137, 309
+  offset: 1, 1
+  index: -1
+IMP_Red_Shadow from beard
+  rotate: true
+  xy: 1454, 373
+  size: 195, 123
+  orig: 197, 125
+  offset: 1, 1
+  index: -1
+IMP_Red_Shadow from belt
+  rotate: true
+  xy: 1302, 1332
+  size: 210, 386
+  orig: 210, 389
+  offset: 0, 0
+  index: -1
+IMP_Red_Shadow from big cloth
+  rotate: false
+  xy: 678, 175
+  size: 146, 380
+  orig: 148, 384
+  offset: 1, 2
+  index: -1
+IMP_Red_Shadow from object
+  rotate: false
+  xy: 929, 16
+  size: 225, 112
+  orig: 227, 114
+  offset: 1, 1
+  index: -1
+IMP_Red_Shadow from shoulder
+  rotate: true
+  xy: 1314, 329
+  size: 304, 134
+  orig: 306, 136
+  offset: 1, 1
+  index: -1
+IMP_Red_Shadow from sleeve
+  rotate: false
+  xy: 482, 561
+  size: 223, 149
+  orig: 225, 151
+  offset: 1, 1
+  index: -1
+IMP_Red_Shadow of head
+  rotate: false
+  xy: 1160, 6
+  size: 215, 88
+  orig: 217, 90
+  offset: 1, 1
+  index: -1
+IMP_Red_Sleevs L
+  rotate: true
+  xy: 962, 627
+  size: 132, 260
+  orig: 132, 260
+  offset: 0, 0
+  index: -1
+IMP_Red_Sleevs R
+  rotate: true
+  xy: 1334, 1080
+  size: 246, 291
+  orig: 248, 293
+  offset: 1, 1
+  index: -1
+IMP_Red_sh from Right hand
+  rotate: false
+  xy: 1646, 6
+  size: 66, 63
+  orig: 68, 65
+  offset: 1, 1
+  index: -1

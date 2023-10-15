@@ -1,0 +1,152 @@
+{"frames": {
+
+"payline1":
+{
+	"frame": {"x":3,"y":3921,"w":1430,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":56,"w":1430,"h":44},
+	"sourceSize": {"w":1458,"h":145}
+},
+"payline2":
+{
+	"frame": {"x":3,"y":3969,"w":1430,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":56,"w":1430,"h":44},
+	"sourceSize": {"w":1458,"h":145}
+},
+"payline3":
+{
+	"frame": {"x":3,"y":4017,"w":1430,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":56,"w":1430,"h":44},
+	"sourceSize": {"w":1458,"h":145}
+},
+"payline4":
+{
+	"frame": {"x":1439,"y":582,"w":1431,"h":626},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":13,"w":1431,"h":626},
+	"sourceSize": {"w":1458,"h":662}
+},
+"payline5":
+{
+	"frame": {"x":3,"y":912,"w":1431,"h":626},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":14,"w":1431,"h":626},
+	"sourceSize": {"w":1458,"h":662}
+},
+"payline8":
+{
+	"frame": {"x":1438,"y":1212,"w":1431,"h":588},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":33,"w":1431,"h":588},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline9":
+{
+	"frame": {"x":3,"y":320,"w":1432,"h":588},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":33,"w":1432,"h":588},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline12":
+{
+	"frame": {"x":1438,"y":2381,"w":1430,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":45,"w":1430,"h":304},
+	"sourceSize": {"w":1458,"h":398}
+},
+"payline22":
+{
+	"frame": {"x":3,"y":2696,"w":1430,"h":609},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":23,"w":1430,"h":609},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline23":
+{
+	"frame": {"x":3,"y":3309,"w":1430,"h":608},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":23,"w":1430,"h":608},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline27":
+{
+	"frame": {"x":3,"y":1542,"w":1431,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":40,"w":1431,"h":573},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline35":
+{
+	"frame": {"x":1438,"y":1804,"w":1431,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":40,"w":1431,"h":573},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline36":
+{
+	"frame": {"x":3,"y":2119,"w":1431,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":40,"w":1431,"h":573},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline37":
+{
+	"frame": {"x":1437,"y":2696,"w":1431,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":40,"w":1431,"h":573},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline38":
+{
+	"frame": {"x":1437,"y":3273,"w":1431,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":40,"w":1431,"h":573},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline39":
+{
+	"frame": {"x":1452,"y":3,"w":1434,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":40,"w":1434,"h":575},
+	"sourceSize": {"w":1458,"h":649}
+},
+"payline46":
+{
+	"frame": {"x":3,"y":3,"w":1445,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":41,"w":1445,"h":313},
+	"sourceSize": {"w":1458,"h":649}
+}},
+"animations": {
+	"payline": ["payline1","payline2","payline3","payline4","payline5","payline6","payline7","payline8","payline9","payline10","payline11","payline12","payline13","payline14","payline15","payline16","payline17","payline18","payline19","payline20","payline21","payline22","payline23","payline24","payline25","payline26","payline27","payline28","payline29","payline30","payline31","payline32","payline33","payline34","payline35","payline36","payline37","payline38","payline39","payline40","payline41","payline42","payline43","payline44","payline45","payline46","payline47","payline48","payline49","payline50"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paylineAssets0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "paylineAssets1.json", "paylineAssets2.json", "paylineAssets3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c889a9c3f71f1d6468c5a8b9975750d8:c6cf88fc9d7d15b15c1fafa127fa9c9e:92e1832b22b64bfa0c55da8fb1d99797$"
+}
+}

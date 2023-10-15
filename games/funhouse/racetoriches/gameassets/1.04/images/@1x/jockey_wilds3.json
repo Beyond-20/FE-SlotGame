@@ -1,0 +1,101 @@
+{"frames": {
+
+"Jockey_Wilds_00006":
+{
+	"frame": {"x":1487,"y":2651,"w":1369,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":440,"y":417,"w":1369,"h":438},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00007":
+{
+	"frame": {"x":1487,"y":2167,"w":1470,"h":480},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":375,"w":1470,"h":480},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00008":
+{
+	"frame": {"x":1518,"y":3,"w":1504,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":287,"w":1504,"h":568},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00012":
+{
+	"frame": {"x":3,"y":3,"w":1511,"h":728},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":127,"w":1511,"h":728},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00018":
+{
+	"frame": {"x":1482,"y":3108,"w":1473,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":234,"y":89,"w":1473,"h":766},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00019":
+{
+	"frame": {"x":3,"y":3108,"w":1475,"h":776},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":79,"w":1475,"h":776},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00020":
+{
+	"frame": {"x":3,"y":1532,"w":1480,"h":784},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":71,"w":1480,"h":784},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00021":
+{
+	"frame": {"x":3,"y":2320,"w":1480,"h":784},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":71,"w":1480,"h":784},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00022":
+{
+	"frame": {"x":1498,"y":1375,"w":1486,"h":788},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":230,"y":67,"w":1486,"h":788},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00023":
+{
+	"frame": {"x":3,"y":735,"w":1491,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":62,"w":1491,"h":793},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Jockey_Wilds_00024":
+{
+	"frame": {"x":1518,"y":575,"w":1496,"h":796},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":225,"y":59,"w":1496,"h":796},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "jockey_wilds3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "jockey_wilds0.json", "jockey_wilds1.json", "jockey_wilds2.json", "jockey_wilds4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:481eca5dd79ecd34084c230e14a65ad6:2cb68992beec66793de5e2cd9e65a3f8:7f7f46a5e29c49ecd8caace5fe433989$"
+}
+}

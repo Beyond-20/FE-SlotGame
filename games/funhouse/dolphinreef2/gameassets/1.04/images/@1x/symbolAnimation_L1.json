@@ -1,0 +1,31 @@
+{"frames": {
+
+"a_00000":
+{
+	"frame": {"x":3,"y":3,"w":285,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":11,"w":285,"h":264},
+	"sourceSize": {"w":333,"h":283}
+},
+"a_00001":
+{
+	"frame": {"x":3,"y":271,"w":225,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":41,"w":225,"h":202},
+	"sourceSize": {"w":333,"h":283}
+}},
+"animations": {
+	"a": ["a_00000","a_00001"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbolAnimation_L1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.85",
+	"smartupdate": "$TexturePacker:SmartUpdate:3172b003e8fa19a4399acae138c3a276:c46e1e64272e9733504e155611883328:43f964ee15d693f94235b0d61aeb4ac6$"
+}
+}

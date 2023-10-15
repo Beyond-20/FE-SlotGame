@@ -1,0 +1,21 @@
+{"frames": {
+
+"colossal_win_loop_000":
+{
+	"frame": {"x":1,"y":1,"w":2392,"h":1532},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":4,"w":2392,"h":1532},
+	"sourceSize": {"w":2731,"h":1536}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "otherWins1.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "otherWins0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:6fe4e946d31899ac53f3423bd5c416c7:5455f9c3722235fe8094df103fb6be7e:ff174f185dde49d2e63d1a9ab61cdd3f$"
+}
+}

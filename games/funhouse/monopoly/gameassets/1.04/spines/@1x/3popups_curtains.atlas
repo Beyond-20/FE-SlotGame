@@ -1,0 +1,139 @@
+
+3popups_curtains.png
+size: 1937,1628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+monopoly_wilds_monopoly
+  rotate: false
+  xy: 2, 2
+  size: 874, 206
+  orig: 876, 209
+  offset: 1, 2
+  index: -1
+monopoly_wilds_star1
+  rotate: false
+  xy: 1761, 642
+  size: 31, 31
+  orig: 35, 35
+  offset: 2, 2
+  index: -1
+monopoly_wilds_star2
+  rotate: false
+  xy: 1025, 175
+  size: 33, 33
+  orig: 37, 37
+  offset: 3, 2
+  index: -1
+monopoly_wilds_wilds
+  rotate: false
+  xy: 1151, 288
+  size: 523, 207
+  orig: 525, 210
+  offset: 1, 2
+  index: -1
+rainbow_respin_rainbow
+  rotate: false
+  xy: 1151, 810
+  size: 784, 317
+  orig: 788, 321
+  offset: 2, 2
+  index: -1
+rainbow_respin_raindow
+  rotate: false
+  xy: 2, 1129
+  size: 1931, 497
+  orig: 2036, 565
+  offset: 88, 40
+  index: -1
+rainbow_respin_respin
+  rotate: false
+  xy: 1151, 497
+  size: 608, 311
+  orig: 612, 315
+  offset: 2, 2
+  index: -1
+transition_curtain_r
+  rotate: true
+  xy: 2, 210
+  size: 917, 1147
+  orig: 917, 1147
+  offset: 0, 0
+  index: -1
+win_spin_coin_
+  rotate: false
+  xy: 878, 2
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+win_spin_coin_2
+  rotate: false
+  xy: 1843, 759
+  size: 49, 49
+  orig: 51, 52
+  offset: 1, 1
+  index: -1
+win_spin_coin_3
+  rotate: false
+  xy: 966, 140
+  size: 57, 68
+  orig: 59, 71
+  offset: 1, 1
+  index: -1
+win_spin_coin_4
+  rotate: false
+  xy: 1609, 214
+  size: 64, 72
+  orig: 66, 75
+  offset: 1, 1
+  index: -1
+win_spin_coin_5
+  rotate: false
+  xy: 1761, 732
+  size: 80, 76
+  orig: 82, 78
+  offset: 1, 1
+  index: -1
+win_spin_coin_6
+  rotate: false
+  xy: 878, 38
+  size: 60, 72
+  orig: 62, 76
+  offset: 1, 2
+  index: -1
+win_spin_coin_7
+  rotate: false
+  xy: 1609, 165
+  size: 46, 47
+  orig: 49, 49
+  offset: 2, 1
+  index: -1
+win_spin_coin_8
+  rotate: false
+  xy: 1761, 675
+  size: 49, 55
+  orig: 52, 58
+  offset: 2, 1
+  index: -1
+win_spin_coin_9
+  rotate: false
+  xy: 878, 112
+  size: 86, 96
+  orig: 89, 99
+  offset: 2, 1
+  index: -1
+win_spin_spin
+  rotate: false
+  xy: 1151, 56
+  size: 456, 230
+  orig: 458, 232
+  offset: 1, 1
+  index: -1
+win_spin_win
+  rotate: true
+  xy: 1676, 115
+  size: 380, 229
+  orig: 382, 233
+  offset: 1, 2
+  index: -1

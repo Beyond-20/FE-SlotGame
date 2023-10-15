@@ -1,0 +1,37 @@
+{"frames": {
+
+"SCRrtt 2_00075":
+{
+	"frame": {"x":3,"y":3,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+"SCRrtt 2_00076":
+{
+	"frame": {"x":3,"y":757,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+},
+"SCRrtt 2_00077":
+{
+	"frame": {"x":757,"y":3,"w":750,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":750},
+	"sourceSize": {"w":750,"h":750}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "noportraitAssets3.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.5",
+	"related_multi_packs": [ "noportraitAssets0.json", "noportraitAssets1.json", "noportraitAssets2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e84fd5d6cd87bb74e9e41272b857e699:0bd0c56ef381200eccea653d137faecb:5592d1099d0dc590173b643cdca83683$"
+}
+}

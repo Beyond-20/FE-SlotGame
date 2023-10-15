@@ -1,0 +1,37 @@
+{"frames": {
+
+"freebg":
+{
+	"frame": {"x":3,"y":3,"w":3500,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":3500,"h":1440},
+	"sourceSize": {"w":3500,"h":1440}
+},
+"freebg_P":
+{
+	"frame": {"x":3,"y":1447,"w":1440,"h":2560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":2560},
+	"sourceSize": {"w":1440,"h":2560}
+},
+"mainbg_P":
+{
+	"frame": {"x":1447,"y":1447,"w":1440,"h":2560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":2560},
+	"sourceSize": {"w":1440,"h":2560}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gamebg0.jpg",
+	"format": "RGB888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "gamebg1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:41727b555ac4328e1a8a3a33efcdd54a:f80c08552f509acdec354f6d5e01b8f4:b5e69af933b413f036501f9be12315e8$"
+}
+}

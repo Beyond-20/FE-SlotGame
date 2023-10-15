@@ -1,0 +1,1014 @@
+
+King.png
+size: 2001,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+King_showlder_sweep_00000
+  rotate: true
+  xy: 1400, 123
+  size: 2, 4
+  orig: 59, 39
+  offset: 56, 13
+  index: -1
+King_showlder_sweep_00001
+  rotate: false
+  xy: 1993, 482
+  size: 6, 10
+  orig: 59, 39
+  offset: 52, 9
+  index: -1
+King_showlder_sweep_00002
+  rotate: false
+  xy: 1426, 219
+  size: 10, 16
+  orig: 59, 39
+  offset: 48, 4
+  index: -1
+King_showlder_sweep_00003
+  rotate: false
+  xy: 1324, 475
+  size: 14, 20
+  orig: 59, 39
+  offset: 44, 1
+  index: -1
+King_showlder_sweep_00004
+  rotate: true
+  xy: 1895, 474
+  size: 18, 23
+  orig: 59, 39
+  offset: 40, 1
+  index: -1
+King_showlder_sweep_00005
+  rotate: false
+  xy: 1031, 2
+  size: 22, 25
+  orig: 59, 39
+  offset: 36, 1
+  index: -1
+King_showlder_sweep_00006
+  rotate: true
+  xy: 1001, 19
+  size: 27, 28
+  orig: 59, 39
+  offset: 31, 1
+  index: -1
+King_showlder_sweep_00007
+  rotate: false
+  xy: 1784, 7
+  size: 31, 31
+  orig: 59, 39
+  offset: 27, 1
+  index: -1
+King_showlder_sweep_00008
+  rotate: false
+  xy: 1735, 64
+  size: 35, 33
+  orig: 59, 39
+  offset: 23, 1
+  index: -1
+King_showlder_sweep_00009
+  rotate: false
+  xy: 1823, 58
+  size: 39, 35
+  orig: 59, 39
+  offset: 19, 1
+  index: -1
+King_showlder_sweep_00010
+  rotate: false
+  xy: 1889, 631
+  size: 43, 36
+  orig: 59, 39
+  offset: 15, 1
+  index: -1
+King_showlder_sweep_00011
+  rotate: true
+  xy: 1633, 68
+  size: 48, 37
+  orig: 59, 39
+  offset: 10, 1
+  index: -1
+King_showlder_sweep_00012
+  rotate: false
+  xy: 680, 7
+  size: 51, 37
+  orig: 59, 39
+  offset: 5, 1
+  index: -1
+King_showlder_sweep_00013
+  rotate: true
+  xy: 1597, 13
+  size: 52, 36
+  orig: 59, 39
+  offset: 1, 2
+  index: -1
+King_showlder_sweep_00014
+  rotate: false
+  xy: 1864, 75
+  size: 48, 35
+  orig: 59, 39
+  offset: 1, 3
+  index: -1
+King_showlder_sweep_00015
+  rotate: false
+  xy: 1933, 47
+  size: 45, 32
+  orig: 59, 39
+  offset: 1, 6
+  index: -1
+King_showlder_sweep_00016
+  rotate: true
+  xy: 1651, 431
+  size: 42, 30
+  orig: 59, 39
+  offset: 1, 8
+  index: -1
+King_showlder_sweep_00017
+  rotate: true
+  xy: 1582, 120
+  size: 39, 28
+  orig: 59, 39
+  offset: 1, 10
+  index: -1
+King_showlder_sweep_00018
+  rotate: true
+  xy: 1769, 201
+  size: 37, 25
+  orig: 59, 39
+  offset: 1, 13
+  index: -1
+King_showlder_sweep_00019
+  rotate: false
+  xy: 1669, 38
+  size: 34, 24
+  orig: 59, 39
+  offset: 1, 14
+  index: -1
+King_showlder_sweep_00020
+  rotate: false
+  xy: 1705, 38
+  size: 32, 24
+  orig: 59, 39
+  offset: 1, 14
+  index: -1
+King_showlder_sweep_00021
+  rotate: false
+  xy: 1739, 39
+  size: 30, 23
+  orig: 59, 39
+  offset: 1, 15
+  index: -1
+King_showlder_sweep_00022
+  rotate: true
+  xy: 1914, 34
+  size: 26, 17
+  orig: 59, 39
+  offset: 2, 21
+  index: -1
+King_showlder_sweep_00023
+  rotate: false
+  xy: 1401, 2
+  size: 20, 11
+  orig: 59, 39
+  offset: 4, 27
+  index: -1
+King_showlder_sweep_00024
+  rotate: true
+  xy: 1997, 224
+  size: 4, 2
+  orig: 59, 39
+  offset: 11, 35
+  index: -1
+king_beard
+  rotate: false
+  xy: 1635, 12
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+king_beard2
+  rotate: false
+  xy: 1864, 38
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+king_beard3
+  rotate: false
+  xy: 1508, 242
+  size: 173, 149
+  orig: 173, 149
+  offset: 0, 0
+  index: -1
+king_bg
+  rotate: true
+  xy: 2, 536
+  size: 334, 1344
+  orig: 334, 1344
+  offset: 0, 0
+  index: -1
+king_big finger
+  rotate: true
+  xy: 928, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+king_bot skin eye
+  rotate: true
+  xy: 739, 282
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+king_bot skin r
+  rotate: false
+  xy: 1635, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+king_brow_l
+  rotate: false
+  xy: 1933, 23
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+king_brow_r
+  rotate: false
+  xy: 1772, 61
+  size: 49, 32
+  orig: 50, 33
+  offset: 1, 1
+  index: -1
+king_cloak2
+  rotate: true
+  xy: 2, 3
+  size: 43, 539
+  orig: 43, 539
+  offset: 0, 0
+  index: -1
+king_cloak3
+  rotate: true
+  xy: 1348, 720
+  size: 150, 540
+  orig: 150, 540
+  offset: 0, 0
+  index: -1
+king_ear
+  rotate: true
+  xy: 1669, 2
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+king_ear back
+  rotate: false
+  xy: 1980, 36
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+king_eye_r_white
+  rotate: true
+  xy: 1589, 161
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+king_eye_white_l
+  rotate: true
+  xy: 1486, 70
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+king_eyeeash_r
+  rotate: true
+  xy: 1324, 497
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+king_eyeleash r
+  rotate: false
+  xy: 1301, 286
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+king_face
+  rotate: false
+  xy: 1683, 314
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+king_fingers
+  rotate: false
+  xy: 1401, 15
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+king_fist_r
+  rotate: false
+  xy: 1678, 164
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+king_frame_bot
+  rotate: false
+  xy: 1348, 475
+  size: 353, 110
+  orig: 353, 349
+  offset: 0, 0
+  index: -1
+king_frame_crown
+  rotate: true
+  xy: 1871, 112
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+king_frame_l gold
+  rotate: true
+  xy: 1324, 434
+  size: 39, 325
+  orig: 39, 325
+  offset: 0, 0
+  index: -1
+king_frame_r gold
+  rotate: true
+  xy: 1324, 393
+  size: 39, 325
+  orig: 39, 325
+  offset: 0, 0
+  index: -1
+king_frame_sh_l_top
+  rotate: true
+  xy: 543, 7
+  size: 39, 135
+  orig: 41, 137
+  offset: 1, 1
+  index: -1
+king_frame_sh_r_top
+  rotate: true
+  xy: 1301, 237
+  size: 39, 135
+  orig: 41, 137
+  offset: 1, 1
+  index: -1
+king_frame_side_l
+  rotate: true
+  xy: 2, 79
+  size: 29, 675
+  orig: 29, 675
+  offset: 0, 0
+  index: -1
+king_frame_side_r
+  rotate: true
+  xy: 2, 48
+  size: 29, 675
+  orig: 29, 675
+  offset: 0, 0
+  index: -1
+king_frame_top
+  rotate: false
+  xy: 1348, 587
+  size: 334, 131
+  orig: 334, 131
+  offset: 0, 0
+  index: -1
+king_gold on belt
+  rotate: true
+  xy: 755, 323
+  size: 211, 405
+  orig: 211, 405
+  offset: 0, 0
+  index: -1
+king_gold shoulder back
+  rotate: true
+  xy: 1720, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+king_gold_r_hand
+  rotate: false
+  xy: 1316, 4
+  size: 83, 67
+  orig: 84, 68
+  offset: 1, 0
+  index: -1
+king_gold_top
+  rotate: false
+  xy: 1703, 474
+  size: 190, 138
+  orig: 190, 138
+  offset: 0, 0
+  index: -1
+king_hair
+  rotate: true
+  xy: 680, 46
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+king_hair back
+  rotate: false
+  xy: 681, 84
+  size: 55, 136
+  orig: 55, 136
+  offset: 0, 0
+  index: -1
+king_hair back1
+  rotate: false
+  xy: 1914, 62
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+king_hair shadow
+  rotate: true
+  xy: 863, 20
+  size: 26, 63
+  orig: 27, 63
+  offset: 1, 0
+  index: -1
+king_hand back
+  rotate: false
+  xy: 1149, 11
+  size: 106, 67
+  orig: 106, 67
+  offset: 0, 0
+  index: -1
+king_hand back gold
+  rotate: false
+  xy: 1934, 81
+  size: 58, 58
+  orig: 58, 59
+  offset: 0, 1
+  index: -1
+king_hand back1
+  rotate: true
+  xy: 961, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+king_hand back2
+  rotate: false
+  xy: 1597, 2
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+king_hand shadow
+  rotate: true
+  xy: 1796, 197
+  size: 110, 136
+  orig: 110, 136
+  offset: 0, 0
+  index: -1
+king_hand shadow2
+  rotate: false
+  xy: 1923, 337
+  size: 68, 155
+  orig: 79, 160
+  offset: 4, 3
+  index: -1
+king_hand_l1
+  rotate: true
+  xy: 1683, 240
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+king_hand_r_top
+  rotate: true
+  xy: 1684, 614
+  size: 104, 203
+  orig: 104, 203
+  offset: 0, 0
+  index: -1
+king_hat
+  rotate: false
+  xy: 1162, 356
+  size: 160, 178
+  orig: 160, 179
+  offset: 0, 0
+  index: -1
+king_krown_sweep_00000
+  rotate: false
+  xy: 791, 2
+  size: 60, 14
+  orig: 130, 143
+  offset: 38, 26
+  index: -1
+king_krown_sweep_00001
+  rotate: false
+  xy: 1612, 118
+  size: 62, 19
+  orig: 130, 143
+  offset: 36, 26
+  index: -1
+king_krown_sweep_00002
+  rotate: false
+  xy: 1416, 123
+  size: 86, 50
+  orig: 130, 143
+  offset: 26, 10
+  index: -1
+king_krown_sweep_00003
+  rotate: false
+  xy: 1678, 99
+  size: 92, 63
+  orig: 130, 143
+  offset: 23, 5
+  index: -1
+king_krown_sweep_00004
+  rotate: false
+  xy: 1064, 196
+  size: 93, 64
+  orig: 130, 143
+  offset: 21, 8
+  index: -1
+king_krown_sweep_00005
+  rotate: false
+  xy: 1057, 131
+  size: 97, 63
+  orig: 130, 143
+  offset: 17, 13
+  index: -1
+king_krown_sweep_00006
+  rotate: true
+  xy: 1612, 139
+  size: 101, 64
+  orig: 130, 143
+  offset: 14, 17
+  index: -1
+king_krown_sweep_00007
+  rotate: true
+  xy: 1934, 230
+  size: 105, 65
+  orig: 130, 143
+  offset: 11, 20
+  index: -1
+king_krown_sweep_00008
+  rotate: true
+  xy: 1934, 627
+  size: 107, 65
+  orig: 130, 143
+  offset: 9, 25
+  index: -1
+king_krown_sweep_00009
+  rotate: false
+  xy: 1890, 804
+  size: 109, 66
+  orig: 130, 143
+  offset: 8, 29
+  index: -1
+king_krown_sweep_00010
+  rotate: false
+  xy: 1890, 736
+  size: 109, 66
+  orig: 130, 143
+  offset: 8, 34
+  index: -1
+king_krown_sweep_00011
+  rotate: false
+  xy: 1895, 494
+  size: 104, 64
+  orig: 130, 143
+  offset: 11, 40
+  index: -1
+king_krown_sweep_00012
+  rotate: false
+  xy: 1772, 132
+  size: 97, 63
+  orig: 130, 143
+  offset: 14, 46
+  index: -1
+king_krown_sweep_00013
+  rotate: true
+  xy: 1934, 141
+  size: 87, 61
+  orig: 130, 143
+  offset: 18, 53
+  index: -1
+king_krown_sweep_00014
+  rotate: false
+  xy: 1081, 262
+  size: 78, 59
+  orig: 130, 143
+  offset: 22, 59
+  index: -1
+king_krown_sweep_00015
+  rotate: true
+  xy: 1257, 2
+  size: 69, 57
+  orig: 130, 143
+  offset: 27, 65
+  index: -1
+king_krown_sweep_00016
+  rotate: false
+  xy: 1486, 10
+  size: 57, 55
+  orig: 130, 143
+  offset: 32, 71
+  index: -1
+king_krown_sweep_00017
+  rotate: false
+  xy: 1545, 10
+  size: 50, 55
+  orig: 130, 143
+  offset: 32, 76
+  index: -1
+king_krown_sweep_00018
+  rotate: true
+  xy: 1576, 67
+  size: 49, 55
+  orig: 130, 143
+  offset: 32, 80
+  index: -1
+king_krown_sweep_00019
+  rotate: true
+  xy: 738, 2
+  size: 44, 51
+  orig: 130, 143
+  offset: 33, 87
+  index: -1
+king_krown_sweep_00020
+  rotate: true
+  xy: 1651, 398
+  size: 31, 30
+  orig: 130, 143
+  offset: 38, 99
+  index: -1
+king_krown_sweep_00021
+  rotate: true
+  xy: 1923, 316
+  size: 19, 9
+  orig: 130, 143
+  offset: 45, 106
+  index: -1
+king_krown_sweep_00022
+  rotate: false
+  xy: 1796, 309
+  size: 11, 3
+  orig: 130, 143
+  offset: 49, 112
+  index: -1
+king_lip
+  rotate: false
+  xy: 1426, 175
+  size: 77, 39
+  orig: 85, 40
+  offset: 8, 1
+  index: -1
+king_mouth_back
+  rotate: false
+  xy: 1505, 161
+  size: 82, 31
+  orig: 82, 31
+  offset: 0, 0
+  index: -1
+king_mouth_r_black
+  rotate: false
+  xy: 1760, 2
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+king_mustache
+  rotate: false
+  xy: 1895, 560
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+king_mustache_sh
+  rotate: true
+  xy: 1771, 40
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+king_nose
+  rotate: false
+  xy: 1889, 669
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+king_pupil_l
+  rotate: false
+  xy: 994, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+king_pupil_r
+  rotate: false
+  xy: 1684, 595
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+king_red
+  rotate: true
+  xy: 2, 316
+  size: 218, 751
+  orig: 218, 751
+  offset: 0, 0
+  index: -1
+king_shadow
+  rotate: true
+  xy: 891, 8
+  size: 10, 29
+  orig: 11, 30
+  offset: 1, 0
+  index: -1
+king_shadow beard
+  rotate: false
+  xy: 1324, 278
+  size: 182, 113
+  orig: 185, 117
+  offset: 1, 4
+  index: -1
+king_shadow body
+  rotate: true
+  xy: 1438, 216
+  size: 60, 67
+  orig: 67, 67
+  offset: 2, 0
+  index: -1
+king_shadow eyeleash
+  rotate: true
+  xy: 1485, 89
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+king_shoulder gold back
+  rotate: true
+  xy: 1504, 67
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+king_shoulder_r
+  rotate: true
+  xy: 1811, 309
+  size: 163, 110
+  orig: 163, 110
+  offset: 0, 0
+  index: -1
+king_sword
+  rotate: true
+  xy: 2, 110
+  size: 110, 677
+  orig: 110, 677
+  offset: 0, 0
+  index: -1
+king_sword_sh
+  rotate: true
+  xy: 2, 222
+  size: 92, 735
+  orig: 92, 735
+  offset: 0, 0
+  index: -1
+king_sword_sweep_00000
+  rotate: true
+  xy: 1890, 720
+  size: 14, 27
+  orig: 116, 329
+  offset: 51, 42
+  index: -1
+king_sword_sweep_00001
+  rotate: true
+  xy: 1055, 8
+  size: 19, 41
+  orig: 116, 329
+  offset: 47, 41
+  index: -1
+king_sword_sweep_00002
+  rotate: true
+  xy: 1672, 77
+  size: 20, 61
+  orig: 116, 329
+  offset: 46, 34
+  index: -1
+king_sword_sweep_00003
+  rotate: true
+  xy: 1400, 89
+  size: 32, 83
+  orig: 116, 329
+  offset: 43, 25
+  index: -1
+king_sword_sweep_00004
+  rotate: true
+  xy: 1507, 194
+  size: 46, 103
+  orig: 116, 329
+  offset: 38, 18
+  index: -1
+king_sword_sweep_00005
+  rotate: true
+  xy: 1031, 29
+  size: 51, 116
+  orig: 116, 329
+  offset: 34, 18
+  index: -1
+king_sword_sweep_00006
+  rotate: true
+  xy: 1156, 80
+  size: 53, 123
+  orig: 116, 329
+  offset: 32, 25
+  index: -1
+king_sword_sweep_00007
+  rotate: true
+  xy: 1156, 135
+  size: 54, 129
+  orig: 116, 329
+  offset: 31, 32
+  index: -1
+king_sword_sweep_00008
+  rotate: true
+  xy: 1161, 246
+  size: 53, 138
+  orig: 116, 329
+  offset: 32, 36
+  index: -1
+king_sword_sweep_00009
+  rotate: true
+  xy: 738, 48
+  size: 53, 145
+  orig: 116, 329
+  offset: 32, 42
+  index: -1
+king_sword_sweep_00010
+  rotate: true
+  xy: 898, 103
+  size: 53, 151
+  orig: 116, 329
+  offset: 32, 49
+  index: -1
+king_sword_sweep_00011
+  rotate: true
+  xy: 738, 103
+  size: 53, 158
+  orig: 116, 329
+  offset: 32, 56
+  index: -1
+king_sword_sweep_00012
+  rotate: true
+  xy: 755, 268
+  size: 53, 161
+  orig: 116, 329
+  offset: 32, 66
+  index: -1
+king_sword_sweep_00013
+  rotate: true
+  xy: 918, 268
+  size: 53, 161
+  orig: 116, 329
+  offset: 32, 79
+  index: -1
+king_sword_sweep_00014
+  rotate: true
+  xy: 739, 213
+  size: 53, 161
+  orig: 116, 329
+  offset: 32, 92
+  index: -1
+king_sword_sweep_00015
+  rotate: true
+  xy: 1162, 301
+  size: 53, 160
+  orig: 116, 329
+  offset: 32, 106
+  index: -1
+king_sword_sweep_00016
+  rotate: true
+  xy: 902, 213
+  size: 53, 160
+  orig: 116, 329
+  offset: 32, 119
+  index: -1
+king_sword_sweep_00017
+  rotate: true
+  xy: 738, 158
+  size: 53, 160
+  orig: 116, 329
+  offset: 32, 132
+  index: -1
+king_sword_sweep_00018
+  rotate: true
+  xy: 900, 158
+  size: 53, 155
+  orig: 116, 329
+  offset: 32, 145
+  index: -1
+king_sword_sweep_00019
+  rotate: true
+  xy: 885, 48
+  size: 53, 144
+  orig: 116, 329
+  offset: 32, 158
+  index: -1
+king_sword_sweep_00020
+  rotate: true
+  xy: 1159, 191
+  size: 53, 132
+  orig: 116, 329
+  offset: 32, 171
+  index: -1
+king_sword_sweep_00021
+  rotate: true
+  xy: 1293, 182
+  size: 53, 131
+  orig: 116, 329
+  offset: 32, 185
+  index: -1
+king_sword_sweep_00022
+  rotate: true
+  xy: 1287, 127
+  size: 53, 127
+  orig: 116, 329
+  offset: 32, 198
+  index: -1
+king_sword_sweep_00023
+  rotate: true
+  xy: 1281, 73
+  size: 52, 117
+  orig: 116, 329
+  offset: 32, 211
+  index: -1
+king_sword_sweep_00024
+  rotate: true
+  xy: 1051, 82
+  size: 47, 103
+  orig: 116, 329
+  offset: 32, 224
+  index: -1
+king_sword_sweep_00025
+  rotate: true
+  xy: 1772, 95
+  size: 35, 89
+  orig: 116, 329
+  offset: 33, 237
+  index: -1
+king_sword_sweep_00026
+  rotate: true
+  xy: 791, 18
+  size: 28, 70
+  orig: 116, 329
+  offset: 38, 250
+  index: -1
+king_sword_sweep_00027
+  rotate: true
+  xy: 1098, 7
+  size: 20, 39
+  orig: 116, 329
+  offset: 45, 264
+  index: -1
+king_sword_sweep_00028
+  rotate: true
+  xy: 863, 2
+  size: 16, 26
+  orig: 116, 329
+  offset: 46, 277
+  index: -1
+king_sword_sweep_00029
+  rotate: false
+  xy: 1139, 15
+  size: 8, 12
+  orig: 116, 329
+  offset: 46, 290
+  index: -1
+king_tip_top_sh
+  rotate: false
+  xy: 928, 29
+  size: 71, 17
+  orig: 76, 20
+  offset: 3, 2
+  index: -1
+king_tooth bot
+  rotate: false
+  xy: 1504, 127
+  size: 76, 32
+  orig: 76, 34
+  offset: 0, 2
+  index: -1
+king_tooth top
+  rotate: true
+  xy: 1461, 11
+  size: 76, 23
+  orig: 76, 25
+  offset: 0, 0
+  index: -1

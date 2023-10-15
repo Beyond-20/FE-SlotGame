@@ -1,0 +1,55 @@
+
+pop_up_flag.png
+size: 1917,1631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pop_flag_SHADOW ALL
+  rotate: true
+  xy: 2, 2
+  size: 1627, 918
+  orig: 1639, 928
+  offset: 6, 4
+  index: -1
+pop_flag_brush_l
+  rotate: true
+  xy: 1206, 69
+  size: 87, 197
+  orig: 88, 197
+  offset: 0, 0
+  index: -1
+pop_flag_brush_r
+  rotate: true
+  xy: 1210, 188
+  size: 87, 197
+  orig: 88, 197
+  offset: 1, 0
+  index: -1
+pop_flag_flag back
+  rotate: true
+  xy: 922, 277
+  size: 1352, 846
+  orig: 1352, 846
+  offset: 0, 0
+  index: -1
+pop_flag_shadow brush
+  rotate: true
+  xy: 922, 38
+  size: 118, 282
+  orig: 160, 301
+  offset: 21, 13
+  index: -1
+pop_flag_shadow brush 2
+  rotate: true
+  xy: 922, 158
+  size: 117, 286
+  orig: 160, 301
+  offset: 22, 10
+  index: -1
+pop_flag_top_tube
+  rotate: true
+  xy: 1770, 52
+  size: 1577, 145
+  orig: 1577, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,321 @@
+
+J.png
+size: 1473,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J_glow_00000
+  rotate: false
+  xy: 33, 38
+  size: 80, 165
+  orig: 121, 211
+  offset: 22, 23
+  index: -1
+J_sweep_00000
+  rotate: true
+  xy: 33, 4
+  size: 32, 22
+  orig: 113, 207
+  offset: 43, 34
+  index: -1
+J_sweep_00001
+  rotate: true
+  xy: 1347, 44
+  size: 44, 35
+  orig: 113, 207
+  offset: 32, 34
+  index: -1
+J_sweep_00002
+  rotate: false
+  xy: 520, 9
+  size: 50, 58
+  orig: 113, 207
+  offset: 26, 25
+  index: -1
+J_sweep_00003
+  rotate: false
+  xy: 1139, 5
+  size: 67, 83
+  orig: 113, 207
+  offset: 26, 13
+  index: -1
+J_sweep_00004
+  rotate: true
+  xy: 740, 3
+  size: 78, 100
+  orig: 113, 207
+  offset: 17, 10
+  index: -1
+J_sweep_00005
+  rotate: true
+  xy: 1026, 3
+  size: 83, 111
+  orig: 113, 207
+  offset: 13, 12
+  index: -1
+J_sweep_00006
+  rotate: false
+  xy: 798, 85
+  size: 84, 118
+  orig: 113, 207
+  offset: 13, 19
+  index: -1
+J_sweep_00007
+  rotate: false
+  xy: 715, 83
+  size: 81, 120
+  orig: 113, 207
+  offset: 17, 30
+  index: -1
+J_sweep_00008
+  rotate: false
+  xy: 551, 75
+  size: 73, 128
+  orig: 113, 207
+  offset: 26, 36
+  index: -1
+J_sweep_00009
+  rotate: false
+  xy: 425, 69
+  size: 74, 134
+  orig: 113, 207
+  offset: 26, 42
+  index: -1
+J_sweep_00010
+  rotate: false
+  xy: 936, 86
+  size: 70, 117
+  orig: 113, 207
+  offset: 30, 60
+  index: -1
+J_sweep_00011
+  rotate: true
+  xy: 572, 2
+  size: 71, 114
+  orig: 113, 207
+  offset: 30, 73
+  index: -1
+J_sweep_00012
+  rotate: false
+  xy: 1008, 88
+  size: 72, 115
+  orig: 113, 207
+  offset: 30, 86
+  index: -1
+J_sweep_00013
+  rotate: true
+  xy: 921, 10
+  size: 73, 103
+  orig: 113, 207
+  offset: 30, 99
+  index: -1
+J_sweep_00014
+  rotate: true
+  xy: 436, 2
+  size: 65, 82
+  orig: 113, 207
+  offset: 33, 112
+  index: -1
+J_sweep_00015
+  rotate: false
+  xy: 1306, 36
+  size: 39, 52
+  orig: 113, 207
+  offset: 44, 125
+  index: -1
+J_sweep_00016
+  rotate: false
+  xy: 1370, 3
+  size: 39, 39
+  orig: 113, 207
+  offset: 44, 138
+  index: -1
+J_sweep_00017
+  rotate: false
+  xy: 84, 11
+  size: 38, 25
+  orig: 113, 207
+  offset: 44, 151
+  index: -1
+chess_j
+  rotate: true
+  xy: 1082, 90
+  size: 113, 284
+  orig: 113, 284
+  offset: 0, 0
+  index: -1
+chess_j step
+  rotate: true
+  xy: 2, 14
+  size: 189, 29
+  orig: 189, 29
+  offset: 0, 0
+  index: -1
+chess_part_exp_00000
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+chess_part_exp_00001
+  rotate: false
+  xy: 1411, 41
+  size: 12, 14
+  orig: 171, 102
+  offset: 77, 4
+  index: -1
+chess_part_exp_00002
+  rotate: true
+  xy: 57, 9
+  size: 27, 25
+  orig: 171, 102
+  offset: 70, 4
+  index: -1
+chess_part_exp_00003
+  rotate: true
+  xy: 1384, 57
+  size: 42, 35
+  orig: 171, 102
+  offset: 63, 5
+  index: -1
+chess_part_exp_00004
+  rotate: true
+  xy: 1260, 33
+  size: 55, 44
+  orig: 171, 102
+  offset: 55, 5
+  index: -1
+chess_part_exp_00005
+  rotate: false
+  xy: 369, 3
+  size: 65, 53
+  orig: 171, 102
+  offset: 50, 5
+  index: -1
+chess_part_exp_00006
+  rotate: true
+  xy: 688, 3
+  size: 74, 50
+  orig: 171, 102
+  offset: 47, 15
+  index: -1
+chess_part_exp_00007
+  rotate: true
+  xy: 1208, 5
+  size: 83, 50
+  orig: 171, 102
+  offset: 44, 21
+  index: -1
+chess_part_exp_00008
+  rotate: false
+  xy: 1368, 101
+  size: 94, 50
+  orig: 171, 102
+  offset: 39, 26
+  index: -1
+chess_part_exp_00009
+  rotate: false
+  xy: 1368, 153
+  size: 103, 50
+  orig: 171, 102
+  offset: 34, 30
+  index: -1
+chess_part_exp_00010
+  rotate: false
+  xy: 256, 2
+  size: 111, 49
+  orig: 171, 102
+  offset: 30, 34
+  index: -1
+chess_part_exp_00011
+  rotate: true
+  xy: 884, 85
+  size: 118, 50
+  orig: 171, 102
+  offset: 27, 36
+  index: -1
+chess_part_exp_00012
+  rotate: true
+  xy: 663, 79
+  size: 124, 50
+  orig: 171, 102
+  offset: 23, 39
+  index: -1
+chess_part_exp_00013
+  rotate: false
+  xy: 124, 2
+  size: 130, 47
+  orig: 171, 102
+  offset: 20, 41
+  index: -1
+chess_part_exp_00014
+  rotate: true
+  xy: 501, 69
+  size: 134, 48
+  orig: 171, 102
+  offset: 18, 42
+  index: -1
+chess_part_exp_00015
+  rotate: true
+  xy: 375, 64
+  size: 139, 48
+  orig: 171, 102
+  offset: 16, 43
+  index: -1
+chess_part_exp_00016
+  rotate: true
+  xy: 323, 58
+  size: 145, 50
+  orig: 171, 102
+  offset: 13, 42
+  index: -1
+chess_part_exp_00017
+  rotate: true
+  xy: 168, 53
+  size: 150, 51
+  orig: 171, 102
+  offset: 11, 41
+  index: -1
+chess_part_exp_00018
+  rotate: true
+  xy: 271, 54
+  size: 149, 50
+  orig: 171, 102
+  offset: 8, 42
+  index: -1
+chess_part_exp_00019
+  rotate: true
+  xy: 115, 51
+  size: 152, 51
+  orig: 171, 102
+  offset: 5, 42
+  index: -1
+chess_part_exp_00020
+  rotate: true
+  xy: 221, 53
+  size: 150, 48
+  orig: 171, 102
+  offset: 7, 43
+  index: -1
+chess_part_exp_00021
+  rotate: true
+  xy: 626, 78
+  size: 125, 35
+  orig: 171, 102
+  offset: 7, 56
+  index: -1
+chess_part_exp_00022
+  rotate: false
+  xy: 1260, 11
+  size: 108, 20
+  orig: 171, 102
+  offset: 8, 71
+  index: -1
+chess_stone
+  rotate: false
+  xy: 842, 6
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,44 @@
+{"frames": {
+
+"bigwinbg":
+{
+	"frame": {"x":3,"y":1239,"w":667,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":667,"h":153},
+	"sourceSize": {"w":667,"h":153}
+},
+"gameOkBtn_up":
+{
+	"frame": {"x":674,"y":1239,"w":131,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":94},
+	"sourceSize": {"w":131,"h":94}
+},
+"popupbg":
+{
+	"frame": {"x":3,"y":3,"w":918,"h":681},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":918,"h":681},
+	"sourceSize": {"w":918,"h":681}
+},
+"reelFrame":
+{
+	"frame": {"x":3,"y":688,"w":912,"h":547},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":912,"h":547},
+	"sourceSize": {"w":912,"h":547}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameElements.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:5168a9e944e352a20c6951aafef586d5:a9e396bbb5f59e15370cd0e93152b3a9:d4c9f6938a9e79974262d6740d5ac280$"
+}
+}

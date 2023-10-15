@@ -1,0 +1,342 @@
+
+Horse.png
+size: 1667,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+castle_castle_frame_top
+  rotate: false
+  xy: 357, 563
+  size: 353, 212
+  orig: 353, 212
+  offset: 0, 0
+  index: -1
+horse_FRAME
+  rotate: false
+  xy: 2, 409
+  size: 353, 366
+  orig: 353, 366
+  offset: 0, 0
+  index: -1
+horse_ball
+  rotate: false
+  xy: 780, 329
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+horse_ball2
+  rotate: false
+  xy: 1012, 329
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+horse_ball3
+  rotate: true
+  xy: 321, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+horse_bg
+  rotate: false
+  xy: 2, 79
+  size: 322, 328
+  orig: 322, 328
+  offset: 0, 0
+  index: -1
+horse_bot
+  rotate: false
+  xy: 2, 11
+  size: 189, 66
+  orig: 189, 66
+  offset: 0, 0
+  index: -1
+horse_closed eye
+  rotate: true
+  xy: 986, 539
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+horse_ear
+  rotate: false
+  xy: 269, 7
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+horse_ear back
+  rotate: false
+  xy: 1607, 84
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+horse_eye skin
+  rotate: false
+  xy: 1649, 82
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+horse_glow
+  rotate: true
+  xy: 1616, 122
+  size: 40, 42
+  orig: 48, 45
+  offset: 8, 1
+  index: -1
+horse_glow back
+  rotate: true
+  xy: 712, 539
+  size: 236, 272
+  orig: 273, 295
+  offset: 18, 10
+  index: -1
+horse_glow head
+  rotate: false
+  xy: 326, 382
+  size: 25, 25
+  orig: 33, 33
+  offset: 4, 4
+  index: -1
+horse_glow neck
+  rotate: false
+  xy: 1079, 78
+  size: 36, 51
+  orig: 40, 55
+  offset: 2, 2
+  index: -1
+horse_glow tooth
+  rotate: false
+  xy: 699, 2
+  size: 26, 26
+  orig: 34, 34
+  offset: 4, 4
+  index: -1
+horse_gold
+  rotate: false
+  xy: 1521, 128
+  size: 93, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+horse_mask
+  rotate: false
+  xy: 816, 48
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+horse_nose
+  rotate: false
+  xy: 940, 66
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+horse_pupil
+  rotate: true
+  xy: 565, 348
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+horse_shadow balls
+  rotate: false
+  xy: 1117, 82
+  size: 39, 47
+  orig: 41, 48
+  offset: 1, 1
+  index: -1
+horse_shadow balls2
+  rotate: false
+  xy: 836, 322
+  size: 174, 215
+  orig: 174, 215
+  offset: 0, 0
+  index: -1
+horse_shadow ear
+  rotate: false
+  xy: 980, 131
+  size: 183, 189
+  orig: 183, 189
+  offset: 0, 0
+  index: -1
+horse_shadow mask
+  rotate: false
+  xy: 1011, 68
+  size: 66, 61
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+horse_tooth
+  rotate: false
+  xy: 1343, 181
+  size: 171, 172
+  orig: 171, 172
+  offset: 0, 0
+  index: -1
+horse_white
+  rotate: false
+  xy: 1649, 101
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+wild_part_00000
+  rotate: false
+  xy: 597, 541
+  size: 25, 20
+  orig: 256, 239
+  offset: 123, 132
+  index: -1
+wild_part_00001
+  rotate: true
+  xy: 1616, 164
+  size: 50, 41
+  orig: 256, 239
+  offset: 110, 119
+  index: -1
+wild_part_00002
+  rotate: false
+  xy: 193, 13
+  size: 74, 64
+  orig: 256, 239
+  offset: 98, 107
+  index: -1
+wild_part_00003
+  rotate: true
+  xy: 1521, 31
+  size: 95, 84
+  orig: 256, 239
+  offset: 87, 97
+  index: -1
+wild_part_00004
+  rotate: false
+  xy: 699, 30
+  size: 115, 102
+  orig: 256, 239
+  offset: 77, 88
+  index: -1
+wild_part_00005
+  rotate: false
+  xy: 564, 11
+  size: 133, 121
+  orig: 256, 239
+  offset: 67, 78
+  index: -1
+wild_part_00006
+  rotate: false
+  xy: 1516, 216
+  size: 149, 137
+  orig: 256, 239
+  offset: 59, 69
+  index: -1
+wild_part_00007
+  rotate: false
+  xy: 1165, 5
+  size: 164, 151
+  orig: 256, 239
+  offset: 51, 61
+  index: -1
+wild_part_00008
+  rotate: false
+  xy: 1343, 15
+  size: 176, 164
+  orig: 256, 239
+  offset: 45, 53
+  index: -1
+wild_part_00009
+  rotate: true
+  xy: 1165, 158
+  size: 188, 176
+  orig: 256, 239
+  offset: 39, 46
+  index: -1
+wild_part_00010
+  rotate: false
+  xy: 780, 134
+  size: 198, 186
+  orig: 256, 239
+  offset: 34, 40
+  index: -1
+wild_part_00011
+  rotate: false
+  xy: 1222, 360
+  size: 207, 196
+  orig: 256, 239
+  offset: 30, 33
+  index: -1
+wild_part_00012
+  rotate: false
+  xy: 1431, 355
+  size: 203, 200
+  orig: 256, 239
+  offset: 33, 27
+  index: -1
+wild_part_00013
+  rotate: false
+  xy: 1012, 348
+  size: 208, 208
+  orig: 256, 239
+  offset: 28, 21
+  index: -1
+wild_part_00014
+  rotate: false
+  xy: 565, 134
+  size: 213, 212
+  orig: 256, 239
+  offset: 24, 16
+  index: -1
+wild_part_00015
+  rotate: true
+  xy: 1448, 557
+  size: 218, 217
+  orig: 256, 239
+  offset: 19, 11
+  index: -1
+wild_part_00016
+  rotate: false
+  xy: 1220, 558
+  size: 226, 217
+  orig: 256, 239
+  offset: 15, 10
+  index: -1
+wild_part_00017
+  rotate: false
+  xy: 986, 558
+  size: 232, 217
+  orig: 256, 239
+  offset: 12, 10
+  index: -1
+wild_part_00018
+  rotate: false
+  xy: 357, 359
+  size: 238, 202
+  orig: 256, 239
+  offset: 9, 10
+  index: -1
+wild_part_00019
+  rotate: false
+  xy: 326, 160
+  size: 237, 197
+  orig: 256, 239
+  offset: 10, 15
+  index: -1
+wild_part_00020
+  rotate: false
+  xy: 597, 348
+  size: 237, 189
+  orig: 256, 239
+  offset: 10, 15
+  index: -1
+wild_part_00021
+  rotate: false
+  xy: 326, 22
+  size: 236, 136
+  orig: 256, 239
+  offset: 10, 15
+  index: -1

@@ -1,0 +1,15 @@
+{
+  "balance_at_freespin" : 0,
+  "bet" : 0.25,
+  "bonusGame" : null,
+  "freeSpinsNr" : 0,
+  "isFreeSpin" : false,
+  "isFreeSpinTriggered" : false,
+  "linesNewBalance" : 10974.949,
+  "linesWin" : 0,
+  "featureTriggered" : false,
+  "featureType" : 2,
+  "symbols" : [[11, 2, 10], [1, 8, 9], [7, 5, 8], [2, 1, 10], [9, 8, 4]],
+  "winningPlaces" : [],
+  "winningSymbols" : []
+}

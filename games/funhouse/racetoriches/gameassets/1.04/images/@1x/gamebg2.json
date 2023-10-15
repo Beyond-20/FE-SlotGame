@@ -1,0 +1,21 @@
+{"frames": {
+
+"fsMegaboardbg_P":
+{
+	"frame": {"x":3,"y":3,"w":720,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1280},
+	"sourceSize": {"w":720,"h":1280}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gamebg2.jpg",
+	"format": "RGB888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "gamebg0.json", "gamebg1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1f5780ffa739af3adebdca1ce8e191a2:c0d4337eadd21b36b76f5bcf71c09746:604b80e57102342157b03e638282fb2b$"
+}
+}

@@ -1,0 +1,344 @@
+{
+"skeleton": {
+	"hash": "sMcLRTndiIdGza+XW/7aSpY+AOU",
+	"spine": "3.8.86",
+	"x": -1335.05,
+	"y": -549.29,
+	"width": 2670.1,
+	"height": 608,
+	"images": "../../AE_preview/BIG WINS/",
+	"audio": "D:/Work/Fushen/010_Tree/AE_preview/BIG WINS"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "glow", "parent": "root", "y": -245.29, "scaleX": 2.9023 },
+	{ "name": "wins", "parent": "root", "scaleX": 0.1, "scaleY": 0.1 }
+],
+"slots": [
+	{ "name": "SUPERb!", "bone": "wins", "color": "ffffff00", "attachment": "SUPERb!" },
+	{ "name": "Mega win!", "bone": "wins", "color": "ffffff00", "attachment": "Mega win!" },
+	{ "name": "Big win!", "bone": "wins", "color": "ffffff00", "attachment": "Big win!" },
+	{ "name": "Unbelievable!", "bone": "wins", "color": "ffffff00", "attachment": "Unbelievable!" },
+	{ "name": "glow", "bone": "glow", "color": "ffffff00", "attachment": "Glow cool/Glow_9" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Big win!": {
+				"Big win!": { "y": 0.5, "width": 1210, "height": 275 }
+			},
+			"Mega win!": {
+				"Mega win!": { "width": 1588, "height": 290 }
+			},
+			"SUPERb!": {
+				"SUPERb!": { "width": 1260, "height": 260 }
+			},
+			"Unbelievable!": {
+				"Unbelievable!": { "x": -0.5, "width": 2359, "height": 292 }
+			},
+			"glow": {
+				"Glow cool/Glow_0": { "width": 920, "height": 608 },
+				"Glow cool/Glow_1": { "width": 920, "height": 608 },
+				"Glow cool/Glow_2": { "width": 920, "height": 608 },
+				"Glow cool/Glow_3": { "width": 920, "height": 608 },
+				"Glow cool/Glow_4": { "width": 920, "height": 608 },
+				"Glow cool/Glow_5": { "width": 920, "height": 608 },
+				"Glow cool/Glow_6": { "width": 920, "height": 608 },
+				"Glow cool/Glow_7": { "width": 920, "height": 608 },
+				"Glow cool/Glow_8": { "width": 920, "height": 608 },
+				"Glow cool/Glow_9": { "width": 920, "height": 608 },
+				"Glow cool/Glow_10": { "width": 920, "height": 608 },
+				"Glow cool/Glow_11": { "width": 920, "height": 608 },
+				"Glow cool/Glow_12": { "width": 920, "height": 608 },
+				"Glow cool/Glow_13": { "width": 920, "height": 608 },
+				"Glow cool/Glow_14": { "width": 920, "height": 608 },
+				"Glow cool/Glow_15": { "width": 920, "height": 608 },
+				"Glow cool/Glow_16": { "width": 920, "height": 608 },
+				"Glow cool/Glow_17": { "width": 920, "height": 608 },
+				"Glow cool/Glow_18": { "width": 920, "height": 608 },
+				"Glow cool/Glow_19": { "width": 920, "height": 608 },
+				"Glow cool/Glow_20": { "width": 920, "height": 608 },
+				"Glow cool/Glow_21": { "width": 920, "height": 608 },
+				"Glow cool/Glow_22": { "width": 920, "height": 608 },
+				"Glow cool/Glow_23": { "width": 920, "height": 608 },
+				"Glow cool/Glow_24": { "width": 920, "height": 608 },
+				"Glow cool/Glow_25": { "width": 920, "height": 608 },
+				"Glow cool/Glow_26": { "width": 920, "height": 608 },
+				"Glow cool/Glow_27": { "width": 920, "height": 608 },
+				"Glow cool/Glow_28": { "width": 920, "height": 608 },
+				"Glow cool/Glow_29": { "width": 920, "height": 608 },
+				"Glow cool/Glow_30": { "width": 920, "height": 608 }
+			}
+		}
+	}
+],
+"animations": {
+	"big win end": {
+		"slots": {
+			"Big win!": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.1667, "x": 11, "y": 11 },
+					{ "time": 0.5667 }
+				]
+			}
+		}
+	},
+	"big win loop": {
+		"slots": {
+			"Big win!": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.5667, "x": 9, "y": 9 },
+					{ "time": 1.1667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"big win start": {
+		"slots": {
+			"Big win!": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{},
+					{ "time": 0.4, "x": 11, "y": 11 },
+					{ "time": 0.5667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"glow win numbers": {
+		"slots": {
+			"glow": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "Glow cool/Glow_0" },
+					{ "time": 0.0333, "name": "Glow cool/Glow_1" },
+					{ "time": 0.0667, "name": "Glow cool/Glow_2" },
+					{ "time": 0.1, "name": "Glow cool/Glow_3" },
+					{ "time": 0.1333, "name": "Glow cool/Glow_4" },
+					{ "time": 0.1667, "name": "Glow cool/Glow_5" },
+					{ "time": 0.2, "name": "Glow cool/Glow_6" },
+					{ "time": 0.2333, "name": "Glow cool/Glow_7" },
+					{ "time": 0.2667, "name": "Glow cool/Glow_8" },
+					{ "time": 0.3, "name": "Glow cool/Glow_9" },
+					{ "time": 0.3333, "name": "Glow cool/Glow_10" },
+					{ "time": 0.3667, "name": "Glow cool/Glow_11" },
+					{ "time": 0.4, "name": "Glow cool/Glow_12" },
+					{ "time": 0.4333, "name": "Glow cool/Glow_13" },
+					{ "time": 0.4667, "name": "Glow cool/Glow_14" },
+					{ "time": 0.5, "name": "Glow cool/Glow_15" },
+					{ "time": 0.5333, "name": "Glow cool/Glow_16" },
+					{ "time": 0.5667, "name": "Glow cool/Glow_17" },
+					{ "time": 0.6, "name": "Glow cool/Glow_18" },
+					{ "time": 0.6333, "name": "Glow cool/Glow_19" },
+					{ "time": 0.6667, "name": "Glow cool/Glow_20" },
+					{ "time": 0.7, "name": "Glow cool/Glow_21" },
+					{ "time": 0.7333, "name": "Glow cool/Glow_22" },
+					{ "time": 0.7667, "name": "Glow cool/Glow_23" },
+					{ "time": 0.8, "name": "Glow cool/Glow_24" },
+					{ "time": 0.8333, "name": "Glow cool/Glow_25" },
+					{ "time": 0.8667, "name": "Glow cool/Glow_26" },
+					{ "time": 0.9, "name": "Glow cool/Glow_27" },
+					{ "time": 0.9333, "name": "Glow cool/Glow_28" },
+					{ "time": 0.9667, "name": "Glow cool/Glow_29" },
+					{ "time": 1, "name": "Glow cool/Glow_30" }
+				]
+			}
+		}
+	},
+	"mega win end": {
+		"slots": {
+			"Mega win!": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.1667, "x": 11, "y": 11 },
+					{ "time": 0.5667 }
+				]
+			}
+		}
+	},
+	"mega win loop": {
+		"slots": {
+			"Mega win!": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.5667, "x": 9, "y": 9 },
+					{ "time": 1.1667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"mega win start": {
+		"slots": {
+			"Mega win!": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{},
+					{ "time": 0.4, "x": 11, "y": 11 },
+					{ "time": 0.5667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"superb end": {
+		"slots": {
+			"SUPERb!": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.1667, "x": 11, "y": 11 },
+					{ "time": 0.5667 }
+				]
+			}
+		}
+	},
+	"superb loop": {
+		"slots": {
+			"SUPERb!": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.5667, "x": 9, "y": 9 },
+					{ "time": 1.1667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"superb start": {
+		"slots": {
+			"SUPERb!": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{},
+					{ "time": 0.4, "x": 11, "y": 11 },
+					{ "time": 0.5667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"unb end": {
+		"slots": {
+			"Unbelievable!": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.1667, "x": 11, "y": 11 },
+					{ "time": 0.5667 }
+				]
+			}
+		}
+	},
+	"unb loop": {
+		"slots": {
+			"Unbelievable!": {
+				"color": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{ "x": 10, "y": 10 },
+					{ "time": 0.5667, "x": 9, "y": 9 },
+					{ "time": 1.1667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	},
+	"unb start": {
+		"slots": {
+			"Unbelievable!": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"wins": {
+				"scale": [
+					{},
+					{ "time": 0.4, "x": 11, "y": 11 },
+					{ "time": 0.5667, "x": 10, "y": 10 }
+				]
+			}
+		}
+	}
+}
+}

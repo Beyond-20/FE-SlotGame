@@ -1,0 +1,20 @@
+
+Q.png
+size: 435,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light___
+  rotate: true
+  xy: 392, 97
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1
+Q
+  rotate: false
+  xy: 6, 6
+  size: 380, 341
+  orig: 382, 343
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,263 @@
+{"frames": {
+
+"leo man_000":
+{
+	"frame": {"x":807,"y":631,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_001":
+{
+	"frame": {"x":271,"y":951,"w":264,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":264,"h":312},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_002":
+{
+	"frame": {"x":271,"y":1267,"w":264,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":264,"h":312},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_003":
+{
+	"frame": {"x":271,"y":1583,"w":264,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":264,"h":312},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_004":
+{
+	"frame": {"x":1077,"y":317,"w":264,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":264,"h":312},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_005":
+{
+	"frame": {"x":3,"y":3,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_006":
+{
+	"frame": {"x":3,"y":320,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_007":
+{
+	"frame": {"x":3,"y":637,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_008":
+{
+	"frame": {"x":3,"y":954,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_009":
+{
+	"frame": {"x":3,"y":1271,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_010":
+{
+	"frame": {"x":3,"y":1588,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_011":
+{
+	"frame": {"x":271,"y":317,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_012":
+{
+	"frame": {"x":271,"y":634,"w":264,"h":313},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":264,"h":313},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_013":
+{
+	"frame": {"x":539,"y":631,"w":264,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":264,"h":312},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_014":
+{
+	"frame": {"x":1345,"y":317,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_015":
+{
+	"frame": {"x":1613,"y":632,"w":264,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":264,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_016":
+{
+	"frame": {"x":271,"y":3,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_017":
+{
+	"frame": {"x":540,"y":3,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_018":
+{
+	"frame": {"x":809,"y":3,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_019":
+{
+	"frame": {"x":1078,"y":3,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_020":
+{
+	"frame": {"x":1347,"y":3,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_021":
+{
+	"frame": {"x":1616,"y":3,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_022":
+{
+	"frame": {"x":539,"y":317,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_023":
+{
+	"frame": {"x":808,"y":317,"w":265,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":265,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_024":
+{
+	"frame": {"x":1613,"y":946,"w":264,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":264,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_025":
+{
+	"frame": {"x":1343,"y":947,"w":264,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":264,"h":310},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_026":
+{
+	"frame": {"x":1613,"y":317,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_027":
+{
+	"frame": {"x":1345,"y":632,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_028":
+{
+	"frame": {"x":1075,"y":633,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_029":
+{
+	"frame": {"x":807,"y":946,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+},
+"leo man_030":
+{
+	"frame": {"x":539,"y":947,"w":264,"h":311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":264,"h":311},
+	"sourceSize": {"w":265,"h":314}
+}},
+"animations": {
+	"leo man": ["leo man_000","leo man_001","leo man_002","leo man_003","leo man_004","leo man_005","leo man_006","leo man_007","leo man_008","leo man_009","leo man_010","leo man_011","leo man_012","leo man_013","leo man_014","leo man_015","leo man_016","leo man_017","leo man_018","leo man_019","leo man_020","leo man_021","leo man_022","leo man_023","leo man_024","leo man_025","leo man_026","leo man_027","leo man_028","leo man_029","leo man_030"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_WD.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:a23cc2393b93dcd1785b37d8743acb61:b93acebe140edfc8d00b8b40d37b88c0:dd213c8c196d579aab8df1a6f7849577$"
+}
+}

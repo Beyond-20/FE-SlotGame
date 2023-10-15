@@ -1,0 +1,19 @@
+{
+    "gamerules": {
+        "lastdate": "01 November 2021",
+        "freeSpins1": "3 SCATTERS = 10 spin with 2x Multiplier",
+        "freeSpins2": "4 SCATTERS = 15 spin with 4x Multiplier",
+        "freeSpins3": "5 SCATTERS = 20 spin with 8x Multiplier",
+        "cashAward1": "3 SCATTERS = A random multiplier from 10 to 100x total bet",
+        "cashAward2": "4 SCATTERS = A random multiplier from 20 to 250x total bet",
+        "cashAward3": "5 SCATTERS = A random multiplier from 30 to 500x total bet",
+        "wildRules": "This symbol is WILD and substitutes for all symbols except for BONUS. Wild symbol appears in all reels.",
+        "scatterRules": "This symbol is BONUS, get 3 or more to enter bonus game."
+    },
+    "headings": {
+        "gameName": "BONSAI RICHES ",
+        "freeSpins": "FREE SPINS ",
+        "cashAward": "CASH AWARD ",
+        "winUpto": "WIN UPTO 1,600 X BET"
+    }
+}

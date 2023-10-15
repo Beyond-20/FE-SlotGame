@@ -1,0 +1,16 @@
+{
+    "gamerules": {
+        "lastdate": "02 May 2022",
+        "gamerules2": "20 paylines, pays left to right",
+        "wildRules": "WILD can replace any symbols, except the Scatter, to form winning combinations.",
+        "scatterRules": "3x SCATTER symbols on reels 1, 3 & 5 triggers the MEGABOARD.",
+        "bonusRules": "MYSTERY transforms into any other symbols, excluding Scatter, during Megaboard feature.",
+        "monopolyWilds":"The boy, who’s have money in his hand, is the wild symbol. It replaces all symbols bar the scatter to help you form winning combinations. The monopoly-man can random run across the reels to add random wilds.",
+        "rainbowRespinRules":"After any missed feature trigger on reel 5, with Scatters on reels 1 & 3, the monopoly-man can run across the reels to respin reel 5 for an extra chance to trigger the MEGABOARD.",
+        "winSpinRules":"After a losing base game spin, the monopoly-man can run across the reels to create a winning combination. He will transform losing symbols into winning ones basically."
+    },
+    "headings": {
+        "gameName": " MONOPOLY ",
+        "winUpto": "WIN UPTO 5000 X BET"
+    }
+}

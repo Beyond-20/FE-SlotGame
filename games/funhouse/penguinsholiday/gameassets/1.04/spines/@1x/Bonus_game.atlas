@@ -1,0 +1,180 @@
+
+Bonus_game.png
+size: 2457,1335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Bonus
+  rotate: true
+  xy: 0, 709
+  size: 353, 480
+  orig: 353, 480
+  offset: 0, 0
+  index: -1
+Boot_2_Bonus
+  rotate: true
+  xy: 2161, 1137
+  size: 198, 296
+  orig: 198, 297
+  offset: 0, 0
+  index: -1
+Box_Bonus
+  rotate: false
+  xy: 218, 1068
+  size: 304, 208
+  orig: 306, 210
+  offset: 1, 1
+  index: -1
+Bucket_Bonus
+  rotate: false
+  xy: 2043, 783
+  size: 359, 348
+  orig: 380, 359
+  offset: 1, 10
+  index: -1
+Fishing_Rod_Bonus_2
+  rotate: true
+  xy: 884, 374
+  size: 403, 1397
+  orig: 403, 1458
+  offset: 0, 58
+  index: -1
+Glare_Bonus
+  rotate: false
+  xy: 0, 1322
+  size: 70, 13
+  orig: 74, 15
+  offset: 3, 1
+  index: -1
+Had_20_Bonus
+  rotate: false
+  xy: 0, 1093
+  size: 212, 199
+  orig: 223, 213
+  offset: 11, 2
+  index: -1
+Had_2_Bonus
+  rotate: false
+  xy: 983, 1161
+  size: 273, 174
+  orig: 273, 178
+  offset: 0, 4
+  index: -1
+Hand_1_Bonus
+  rotate: false
+  xy: 1451, 1150
+  size: 248, 185
+  orig: 272, 213
+  offset: 22, 0
+  index: -1
+Hole_5_Bonus
+  rotate: false
+  xy: 1071, 882
+  size: 588, 262
+  orig: 634, 290
+  offset: 38, 16
+  index: -1
+Hook_Bonus
+  rotate: true
+  xy: 707, 1268
+  size: 67, 80
+  orig: 69, 82
+  offset: 1, 1
+  index: -1
+Leg_1_Bonus
+  rotate: true
+  xy: 1926, 1139
+  size: 196, 229
+  orig: 206, 239
+  offset: 10, 0
+  index: -1
+Leg_2_1_Bonus
+  rotate: true
+  xy: 1262, 1160
+  size: 175, 183
+  orig: 175, 183
+  offset: 0, 0
+  index: -1
+Leg_2_2_Bonus
+  rotate: true
+  xy: 793, 1172
+  size: 163, 184
+  orig: 163, 184
+  offset: 0, 0
+  index: -1
+Leg_2__Bonus
+  rotate: true
+  xy: 1705, 1150
+  size: 185, 215
+  orig: 185, 216
+  offset: 0, 0
+  index: -1
+Light___
+  rotate: false
+  xy: 172, 1298
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1
+Pupils_Bonus
+  rotate: false
+  xy: 76, 1302
+  size: 90, 33
+  orig: 92, 35
+  offset: 1, 1
+  index: -1
+Ring_Bonus
+  rotate: false
+  xy: 528, 959
+  size: 537, 196
+  orig: 541, 198
+  offset: 2, 1
+  index: -1
+Shine_2_Bonus
+  rotate: false
+  xy: 486, 565
+  size: 392, 388
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Umbrella_Bonus
+  rotate: true
+  xy: 0, 0
+  size: 559, 589
+  orig: 561, 591
+  offset: 1, 1
+  index: -1
+Vest_2_Bonus(1)
+  rotate: false
+  xy: 1665, 849
+  size: 372, 284
+  orig: 372, 316
+  offset: 0, 18
+  index: -1
+Wawe_1
+  rotate: false
+  xy: 428, 1282
+  size: 133, 53
+  orig: 136, 56
+  offset: 3, 2
+  index: -1
+Wawe_2
+  rotate: false
+  xy: 567, 1274
+  size: 134, 61
+  orig: 168, 65
+  offset: 3, 3
+  index: -1
+
+Bonus_game2.png
+size: 2560,1440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_G_Bonus
+  rotate: false
+  xy: 0, 0
+  size: 2560, 1440
+  orig: 2562, 1442
+  offset: 1, 1
+  index: -1

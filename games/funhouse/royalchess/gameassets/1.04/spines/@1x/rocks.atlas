@@ -1,0 +1,48 @@
+
+rocks.png
+size: 517,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rock_green_00
+  rotate: false
+  xy: 361, 10
+  size: 80, 92
+  orig: 100, 100
+  offset: 12, 3
+  index: -1
+rock_purple_00
+  rotate: false
+  xy: 97, 8
+  size: 91, 94
+  orig: 100, 100
+  offset: 5, 3
+  index: -1
+rock_red_00
+  rotate: true
+  xy: 2, 7
+  size: 95, 93
+  orig: 100, 100
+  offset: 4, 0
+  index: -1
+rock_violet_00
+  rotate: false
+  xy: 443, 2
+  size: 72, 100
+  orig: 100, 100
+  offset: 12, 0
+  index: -1
+rock_white_00
+  rotate: true
+  xy: 190, 4
+  size: 98, 81
+  orig: 100, 100
+  offset: 2, 10
+  index: -1
+rock_yellow_00
+  rotate: false
+  xy: 273, 13
+  size: 86, 89
+  orig: 100, 100
+  offset: 7, 7
+  index: -1

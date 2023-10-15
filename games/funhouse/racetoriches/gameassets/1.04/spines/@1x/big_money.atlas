@@ -1,0 +1,174 @@
+
+big_money.png
+size: 1874,862
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_money_BIG MONEY
+  rotate: false
+  xy: 2, 6
+  size: 688, 222
+  orig: 690, 224
+  offset: 1, 1
+  index: -1
+big_money_TRIGERED
+  rotate: true
+  xy: 1674, 347
+  size: 513, 192
+  orig: 515, 194
+  offset: 1, 1
+  index: -1
+big_money_award_l
+  rotate: false
+  xy: 1434, 7
+  size: 295, 294
+  orig: 298, 296
+  offset: 2, 1
+  index: -1
+big_money_award_r
+  rotate: false
+  xy: 692, 2
+  size: 261, 226
+  orig: 266, 228
+  offset: 2, 1
+  index: -1
+big_money_big_glow
+  rotate: true
+  xy: 1166, 127
+  size: 733, 266
+  orig: 738, 271
+  offset: 3, 3
+  index: -1
+big_money_bm_glow
+  rotate: false
+  xy: 2, 230
+  size: 1162, 630
+  orig: 1230, 689
+  offset: 34, 30
+  index: -1
+big_money_coin
+  rotate: false
+  xy: 955, 170
+  size: 59, 58
+  orig: 61, 60
+  offset: 1, 1
+  index: -1
+big_money_coin_1
+  rotate: false
+  xy: 955, 117
+  size: 52, 51
+  orig: 54, 53
+  offset: 1, 1
+  index: -1
+big_money_coin_10
+  rotate: false
+  xy: 1731, 186
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+big_money_coin_11
+  rotate: false
+  xy: 1066, 190
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+big_money_coin_12
+  rotate: false
+  xy: 1731, 276
+  size: 30, 33
+  orig: 32, 35
+  offset: 1, 1
+  index: -1
+big_money_coin_13
+  rotate: false
+  xy: 1809, 321
+  size: 41, 24
+  orig: 43, 26
+  offset: 1, 1
+  index: -1
+big_money_coin_14
+  rotate: false
+  xy: 1016, 178
+  size: 48, 50
+  orig: 50, 52
+  offset: 1, 1
+  index: -1
+big_money_coin_15
+  rotate: false
+  xy: 955, 69
+  size: 34, 46
+  orig: 36, 48
+  offset: 1, 1
+  index: -1
+big_money_coin_16
+  rotate: false
+  xy: 955, 26
+  size: 27, 41
+  orig: 29, 43
+  offset: 1, 1
+  index: -1
+big_money_coin_2
+  rotate: false
+  xy: 1108, 204
+  size: 41, 24
+  orig: 43, 26
+  offset: 1, 1
+  index: -1
+big_money_coin_9
+  rotate: false
+  xy: 1108, 204
+  size: 41, 24
+  orig: 43, 26
+  offset: 1, 1
+  index: -1
+big_money_coin_3
+  rotate: false
+  xy: 1674, 303
+  size: 37, 42
+  orig: 39, 44
+  offset: 1, 1
+  index: -1
+big_money_coin_4
+  rotate: true
+  xy: 1713, 311
+  size: 34, 51
+  orig: 36, 53
+  offset: 1, 1
+  index: -1
+big_money_coin_5
+  rotate: true
+  xy: 1766, 314
+  size: 31, 41
+  orig: 33, 43
+  offset: 1, 1
+  index: -1
+big_money_coin_6
+  rotate: true
+  xy: 1852, 309
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 1
+  index: -1
+big_money_coin_7
+  rotate: false
+  xy: 1731, 246
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+big_money_coin_8
+  rotate: false
+  xy: 1731, 216
+  size: 21, 28
+  orig: 23, 30
+  offset: 1, 1
+  index: -1
+big_money_trig_glow
+  rotate: true
+  xy: 1434, 303
+  size: 557, 238
+  orig: 578, 260
+  offset: 19, 3
+  index: -1

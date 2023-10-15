@@ -1,0 +1,20 @@
+
+Spark.png
+size: 1919,845
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spark_00174
+  rotate: false
+  xy: 974, 2
+  size: 943, 841
+  orig: 990, 874
+  offset: 31, 19
+  index: -1
+spark_00177
+  rotate: false
+  xy: 2, 21
+  size: 970, 822
+  orig: 990, 874
+  offset: 0, 16
+  index: -1

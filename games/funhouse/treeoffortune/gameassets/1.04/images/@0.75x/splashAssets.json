@@ -1,0 +1,28 @@
+{"frames": {
+
+"screen1":
+{
+	"frame": {"x":3,"y":3,"w":1258,"h":879},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1258,"h":879},
+	"sourceSize": {"w":1258,"h":879}
+},
+"splashToggleTick_penguin":
+{
+	"frame": {"x":3,"y":886,"w":63,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":71},
+	"sourceSize": {"w":63,"h":71}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "splashAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f210aa714106ff476686133b4a33646:5fe1497a3c677488b85099ffc220baba:d77cbe639df3ce7bb575dabf13412b68$"
+}
+}

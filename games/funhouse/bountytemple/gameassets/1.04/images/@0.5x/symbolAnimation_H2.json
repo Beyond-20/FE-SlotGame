@@ -1,0 +1,263 @@
+{"frames": {
+
+"Jaguar_00000":
+{
+	"frame": {"x":796,"y":983,"w":189,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":189,"h":184},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00001":
+{
+	"frame": {"x":401,"y":983,"w":194,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":194,"h":189},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00002":
+{
+	"frame": {"x":3,"y":983,"w":195,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":195,"h":191},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00003":
+{
+	"frame": {"x":609,"y":787,"w":196,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":196,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00004":
+{
+	"frame": {"x":3,"y":3,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00005":
+{
+	"frame": {"x":205,"y":3,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00006":
+{
+	"frame": {"x":407,"y":3,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00007":
+{
+	"frame": {"x":609,"y":3,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00008":
+{
+	"frame": {"x":811,"y":3,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00009":
+{
+	"frame": {"x":3,"y":199,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00010":
+{
+	"frame": {"x":205,"y":199,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00011":
+{
+	"frame": {"x":407,"y":199,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00012":
+{
+	"frame": {"x":609,"y":199,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00013":
+{
+	"frame": {"x":811,"y":199,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00014":
+{
+	"frame": {"x":3,"y":395,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00015":
+{
+	"frame": {"x":205,"y":395,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00016":
+{
+	"frame": {"x":407,"y":395,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00017":
+{
+	"frame": {"x":609,"y":395,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00018":
+{
+	"frame": {"x":811,"y":395,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00019":
+{
+	"frame": {"x":3,"y":591,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00020":
+{
+	"frame": {"x":205,"y":591,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00021":
+{
+	"frame": {"x":407,"y":591,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00022":
+{
+	"frame": {"x":609,"y":591,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00023":
+{
+	"frame": {"x":811,"y":591,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00024":
+{
+	"frame": {"x":3,"y":787,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00025":
+{
+	"frame": {"x":205,"y":787,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00026":
+{
+	"frame": {"x":407,"y":787,"w":198,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":198,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00027":
+{
+	"frame": {"x":809,"y":787,"w":196,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":196,"h":192},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00028":
+{
+	"frame": {"x":202,"y":983,"w":195,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":195,"h":191},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00029":
+{
+	"frame": {"x":599,"y":983,"w":193,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":193,"h":189},
+	"sourceSize": {"w":198,"h":202}
+},
+"Jaguar_00030":
+{
+	"frame": {"x":796,"y":1171,"w":189,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":189,"h":184},
+	"sourceSize": {"w":198,"h":202}
+}},
+"animations": {
+	"Jaguar": ["Jaguar_00000","Jaguar_00001","Jaguar_00002","Jaguar_00003","Jaguar_00004","Jaguar_00005","Jaguar_00006","Jaguar_00007","Jaguar_00008","Jaguar_00009","Jaguar_00010","Jaguar_00011","Jaguar_00012","Jaguar_00013","Jaguar_00014","Jaguar_00015","Jaguar_00016","Jaguar_00017","Jaguar_00018","Jaguar_00019","Jaguar_00020","Jaguar_00021","Jaguar_00022","Jaguar_00023","Jaguar_00024","Jaguar_00025","Jaguar_00026","Jaguar_00027","Jaguar_00028","Jaguar_00029","Jaguar_00030"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_H2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:593982592bc251eb3ea080c07445be3b:48a3cc89390552878f63512333bf51bc:809f425718abab067bbaf57145c58f65$"
+}
+}

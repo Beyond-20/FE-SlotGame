@@ -1,0 +1,375 @@
+{"frames": {
+
+"WILD_dolphin_00000":
+{
+	"frame": {"x":2,"y":2,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00001":
+{
+	"frame": {"x":295,"y":2,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00002":
+{
+	"frame": {"x":588,"y":2,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00003":
+{
+	"frame": {"x":2,"y":261,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00004":
+{
+	"frame": {"x":295,"y":261,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00005":
+{
+	"frame": {"x":588,"y":261,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00006":
+{
+	"frame": {"x":2,"y":520,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00007":
+{
+	"frame": {"x":295,"y":520,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00008":
+{
+	"frame": {"x":588,"y":520,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00009":
+{
+	"frame": {"x":2,"y":779,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00010":
+{
+	"frame": {"x":295,"y":779,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00011":
+{
+	"frame": {"x":588,"y":779,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00012":
+{
+	"frame": {"x":2,"y":1038,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00013":
+{
+	"frame": {"x":295,"y":1038,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00014":
+{
+	"frame": {"x":588,"y":1038,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00015":
+{
+	"frame": {"x":2,"y":1297,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00016":
+{
+	"frame": {"x":295,"y":1297,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00017":
+{
+	"frame": {"x":588,"y":1297,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00018":
+{
+	"frame": {"x":2,"y":1556,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00019":
+{
+	"frame": {"x":295,"y":1556,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00020":
+{
+	"frame": {"x":588,"y":1556,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00021":
+{
+	"frame": {"x":2,"y":1815,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00022":
+{
+	"frame": {"x":295,"y":1815,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00023":
+{
+	"frame": {"x":588,"y":1815,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00024":
+{
+	"frame": {"x":2,"y":2074,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00025":
+{
+	"frame": {"x":295,"y":2074,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00026":
+{
+	"frame": {"x":588,"y":2074,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00027":
+{
+	"frame": {"x":2,"y":2333,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00028":
+{
+	"frame": {"x":295,"y":2333,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00029":
+{
+	"frame": {"x":588,"y":2333,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00030":
+{
+	"frame": {"x":2,"y":2592,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00031":
+{
+	"frame": {"x":295,"y":2592,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00032":
+{
+	"frame": {"x":588,"y":2592,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00033":
+{
+	"frame": {"x":2,"y":2851,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00034":
+{
+	"frame": {"x":295,"y":2851,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00035":
+{
+	"frame": {"x":588,"y":2851,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00036":
+{
+	"frame": {"x":2,"y":3110,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00037":
+{
+	"frame": {"x":295,"y":3110,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00038":
+{
+	"frame": {"x":588,"y":3110,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00039":
+{
+	"frame": {"x":2,"y":3369,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00040":
+{
+	"frame": {"x":2,"y":3628,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00041":
+{
+	"frame": {"x":295,"y":3369,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00042":
+{
+	"frame": {"x":588,"y":3369,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00043":
+{
+	"frame": {"x":295,"y":3628,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+},
+"WILD_dolphin_00044":
+{
+	"frame": {"x":588,"y":3628,"w":291,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":291,"h":257},
+	"sourceSize": {"w":291,"h":257}
+}},
+"animations": {
+	"WILD_dolphin": ["WILD_dolphin_00000","WILD_dolphin_00001","WILD_dolphin_00002","WILD_dolphin_00003","WILD_dolphin_00004","WILD_dolphin_00005","WILD_dolphin_00006","WILD_dolphin_00007","WILD_dolphin_00008","WILD_dolphin_00009","WILD_dolphin_00010","WILD_dolphin_00011","WILD_dolphin_00012","WILD_dolphin_00013","WILD_dolphin_00014","WILD_dolphin_00015","WILD_dolphin_00016","WILD_dolphin_00017","WILD_dolphin_00018","WILD_dolphin_00019","WILD_dolphin_00020","WILD_dolphin_00021","WILD_dolphin_00022","WILD_dolphin_00023","WILD_dolphin_00024","WILD_dolphin_00025","WILD_dolphin_00026","WILD_dolphin_00027","WILD_dolphin_00028","WILD_dolphin_00029","WILD_dolphin_00030","WILD_dolphin_00031","WILD_dolphin_00032","WILD_dolphin_00033","WILD_dolphin_00034","WILD_dolphin_00035","WILD_dolphin_00036","WILD_dolphin_00037","WILD_dolphin_00038","WILD_dolphin_00039","WILD_dolphin_00040","WILD_dolphin_00041","WILD_dolphin_00042","WILD_dolphin_00043","WILD_dolphin_00044"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbolAnimation_WD.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":4096},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:183498e2262835785a7446ca895315be:72a333bfaba34bfa92c5d808299599cb:dd213c8c196d579aab8df1a6f7849577$"
+}
+}

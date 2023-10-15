@@ -1,0 +1,143 @@
+{"frames": {
+
+"bigwinbg":
+{
+	"frame": {"x":1287,"y":505,"w":436,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":436,"h":121},
+	"sourceSize": {"w":436,"h":121}
+},
+"coin_1":
+{
+	"frame": {"x":1983,"y":102,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+"coin_2":
+{
+	"frame": {"x":1983,"y":150,"w":44,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":36},
+	"sourceSize": {"w":44,"h":36}
+},
+"coin_3":
+{
+	"frame": {"x":1983,"y":43,"w":50,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":55},
+	"sourceSize": {"w":50,"h":55}
+},
+"coin_4":
+{
+	"frame": {"x":1983,"y":3,"w":55,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":36},
+	"sourceSize": {"w":55,"h":36}
+},
+"coin_5":
+{
+	"frame": {"x":1983,"y":190,"w":42,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":34},
+	"sourceSize": {"w":42,"h":34}
+},
+"diamond":
+{
+	"frame": {"x":1795,"y":579,"w":64,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":79},
+	"sourceSize": {"w":64,"h":79}
+},
+"FX":
+{
+	"frame": {"x":3,"y":727,"w":955,"h":602},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":955,"h":602},
+	"sourceSize": {"w":955,"h":602}
+},
+"gameOkBtn_down":
+{
+	"frame": {"x":1727,"y":505,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"gameOkBtn_inactive":
+{
+	"frame": {"x":1801,"y":505,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"gameOkBtn_over":
+{
+	"frame": {"x":1875,"y":505,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"gameOkBtn_up":
+{
+	"frame": {"x":1949,"y":505,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"Pink Diamond":
+{
+	"frame": {"x":1727,"y":579,"w":64,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":79},
+	"sourceSize": {"w":64,"h":79}
+},
+"popupbg":
+{
+	"frame": {"x":1287,"y":3,"w":692,"h":498},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":498},
+	"sourceSize": {"w":692,"h":498}
+},
+"reelFrame":
+{
+	"frame": {"x":3,"y":1333,"w":786,"h":471},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":786,"h":471},
+	"sourceSize": {"w":786,"h":471}
+},
+"tint":
+{
+	"frame": {"x":3,"y":3,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720}
+}},
+"animations": {
+	"coin": ["coin_1","coin_2","coin_3","coin_4","coin_5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameElements.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:bbac2e098e2637fe924d7cd48c0dfb14:8af4c95806d2fcfca9cf49a13d606e11:d4c9f6938a9e79974262d6740d5ac280$"
+}
+}

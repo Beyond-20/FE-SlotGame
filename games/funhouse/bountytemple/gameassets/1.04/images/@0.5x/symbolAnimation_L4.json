@@ -1,0 +1,263 @@
+{"frames": {
+
+"stone_000":
+{
+	"frame": {"x":182,"y":178,"w":175,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":175,"h":169},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_001":
+{
+	"frame": {"x":3,"y":180,"w":175,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":175,"h":169},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_002":
+{
+	"frame": {"x":182,"y":3,"w":175,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":175,"h":171},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_003":
+{
+	"frame": {"x":719,"y":3,"w":175,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":175,"h":170},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_004":
+{
+	"frame": {"x":719,"y":177,"w":175,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":175,"h":170},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_005":
+{
+	"frame": {"x":361,"y":3,"w":175,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":175,"h":171},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_006":
+{
+	"frame": {"x":3,"y":3,"w":175,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":175,"h":173},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_007":
+{
+	"frame": {"x":182,"y":351,"w":173,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":173,"h":174},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_008":
+{
+	"frame": {"x":3,"y":527,"w":171,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_009":
+{
+	"frame": {"x":534,"y":351,"w":168,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":168,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_010":
+{
+	"frame": {"x":706,"y":351,"w":165,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_011":
+{
+	"frame": {"x":348,"y":702,"w":162,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_012":
+{
+	"frame": {"x":3,"y":885,"w":160,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_013":
+{
+	"frame": {"x":679,"y":709,"w":158,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_014":
+{
+	"frame": {"x":864,"y":530,"w":157,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_015":
+{
+	"frame": {"x":330,"y":1060,"w":157,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_016":
+{
+	"frame": {"x":498,"y":887,"w":158,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_017":
+{
+	"frame": {"x":167,"y":885,"w":159,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_018":
+{
+	"frame": {"x":514,"y":708,"w":161,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_019":
+{
+	"frame": {"x":3,"y":706,"w":161,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_020":
+{
+	"frame": {"x":168,"y":706,"w":161,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_021":
+{
+	"frame": {"x":333,"y":881,"w":161,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_022":
+{
+	"frame": {"x":698,"y":530,"w":162,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_023":
+{
+	"frame": {"x":531,"y":530,"w":163,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":163,"h":174},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_024":
+{
+	"frame": {"x":178,"y":529,"w":166,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":166,"h":173},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_025":
+{
+	"frame": {"x":359,"y":526,"w":168,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":168,"h":172},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_026":
+{
+	"frame": {"x":359,"y":351,"w":171,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":171,"h":171},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_027":
+{
+	"frame": {"x":3,"y":353,"w":173,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":173,"h":170},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_028":
+{
+	"frame": {"x":361,"y":178,"w":175,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":175,"h":169},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_029":
+{
+	"frame": {"x":540,"y":3,"w":175,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":175,"h":171},
+	"sourceSize": {"w":175,"h":175}
+},
+"stone_030":
+{
+	"frame": {"x":540,"y":178,"w":175,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":175,"h":169},
+	"sourceSize": {"w":175,"h":175}
+}},
+"animations": {
+	"stone": ["stone_000","stone_001","stone_002","stone_003","stone_004","stone_005","stone_006","stone_007","stone_008","stone_009","stone_010","stone_011","stone_012","stone_013","stone_014","stone_015","stone_016","stone_017","stone_018","stone_019","stone_020","stone_021","stone_022","stone_023","stone_024","stone_025","stone_026","stone_027","stone_028","stone_029","stone_030"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_L4.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:af2d1d482c60e56d87ec7291188dbfef:acd257e35a6cb56bfb6999617772694f:c6a10f22d9a325df33cf29e2eec1c55c$"
+}
+}

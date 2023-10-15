@@ -1,0 +1,20 @@
+{"frames": {
+
+"splashlogo":
+{
+	"frame": {"x":3,"y":3,"w":399,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":399,"h":359},
+	"sourceSize": {"w":399,"h":359}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gamelogo.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:bedacf4a7ff9968bf05c00b08e1e0c3b:4cfb63ffdaf8a45a85a84dba845ad6c0:376ed4150e2f4691048b09d6c9c83928$"
+}
+}

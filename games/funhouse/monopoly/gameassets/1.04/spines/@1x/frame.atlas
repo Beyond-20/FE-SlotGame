@@ -1,0 +1,55 @@
+
+frame.png
+size: 974,647
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_box_glow_00000
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 250, 250
+  offset: 25, 25
+  index: -1
+frame_glow2_00000
+  rotate: false
+  xy: 204, 2
+  size: 199, 200
+  orig: 200, 200
+  offset: 1, 0
+  index: -1
+part_line3_0000
+  rotate: false
+  xy: 2, 204
+  size: 451, 441
+  orig: 600, 600
+  offset: 87, 47
+  index: -1
+shockwave_24
+  rotate: false
+  xy: 455, 69
+  size: 290, 284
+  orig: 300, 300
+  offset: 6, 8
+  index: -1
+shockwave_28
+  rotate: false
+  xy: 455, 355
+  size: 290, 290
+  orig: 300, 300
+  offset: 5, 5
+  index: -1
+stars_13
+  rotate: true
+  xy: 747, 399
+  size: 246, 225
+  orig: 250, 236
+  offset: 3, 6
+  index: -1
+stars_19
+  rotate: true
+  xy: 747, 152
+  size: 245, 224
+  orig: 250, 231
+  offset: 3, 2
+  index: -1

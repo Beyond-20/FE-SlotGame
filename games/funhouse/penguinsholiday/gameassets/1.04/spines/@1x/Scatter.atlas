@@ -1,0 +1,83 @@
+
+Scatter.png
+size: 1471,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_G_Scatter
+  rotate: true
+  xy: 500, 15
+  size: 391, 388
+  orig: 393, 390
+  offset: 1, 1
+  index: -1
+Foat_SH_Scatter
+  rotate: true
+  xy: 1178, 125
+  size: 117, 128
+  orig: 142, 147
+  offset: 17, 8
+  index: -1
+Foat_Scatter_2
+  rotate: false
+  xy: 894, 32
+  size: 156, 374
+  orig: 156, 374
+  offset: 0, 0
+  index: -1
+Frame_Scatter
+  rotate: false
+  xy: 97, 8
+  size: 397, 398
+  orig: 399, 400
+  offset: 1, 1
+  index: -1
+Ice_Ring_Scatter
+  rotate: true
+  xy: 1056, 55
+  size: 351, 116
+  orig: 357, 118
+  offset: 5, 1
+  index: -1
+Light___
+  rotate: false
+  xy: 1056, 12
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1
+Scatter
+  rotate: true
+  xy: 6, 6
+  size: 400, 85
+  orig: 405, 89
+  offset: 2, 2
+  index: -1
+Water_2
+  rotate: false
+  xy: 1178, 248
+  size: 287, 70
+  orig: 287, 84
+  offset: 0, 2
+  index: -1
+Water_Scatter
+  rotate: false
+  xy: 1178, 324
+  size: 287, 82
+  orig: 287, 84
+  offset: 0, 2
+  index: -1
+Wawe_1
+  rotate: false
+  xy: 1178, 66
+  size: 133, 53
+  orig: 136, 56
+  offset: 3, 2
+  index: -1
+Wawe_2
+  rotate: false
+  xy: 1312, 181
+  size: 134, 61
+  orig: 168, 65
+  offset: 3, 3
+  index: -1

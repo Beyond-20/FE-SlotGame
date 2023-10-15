@@ -1,0 +1,32 @@
+{"frames": {
+
+"mega_win_loop_018":
+{
+	"frame": {"x":3,"y":3,"w":2136,"h":1427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":48,"w":2136,"h":1427},
+	"sourceSize": {"w":2731,"h":1536}
+},
+"mega_win_loop_019":
+{
+	"frame": {"x":3,"y":1434,"w":2136,"h":1427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":295,"y":48,"w":2136,"h":1427},
+	"sourceSize": {"w":2731,"h":1536}
+}},
+"animations": {
+	"mega_win_loop": ["mega_win_loop_018","mega_win_loop_019"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "megaWinAnim9.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "megaWinAnim0.json", "megaWinAnim1.json", "megaWinAnim2.json", "megaWinAnim3.json", "megaWinAnim4.json", "megaWinAnim5.json", "megaWinAnim6.json", "megaWinAnim7.json", "megaWinAnim8.json", "megaWinAnim10.json", "megaWinAnim11.json", "megaWinAnim12.json", "megaWinAnim13.json", "megaWinAnim14.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:01e2d265a01f073690d98d0b4071e993:8f946ac9f3f8cba1d6c5e4a01ad71283:ca487039ea6a62f29eb60259bcfaed22$"
+}
+}

@@ -1,0 +1,29 @@
+{"frames": {
+
+"Confetti_24":
+{
+	"frame": {"x":3,"y":3,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+},
+"Confetti_25":
+{
+	"frame": {"x":511,"y":3,"w":504,"h":924},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":924},
+	"sourceSize": {"w":504,"h":924}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "anticipationAnim1.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.84",
+	"related_multi_packs": [ "anticipationAnim0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d5c0f9e638d9fd54d23211047549f9c4:cef5e124dc6576ca08155f91d5b69405:f3e81b61e60ab3591491ba31fe7ce1bc$"
+}
+}

@@ -1,0 +1,174 @@
+
+Dragon_transition.png
+size: 2471,1828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blik_02
+  rotate: false
+  xy: 2, 41
+  size: 512, 189
+  orig: 514, 207
+  offset: 1, 9
+  index: -1
+belts
+  rotate: true
+  xy: 1950, 639
+  size: 496, 184
+  orig: 500, 186
+  offset: 2, 1
+  index: -1
+brows
+  rotate: false
+  xy: 2024, 39
+  size: 323, 101
+  orig: 325, 103
+  offset: 1, 1
+  index: -1
+circle_bottom
+  rotate: false
+  xy: 516, 2
+  size: 321, 174
+  orig: 328, 177
+  offset: 6, 2
+  index: -1
+circle_rg_bottom_00015
+  rotate: false
+  xy: 2136, 458
+  size: 327, 314
+  orig: 355, 347
+  offset: 14, 9
+  index: -1
+circle_rg_top_00015
+  rotate: false
+  xy: 2118, 142
+  size: 327, 314
+  orig: 375, 347
+  offset: 21, 28
+  index: -1
+circle_top
+  rotate: false
+  xy: 839, 2
+  size: 321, 174
+  orig: 328, 177
+  offset: 6, 1
+  index: -1
+ears
+  rotate: false
+  xy: 1181, 169
+  size: 357, 92
+  orig: 360, 94
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 1162, 30
+  size: 304, 137
+  orig: 326, 147
+  offset: 11, 1
+  index: -1
+face
+  rotate: true
+  xy: 2136, 774
+  size: 361, 270
+  orig: 365, 272
+  offset: 2, 1
+  index: -1
+gold_bottom
+  rotate: true
+  xy: 2421, 1277
+  size: 549, 48
+  orig: 551, 50
+  offset: 1, 1
+  index: -1
+gold_top
+  rotate: true
+  xy: 2421, 1277
+  size: 549, 48
+  orig: 551, 50
+  offset: 1, 1
+  index: -1
+horns
+  rotate: false
+  xy: 1540, 139
+  size: 156, 122
+  orig: 158, 124
+  offset: 1, 1
+  index: -1
+letters
+  rotate: false
+  xy: 1721, 136
+  size: 227, 999
+  orig: 229, 1001
+  offset: 1, 1
+  index: -1
+mustache
+  rotate: true
+  xy: 2024, 268
+  size: 369, 92
+  orig: 369, 92
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 1468, 4
+  size: 163, 63
+  orig: 165, 65
+  offset: 1, 1
+  index: -1
+red
+  rotate: false
+  xy: 1181, 263
+  size: 538, 1563
+  orig: 540, 1565
+  offset: 1, 1
+  index: -1
+red_circle
+  rotate: false
+  xy: 2024, 170
+  size: 92, 96
+  orig: 94, 98
+  offset: 1, 1
+  index: -1
+red_merged
+  rotate: false
+  xy: 2, 232
+  size: 611, 1594
+  orig: 611, 1737
+  offset: 0, 143
+  index: -1
+red_merged_blur
+  rotate: false
+  xy: 615, 252
+  size: 564, 1574
+  orig: 564, 1697
+  offset: 0, 123
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 4
+  size: 373, 35
+  orig: 380, 39
+  offset: 4, 3
+  index: -1
+shadow_gold_bottom
+  rotate: false
+  xy: 615, 178
+  size: 557, 72
+  orig: 611, 83
+  offset: 48, 4
+  index: -1
+shadow_gold_top
+  rotate: true
+  xy: 1950, 80
+  size: 557, 72
+  orig: 611, 83
+  offset: 48, 7
+  index: -1
+smoke_00044
+  rotate: false
+  xy: 1721, 1137
+  size: 698, 689
+  orig: 700, 696
+  offset: 0, 0
+  index: -1

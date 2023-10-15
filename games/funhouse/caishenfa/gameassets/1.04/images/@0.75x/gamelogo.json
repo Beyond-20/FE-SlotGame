@@ -1,0 +1,28 @@
+{"frames": {
+
+"gameLogo":
+{
+	"frame": {"x":3,"y":765,"w":800,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":153},
+	"sourceSize": {"w":800,"h":153}
+},
+"splashlogo":
+{
+	"frame": {"x":3,"y":3,"w":800,"h":758},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":758},
+	"sourceSize": {"w":800,"h":758}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gamelogo.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:e6380ff086625f848fc736b8bdef05e1:7d83a0e493750984876b7d104b37a408:376ed4150e2f4691048b09d6c9c83928$"
+}
+}

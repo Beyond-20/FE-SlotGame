@@ -1,0 +1,12 @@
+{
+    "gamerules": {
+        "lastdate": "2021 年 11 月 01 日",
+        "gamerules2": "9条支付线，从左到右，从右到左支付",
+        "wildRules": "此符号为百搭，可替代所有图案。百搭仅出现在转轮 2,3 和 4 中。",
+        "wildRules2": "百搭替代所有图案。任何包含百搭的获胜都会应用 x2 倍数。",
+        "scatterRules": "车速表图案是随机出现在转轮中。即使它没有与支付线连上，它也会被支付。"
+    },
+    "headings": {
+        "gameName": " FOMO RICHES "
+    }
+}

@@ -1,0 +1,71 @@
+{"frames": {
+
+"1_green_light_anim_00000":
+{
+	"frame": {"x":163,"y":3,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":213,"w":75,"h":75},
+	"sourceSize": {"w":500,"h":500}
+},
+"1_green_light_anim_00001":
+{
+	"frame": {"x":163,"y":82,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":213,"w":75,"h":75},
+	"sourceSize": {"w":500,"h":500}
+},
+"1_green_light_anim_00002":
+{
+	"frame": {"x":3,"y":149,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":213,"w":75,"h":75},
+	"sourceSize": {"w":500,"h":500}
+},
+"1_green_light_anim_00003":
+{
+	"frame": {"x":82,"y":149,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":213,"w":75,"h":75},
+	"sourceSize": {"w":500,"h":500}
+},
+"1_green_light_anim_00004":
+{
+	"frame": {"x":161,"y":161,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":213,"w":75,"h":75},
+	"sourceSize": {"w":500,"h":500}
+},
+"1_green_light_anim_00005":
+{
+	"frame": {"x":3,"y":228,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":213,"w":75,"h":75},
+	"sourceSize": {"w":500,"h":500}
+},
+"1_green_light_anim_00006":
+{
+	"frame": {"x":3,"y":3,"w":156,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":180,"w":156,"h":142},
+	"sourceSize": {"w":500,"h":500}
+}},
+"animations": {
+	"1_green_light_anim": ["1_green_light_anim_00000","1_green_light_anim_00001","1_green_light_anim_00002","1_green_light_anim_00003","1_green_light_anim_00004","1_green_light_anim_00005","1_green_light_anim_00006"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Green_Dice_LightAnim_1.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:c0ae812356c403c670106e77769d7372:4cf337d178f55a1cec727a4bd8c5a3b6:1e44c24d79528e5c7a06c76235eee6d7$"
+}
+}

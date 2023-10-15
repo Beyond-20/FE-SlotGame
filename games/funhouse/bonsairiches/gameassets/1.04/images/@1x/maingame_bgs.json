@@ -1,0 +1,28 @@
+{"frames": {
+
+"freespin_bg":
+{
+	"frame": {"x":3,"y":3,"w":2560,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2560,"h":1440},
+	"sourceSize": {"w":2560,"h":1440}
+},
+"maingame_bg":
+{
+	"frame": {"x":3,"y":1447,"w":2560,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2560,"h":1440},
+	"sourceSize": {"w":2560,"h":1440}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "maingame_bgs.jpg",
+	"format": "RGB888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aabf1a9e2d803325b8be8b2a933b45cf:5f8838c4aa4fe9a5f800877b385a5247:01389ac44357198e8fd37319d6f101e9$"
+}
+}

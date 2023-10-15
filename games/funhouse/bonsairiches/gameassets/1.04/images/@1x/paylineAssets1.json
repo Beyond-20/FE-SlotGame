@@ -1,0 +1,93 @@
+{"frames": {
+
+"4":
+{
+	"frame": {"x":3,"y":761,"w":1750,"h":753},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":753},
+	"sourceSize": {"w":1750,"h":753}
+},
+"5":
+{
+	"frame": {"x":1757,"y":761,"w":1750,"h":753},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":753},
+	"sourceSize": {"w":1750,"h":753}
+},
+"6":
+{
+	"frame": {"x":1756,"y":1518,"w":1750,"h":392},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":392},
+	"sourceSize": {"w":1750,"h":392}
+},
+"7":
+{
+	"frame": {"x":1756,"y":1914,"w":1750,"h":392},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":392},
+	"sourceSize": {"w":1750,"h":392}
+},
+"12":
+{
+	"frame": {"x":1756,"y":2310,"w":1750,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":391},
+	"sourceSize": {"w":1750,"h":391}
+},
+"13":
+{
+	"frame": {"x":1756,"y":2705,"w":1750,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":391},
+	"sourceSize": {"w":1750,"h":391}
+},
+"18":
+{
+	"frame": {"x":3,"y":3,"w":1750,"h":754},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":754},
+	"sourceSize": {"w":1750,"h":754}
+},
+"19":
+{
+	"frame": {"x":1757,"y":3,"w":1750,"h":754},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":754},
+	"sourceSize": {"w":1750,"h":754}
+},
+"20":
+{
+	"frame": {"x":3,"y":1518,"w":1749,"h":757},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1749,"h":757},
+	"sourceSize": {"w":1749,"h":757}
+},
+"21":
+{
+	"frame": {"x":3,"y":2279,"w":1749,"h":755},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1749,"h":755},
+	"sourceSize": {"w":1749,"h":755}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paylineAssets1.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "paylineAssets0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:eac2fb5fa574f2344c866c14e8357b86:8dc487267f077cc80164a95628c44993:a847584d9c65ad93669fcecd3ec13e1d$"
+}
+}

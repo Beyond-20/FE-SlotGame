@@ -1,0 +1,11 @@
+{
+  "wildRespinText" : "当任意两个转轮上出现两个百搭图案且另一个转轮上出现空白时，空白转轮将具有重新旋转功能，该转轮将再次旋转以出现非空白图案并确保获胜.",
+  "randomWildMulText":"每当百搭降落时，就有机会获得倍数。因此，每当百搭降落时，每旋转 30 次就会获得 5 X、8 X或 10 X的倍数.",
+  "wildSubtitueMsg" : "百搭图案可替代任何图案",
+  "anyText" : "任何",
+  "wildSubstituteText": "百搭图案可替代任何图案",
+  "advertiseText1" : "2 个百搭触发重新旋转，直至获胜",
+  "advertiseText2" : "百搭可以增升 5 X、8 X、10 X的倍数",
+  "advertiseText3" : "赢取高达 2800 X 投注"
+}
+

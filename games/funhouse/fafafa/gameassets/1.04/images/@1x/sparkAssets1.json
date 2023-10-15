@@ -1,0 +1,45 @@
+{"frames": {
+
+"spark_00168":
+{
+	"frame": {"x":833,"y":839,"w":787,"h":793},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":125,"w":787,"h":793},
+	"sourceSize": {"w":1338,"h":990}
+},
+"spark_00169":
+{
+	"frame": {"x":841,"y":3,"w":832,"h":832},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":107,"w":832,"h":832},
+	"sourceSize": {"w":1338,"h":990}
+},
+"spark_00186":
+{
+	"frame": {"x":3,"y":3,"w":834,"h":811},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":285,"y":131,"w":834,"h":811},
+	"sourceSize": {"w":1338,"h":990}
+},
+"spark_00187":
+{
+	"frame": {"x":3,"y":818,"w":826,"h":816},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":123,"w":826,"h":816},
+	"sourceSize": {"w":1338,"h":990}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sparkAssets1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "sparkAssets0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:25eb6db0039bcfcda37ab18579455466:fce391025af6bd2fa70aeb3431492f2b:df5d72d424be6cd0867c1b94f428e151$"
+}
+}

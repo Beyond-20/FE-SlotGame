@@ -1,0 +1,831 @@
+
+BlueImperor8002.png
+size: 2497,1997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IMP_Blu_A pair of mustache
+  rotate: false
+  xy: 235, 1949
+  size: 68, 46
+  orig: 70, 48
+  offset: 1, 1
+  index: -1
+IMP_Blu_Bandage
+  rotate: true
+  xy: 2, 1714
+  size: 121, 413
+  orig: 121, 413
+  offset: 0, 0
+  index: -1
+IMP_Blu_Bandage_Shadow
+  rotate: false
+  xy: 575, 1831
+  size: 150, 105
+  orig: 157, 111
+  offset: 3, 1
+  index: -1
+IMP_Blu_Beard and hair
+  rotate: true
+  xy: 2210, 1610
+  size: 150, 169
+  orig: 152, 171
+  offset: 1, 1
+  index: -1
+IMP_Blu_Body
+  rotate: false
+  xy: 2, 891
+  size: 341, 261
+  orig: 343, 283
+  offset: 1, 1
+  index: -1
+IMP_Blu_Body_2
+  rotate: true
+  xy: 860, 800
+  size: 285, 351
+  orig: 285, 351
+  offset: 0, 0
+  index: -1
+IMP_Blu_Boot_L
+  rotate: false
+  xy: 1890, 1919
+  size: 109, 76
+  orig: 111, 78
+  offset: 1, 1
+  index: -1
+IMP_Blu_Boot_L2
+  rotate: false
+  xy: 305, 1949
+  size: 83, 46
+  orig: 86, 48
+  offset: 1, 1
+  index: -1
+IMP_Blu_Boot_R
+  rotate: false
+  xy: 2001, 1913
+  size: 109, 82
+  orig: 111, 84
+  offset: 1, 1
+  index: -1
+IMP_Blu_Boot_R2
+  rotate: false
+  xy: 979, 1936
+  size: 88, 59
+  orig: 90, 61
+  offset: 1, 1
+  index: -1
+IMP_Blu_Eyebrows
+  rotate: true
+  xy: 2293, 1762
+  size: 132, 159
+  orig: 134, 161
+  offset: 1, 1
+  index: -1
+IMP_Blu_Helmet
+  rotate: false
+  xy: 2335, 1896
+  size: 134, 99
+  orig: 136, 101
+  offset: 1, 1
+  index: -1
+IMP_Blu_Helmet s elements_L
+  rotate: true
+  xy: 912, 1937
+  size: 58, 65
+  orig: 60, 67
+  offset: 1, 1
+  index: -1
+IMP_Blu_Helmet s elements_R
+  rotate: false
+  xy: 1234, 1934
+  size: 93, 61
+  orig: 95, 63
+  offset: 1, 1
+  index: -1
+IMP_Blu_Layer 23
+  rotate: true
+  xy: 727, 1830
+  size: 105, 203
+  orig: 107, 205
+  offset: 1, 1
+  index: -1
+IMP_Blu_Left
+  rotate: false
+  xy: 1329, 1934
+  size: 95, 61
+  orig: 97, 63
+  offset: 1, 1
+  index: -1
+IMP_Blu_Left scurf
+  rotate: true
+  xy: 1050, 1824
+  size: 107, 456
+  orig: 107, 456
+  offset: 0, 0
+  index: -1
+IMP_Blu_Mouth
+  rotate: false
+  xy: 2, 1971
+  size: 37, 24
+  orig: 39, 26
+  offset: 1, 1
+  index: -1
+IMP_Blu_Object
+  rotate: true
+  xy: 1708, 1478
+  size: 169, 245
+  orig: 171, 247
+  offset: 1, 1
+  index: -1
+IMP_Blu_Object_00000
+  rotate: true
+  xy: 1517, 1501
+  size: 167, 189
+  orig: 230, 263
+  offset: 32, 40
+  index: -1
+IMP_Blu_Right  scurf
+  rotate: true
+  xy: 557, 1532
+  size: 156, 463
+  orig: 156, 463
+  offset: 0, 0
+  index: -1
+IMP_Blu_Right hand
+  rotate: false
+  xy: 1069, 1936
+  size: 85, 59
+  orig: 87, 61
+  offset: 1, 1
+  index: -1
+IMP_Blu_Robe
+  rotate: false
+  xy: 1202, 1516
+  size: 313, 164
+  orig: 313, 164
+  offset: 0, 0
+  index: -1
+IMP_Blu_Sleeve_L
+  rotate: true
+  xy: 729, 1693
+  size: 131, 217
+  orig: 133, 219
+  offset: 1, 1
+  index: -1
+IMP_Blu_sh from Right hand
+  rotate: true
+  xy: 1156, 1935
+  size: 60, 76
+  orig: 68, 85
+  offset: 4, 5
+  index: -1
+IMP_Blu_sh from object
+  rotate: false
+  xy: 2, 1849
+  size: 181, 100
+  orig: 196, 124
+  offset: 6, 14
+  index: -1
+IMP_Blu_sh from scurf
+  rotate: true
+  xy: 390, 1945
+  size: 50, 114
+  orig: 56, 118
+  offset: 4, 2
+  index: -1
+IMP_Blu_sh from scurf2
+  rotate: true
+  xy: 1426, 1933
+  size: 62, 168
+  orig: 71, 177
+  offset: 4, 5
+  index: -1
+IMP_Red_Cloth
+  rotate: false
+  xy: 417, 1699
+  size: 310, 129
+  orig: 310, 129
+  offset: 0, 0
+  index: -1
+IMP_Red_Elemnts of helmet L
+  rotate: false
+  xy: 1787, 1923
+  size: 101, 72
+  orig: 104, 88
+  offset: 1, 1
+  index: -1
+IMP_Red_Elemnts of helmet R
+  rotate: false
+  xy: 78, 1951
+  size: 83, 44
+  orig: 160, 47
+  offset: 76, 2
+  index: -1
+IMP_Red_Face
+  rotate: true
+  xy: 1973, 1793
+  size: 118, 122
+  orig: 120, 124
+  offset: 1, 1
+  index: -1
+IMP_Red_Gold strips L
+  rotate: false
+  xy: 2112, 1911
+  size: 111, 84
+  orig: 113, 91
+  offset: 1, 6
+  index: -1
+IMP_Red_Gold strips R
+  rotate: false
+  xy: 2225, 1909
+  size: 108, 86
+  orig: 110, 93
+  offset: 1, 6
+  index: -1
+IMP_Red_Hair
+  rotate: true
+  xy: 2141, 1430
+  size: 178, 208
+  orig: 180, 210
+  offset: 1, 1
+  index: -1
+IMP_Red_Helmet
+  rotate: false
+  xy: 932, 1826
+  size: 116, 108
+  orig: 119, 111
+  offset: 2, 1
+  index: -1
+IMP_Red_Left hand
+  rotate: false
+  xy: 664, 1938
+  size: 92, 57
+  orig: 94, 59
+  offset: 1, 1
+  index: -1
+IMP_Red_Left scurf
+  rotate: true
+  xy: 816, 1339
+  size: 183, 378
+  orig: 209, 378
+  offset: 0, 0
+  index: -1
+IMP_Red_Mouth
+  rotate: false
+  xy: 41, 1967
+  size: 35, 28
+  orig: 37, 30
+  offset: 1, 1
+  index: -1
+IMP_Red_Object
+  rotate: false
+  xy: 1620, 1277
+  size: 325, 199
+  orig: 327, 201
+  offset: 1, 1
+  index: -1
+IMP_Red_Object2_00000
+  rotate: false
+  xy: 2, 1382
+  size: 243, 182
+  orig: 262, 216
+  offset: 12, 8
+  index: -1
+IMP_Red_Right hand
+  rotate: false
+  xy: 580, 1939
+  size: 82, 56
+  orig: 124, 58
+  offset: 41, 1
+  index: -1
+IMP_Red_Right scurf
+  rotate: true
+  xy: 441, 1348
+  size: 182, 373
+  orig: 182, 373
+  offset: 0, 0
+  index: -1
+IMP_Red_Robe
+  rotate: true
+  xy: 345, 882
+  size: 270, 513
+  orig: 270, 513
+  offset: 0, 0
+  index: -1
+IMP_Red_Scurf shadow L
+  rotate: true
+  xy: 1676, 1805
+  size: 112, 295
+  orig: 287, 304
+  offset: 2, 5
+  index: -1
+IMP_Red_Scurf shadow R
+  rotate: true
+  xy: 948, 1690
+  size: 132, 305
+  orig: 137, 309
+  offset: 3, 2
+  index: -1
+IMP_Red_Shadow from beard
+  rotate: false
+  xy: 2097, 1785
+  size: 194, 122
+  orig: 197, 125
+  offset: 1, 2
+  index: -1
+IMP_Red_Shadow from belt
+  rotate: true
+  xy: 1294, 1065
+  size: 210, 386
+  orig: 210, 389
+  offset: 0, 0
+  index: -1
+IMP_Red_Shadow from big cloth
+  rotate: true
+  xy: 2, 1566
+  size: 146, 380
+  orig: 148, 384
+  offset: 1, 2
+  index: -1
+IMP_Red_Shadow from object
+  rotate: false
+  xy: 358, 1837
+  size: 215, 104
+  orig: 227, 114
+  offset: 5, 5
+  index: -1
+IMP_Red_Shadow from shoulder
+  rotate: false
+  xy: 1517, 1670
+  size: 302, 133
+  orig: 306, 136
+  offset: 2, 2
+  index: -1
+IMP_Red_Shadow from sleeve
+  rotate: false
+  xy: 1821, 1649
+  size: 221, 142
+  orig: 225, 151
+  offset: 2, 8
+  index: -1
+IMP_Red_Shadow of head
+  rotate: false
+  xy: 1596, 1933
+  size: 189, 62
+  orig: 217, 90
+  offset: 27, 27
+  index: -1
+IMP_Red_Sleevs L
+  rotate: true
+  xy: 1255, 1682
+  size: 132, 260
+  orig: 132, 260
+  offset: 0, 0
+  index: -1
+IMP_Red_Sleevs R
+  rotate: true
+  xy: 1933, 991
+  size: 240, 289
+  orig: 248, 293
+  offset: 7, 3
+  index: -1
+IMP_Red_sh from Right hand
+  rotate: false
+  xy: 758, 1938
+  size: 62, 57
+  orig: 68, 65
+  offset: 3, 4
+  index: -1
+Imp_text
+  rotate: false
+  xy: 243, 1154
+  size: 791, 183
+  orig: 793, 185
+  offset: 1, 1
+  index: -1
+coins/chest open coins_004
+  rotate: false
+  xy: 163, 1951
+  size: 70, 44
+  orig: 750, 682
+  offset: 362, 316
+  index: -1
+coins/chest open coins_005
+  rotate: false
+  xy: 506, 1943
+  size: 72, 52
+  orig: 750, 682
+  offset: 359, 318
+  index: -1
+coins/chest open coins_006
+  rotate: false
+  xy: 822, 1938
+  size: 88, 57
+  orig: 750, 682
+  offset: 340, 322
+  index: -1
+coins/chest open coins_007
+  rotate: false
+  xy: 185, 1843
+  size: 171, 104
+  orig: 750, 682
+  offset: 253, 288
+  index: -1
+coins/chest open coins_008
+  rotate: false
+  xy: 1508, 1816
+  size: 166, 115
+  orig: 750, 682
+  offset: 253, 286
+  index: -1
+coins/chest open coins_009
+  rotate: false
+  xy: 2044, 1641
+  size: 164, 142
+  orig: 750, 682
+  offset: 253, 270
+  index: -1
+coins/chest open coins_010
+  rotate: false
+  xy: 384, 1544
+  size: 171, 153
+  orig: 750, 682
+  offset: 254, 271
+  index: -1
+coins/chest open coins_011
+  rotate: false
+  xy: 1022, 1524
+  size: 178, 164
+  orig: 750, 682
+  offset: 255, 273
+  index: -1
+coins/chest open coins_012
+  rotate: false
+  xy: 1955, 1467
+  size: 184, 172
+  orig: 750, 682
+  offset: 256, 276
+  index: -1
+coins/chest open coins_013
+  rotate: false
+  xy: 247, 1359
+  size: 192, 183
+  orig: 750, 682
+  offset: 257, 278
+  index: -1
+coins/chest open coins_014
+  rotate: true
+  xy: 1196, 1315
+  size: 199, 200
+  orig: 750, 682
+  offset: 260, 272
+  index: -1
+coins/chest open coins_015
+  rotate: true
+  xy: 1398, 1292
+  size: 207, 220
+  orig: 750, 682
+  offset: 264, 263
+  index: -1
+coins/chest open coins_016
+  rotate: true
+  xy: 2, 1166
+  size: 214, 239
+  orig: 750, 682
+  offset: 269, 254
+  index: -1
+coins/chest open coins_017
+  rotate: true
+  xy: 1036, 1087
+  size: 226, 256
+  orig: 750, 682
+  offset: 270, 245
+  index: -1
+coins/chest open coins_018
+  rotate: false
+  xy: 1682, 1005
+  size: 249, 270
+  orig: 750, 682
+  offset: 259, 236
+  index: -1
+coins/chest open coins_019
+  rotate: false
+  xy: 2224, 947
+  size: 271, 284
+  orig: 750, 682
+  offset: 250, 226
+  index: -1
+coins/chest open coins_020
+  rotate: true
+  xy: 1213, 770
+  size: 293, 295
+  orig: 750, 682
+  offset: 240, 216
+  index: -1
+coins/chest open coins_021
+  rotate: false
+  xy: 1510, 700
+  size: 314, 303
+  orig: 750, 682
+  offset: 231, 206
+  index: -1
+coins/chest open coins_022
+  rotate: false
+  xy: 1826, 681
+  size: 334, 308
+  orig: 750, 682
+  offset: 222, 196
+  index: -1
+coins/chest open coins_023
+  rotate: true
+  xy: 2162, 593
+  size: 352, 312
+  orig: 750, 682
+  offset: 214, 186
+  index: -1
+coins/chest open coins_024
+  rotate: false
+  xy: 2, 565
+  size: 373, 315
+  orig: 750, 682
+  offset: 201, 175
+  index: -1
+coins/chest open coins_025
+  rotate: false
+  xy: 377, 564
+  size: 392, 316
+  orig: 750, 682
+  offset: 188, 165
+  index: -1
+coins/chest open coins_026
+  rotate: false
+  xy: 771, 479
+  size: 406, 319
+  orig: 750, 682
+  offset: 178, 154
+  index: -1
+coins/chest open coins_027
+  rotate: false
+  xy: 2084, 258
+  size: 382, 333
+  orig: 750, 682
+  offset: 167, 144
+  index: -1
+coins/chest open coins_028
+  rotate: false
+  xy: 1319, 2
+  size: 397, 345
+  orig: 750, 682
+  offset: 155, 135
+  index: -1
+coins/chest open coins_030
+  rotate: false
+  xy: 1179, 374
+  size: 435, 324
+  orig: 750, 682
+  offset: 132, 156
+  index: -1
+coins/chest open coins_031
+  rotate: false
+  xy: 2, 231
+  size: 455, 331
+  orig: 750, 682
+  offset: 122, 146
+  index: -1
+coins/chest open coins_032
+  rotate: false
+  xy: 459, 137
+  size: 478, 340
+  orig: 750, 682
+  offset: 114, 135
+  index: -1
+coins/chest open coins_055
+  rotate: false
+  xy: 1616, 349
+  size: 466, 330
+  orig: 750, 682
+  offset: 127, 146
+  index: -1
+coins/chest open coins_056
+  rotate: false
+  xy: 939, 29
+  size: 378, 343
+  orig: 750, 682
+  offset: 119, 136
+  index: -1
+coins/chest open coins_063
+  rotate: false
+  xy: 1947, 1233
+  size: 385, 195
+  orig: 750, 682
+  offset: 95, 159
+  index: -1
+
+BlueImperor80022.png
+size: 2450,2035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coins/chest open coins_029
+  rotate: true
+  xy: 448, 1247
+  size: 417, 355
+  orig: 750, 682
+  offset: 142, 126
+  index: -1
+coins/chest open coins_033
+  rotate: false
+  xy: 498, 1682
+  size: 490, 351
+  orig: 750, 682
+  offset: 108, 125
+  index: -1
+coins/chest open coins_034
+  rotate: false
+  xy: 2, 1666
+  size: 494, 367
+  orig: 750, 682
+  offset: 104, 114
+  index: -1
+coins/chest open coins_035
+  rotate: true
+  xy: 2, 352
+  size: 467, 382
+  orig: 750, 682
+  offset: 139, 104
+  index: -1
+coins/chest open coins_036
+  rotate: false
+  xy: 1624, 121
+  size: 420, 364
+  orig: 750, 682
+  offset: 136, 95
+  index: -1
+coins/chest open coins_037
+  rotate: true
+  xy: 1240, 429
+  size: 389, 382
+  orig: 750, 682
+  offset: 129, 86
+  index: -1
+coins/chest open coins_038
+  rotate: false
+  xy: 2, 4
+  size: 404, 346
+  orig: 750, 682
+  offset: 121, 131
+  index: -1
+coins/chest open coins_039
+  rotate: true
+  xy: 826, 2
+  size: 421, 367
+  orig: 750, 682
+  offset: 111, 119
+  index: -1
+coins/chest open coins_040
+  rotate: false
+  xy: 1664, 1230
+  size: 432, 384
+  orig: 750, 682
+  offset: 96, 110
+  index: -1
+coins/chest open coins_041
+  rotate: false
+  xy: 2, 1253
+  size: 444, 411
+  orig: 750, 682
+  offset: 90, 90
+  index: -1
+coins/chest open coins_042
+  rotate: true
+  xy: 1885, 1616
+  size: 417, 431
+  orig: 750, 682
+  offset: 90, 77
+  index: -1
+coins/chest open coins_043
+  rotate: false
+  xy: 770, 425
+  size: 438, 384
+  orig: 750, 682
+  offset: 82, 130
+  index: -1
+coins/chest open coins_044
+  rotate: false
+  xy: 2048, 810
+  size: 400, 399
+  orig: 750, 682
+  offset: 132, 119
+  index: -1
+coins/chest open coins_045
+  rotate: true
+  xy: 408, 4
+  size: 373, 416
+  orig: 750, 682
+  offset: 170, 106
+  index: -1
+coins/chest open coins_046
+  rotate: true
+  xy: 805, 1247
+  size: 390, 421
+  orig: 750, 682
+  offset: 163, 91
+  index: -1
+coins/chest open coins_047
+  rotate: true
+  xy: 1446, 1628
+  size: 405, 437
+  orig: 750, 682
+  offset: 156, 79
+  index: -1
+coins/chest open coins_048
+  rotate: false
+  xy: 427, 822
+  size: 409, 423
+  orig: 750, 682
+  offset: 160, 96
+  index: -1
+coins/chest open coins_049
+  rotate: false
+  xy: 2, 821
+  size: 423, 430
+  orig: 750, 682
+  offset: 154, 87
+  index: -1
+coins/chest open coins_050
+  rotate: false
+  xy: 1624, 844
+  size: 422, 384
+  orig: 750, 682
+  offset: 161, 131
+  index: -1
+coins/chest open coins_051
+  rotate: true
+  xy: 838, 811
+  size: 434, 400
+  orig: 750, 682
+  offset: 152, 113
+  index: -1
+coins/chest open coins_052
+  rotate: true
+  xy: 2046, 15
+  size: 418, 373
+  orig: 750, 682
+  offset: 154, 136
+  index: -1
+coins/chest open coins_053
+  rotate: true
+  xy: 386, 379
+  size: 440, 382
+  orig: 750, 682
+  offset: 142, 123
+  index: -1
+coins/chest open coins_054
+  rotate: false
+  xy: 990, 1639
+  size: 454, 394
+  orig: 750, 682
+  offset: 135, 111
+  index: -1
+coins/chest open coins_057
+  rotate: true
+  xy: 2098, 1211
+  size: 403, 350
+  orig: 750, 682
+  offset: 111, 127
+  index: -1
+coins/chest open coins_058
+  rotate: false
+  xy: 1624, 487
+  size: 422, 355
+  orig: 750, 682
+  offset: 105, 120
+  index: -1
+coins/chest open coins_059
+  rotate: false
+  xy: 1228, 1262
+  size: 434, 364
+  orig: 750, 682
+  offset: 102, 109
+  index: -1
+coins/chest open coins_060
+  rotate: true
+  xy: 1195, 5
+  size: 418, 373
+  orig: 750, 682
+  offset: 116, 96
+  index: -1
+coins/chest open coins_061
+  rotate: true
+  xy: 1240, 820
+  size: 440, 382
+  orig: 750, 682
+  offset: 106, 83
+  index: -1
+coins/chest open coins_062
+  rotate: true
+  xy: 2048, 435
+  size: 373, 394
+  orig: 750, 682
+  offset: 99, 71
+  index: -1

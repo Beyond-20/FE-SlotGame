@@ -1,0 +1,172 @@
+{"frames": {
+
+"1":
+{
+	"frame": {"x":3,"y":428,"w":942,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":116,"w":942,"h":44},
+	"sourceSize": {"w":1280,"h":720}
+},
+"2":
+{
+	"frame": {"x":949,"y":428,"w":942,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":305,"w":942,"h":44},
+	"sourceSize": {"w":1280,"h":720}
+},
+"3":
+{
+	"frame": {"x":3,"y":476,"w":942,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":494,"w":942,"h":44},
+	"sourceSize": {"w":1280,"h":720}
+},
+"4":
+{
+	"frame": {"x":947,"y":1985,"w":940,"h":419},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":419},
+	"sourceSize": {"w":940,"h":419}
+},
+"5":
+{
+	"frame": {"x":3,"y":2081,"w":940,"h":419},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":419},
+	"sourceSize": {"w":940,"h":419}
+},
+"6":
+{
+	"frame": {"x":947,"y":2408,"w":940,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":233},
+	"sourceSize": {"w":940,"h":233}
+},
+"7":
+{
+	"frame": {"x":3,"y":2504,"w":940,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":233},
+	"sourceSize": {"w":940,"h":233}
+},
+"8":
+{
+	"frame": {"x":3,"y":3,"w":942,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":942,"h":421},
+	"sourceSize": {"w":942,"h":421}
+},
+"9":
+{
+	"frame": {"x":949,"y":3,"w":942,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":942,"h":421},
+	"sourceSize": {"w":942,"h":421}
+},
+"10":
+{
+	"frame": {"x":947,"y":1561,"w":940,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":420},
+	"sourceSize": {"w":940,"h":420}
+},
+"11":
+{
+	"frame": {"x":3,"y":1657,"w":940,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":420},
+	"sourceSize": {"w":940,"h":420}
+},
+"12":
+{
+	"frame": {"x":947,"y":2645,"w":940,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":232},
+	"sourceSize": {"w":940,"h":232}
+},
+"13":
+{
+	"frame": {"x":3,"y":2741,"w":940,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":232},
+	"sourceSize": {"w":940,"h":232}
+},
+"14":
+{
+	"frame": {"x":3,"y":524,"w":941,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":941,"h":232},
+	"sourceSize": {"w":941,"h":232}
+},
+"15":
+{
+	"frame": {"x":3,"y":760,"w":941,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":941,"h":232},
+	"sourceSize": {"w":941,"h":232}
+},
+"16":
+{
+	"frame": {"x":948,"y":900,"w":941,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":941,"h":232},
+	"sourceSize": {"w":941,"h":232}
+},
+"17":
+{
+	"frame": {"x":3,"y":996,"w":941,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":941,"h":232},
+	"sourceSize": {"w":941,"h":232}
+},
+"18":
+{
+	"frame": {"x":948,"y":1136,"w":940,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":421},
+	"sourceSize": {"w":940,"h":421}
+},
+"19":
+{
+	"frame": {"x":3,"y":1232,"w":940,"h":421},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":940,"h":421},
+	"sourceSize": {"w":940,"h":421}
+},
+"20":
+{
+	"frame": {"x":949,"y":476,"w":941,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":941,"h":420},
+	"sourceSize": {"w":941,"h":420}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paylinesAssets0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:7ed6d2591aecb2fc0b78cc28585aa265:bb45881ccb0867c11feb4de635c0be94:1b6df7802f78cfd3dda11c810c42bfd1$"
+}
+}

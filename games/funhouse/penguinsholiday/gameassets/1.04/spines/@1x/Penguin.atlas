@@ -1,0 +1,69 @@
+
+Penguin.png
+size: 814,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Penguin
+  rotate: false
+  xy: 362, 24
+  size: 233, 336
+  orig: 233, 336
+  offset: 0, 0
+  index: -1
+Fish_Penguin
+  rotate: false
+  xy: 601, 242
+  size: 172, 118
+  orig: 173, 118
+  offset: 0, 0
+  index: -1
+Frame_Penguin
+  rotate: false
+  xy: 6, 10
+  size: 350, 350
+  orig: 352, 352
+  offset: 1, 1
+  index: -1
+Hand_1_Penguin
+  rotate: true
+  xy: 601, 56
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+Hand_2_Penguin
+  rotate: true
+  xy: 601, 158
+  size: 78, 152
+  orig: 78, 152
+  offset: 0, 0
+  index: -1
+Mouth_Bottom_Penguin
+  rotate: true
+  xy: 730, 12
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+Mouth_Top_Penguin
+  rotate: true
+  xy: 759, 117
+  size: 119, 46
+  orig: 119, 46
+  offset: 0, 0
+  index: -1
+Paw_Penguin
+  rotate: true
+  xy: 779, 315
+  size: 45, 29
+  orig: 47, 31
+  offset: 1, 1
+  index: -1
+Pupil_Penguin
+  rotate: false
+  xy: 601, 6
+  size: 102, 44
+  orig: 104, 46
+  offset: 1, 1
+  index: -1

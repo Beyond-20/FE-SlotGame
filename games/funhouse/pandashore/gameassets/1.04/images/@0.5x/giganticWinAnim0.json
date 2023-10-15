@@ -1,0 +1,136 @@
+{"frames": {
+
+"gigantikl_win_loop_000":
+{
+	"frame": {"x":3,"y":3,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_001":
+{
+	"frame": {"x":1239,"y":3,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_002":
+{
+	"frame": {"x":2475,"y":3,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_003":
+{
+	"frame": {"x":3,"y":775,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_004":
+{
+	"frame": {"x":1239,"y":775,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_005":
+{
+	"frame": {"x":2475,"y":775,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_006":
+{
+	"frame": {"x":3,"y":1547,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_007":
+{
+	"frame": {"x":3,"y":2319,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_008":
+{
+	"frame": {"x":3,"y":3091,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_009":
+{
+	"frame": {"x":1239,"y":1547,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_010":
+{
+	"frame": {"x":2475,"y":1547,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_011":
+{
+	"frame": {"x":1239,"y":2319,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_012":
+{
+	"frame": {"x":1239,"y":3091,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_013":
+{
+	"frame": {"x":2475,"y":2319,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"gigantikl_win_loop_014":
+{
+	"frame": {"x":2475,"y":3091,"w":1232,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":0,"w":1232,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+}},
+"animations": {
+	"gigantikl_win_loop": ["gigantikl_win_loop_000","gigantikl_win_loop_001","gigantikl_win_loop_002","gigantikl_win_loop_003","gigantikl_win_loop_004","gigantikl_win_loop_005","gigantikl_win_loop_006","gigantikl_win_loop_007","gigantikl_win_loop_008","gigantikl_win_loop_009","gigantikl_win_loop_010","gigantikl_win_loop_011","gigantikl_win_loop_012","gigantikl_win_loop_013","gigantikl_win_loop_014","gigantikl_win_loop_015","gigantikl_win_loop_016","gigantikl_win_loop_017","gigantikl_win_loop_018","gigantikl_win_loop_019","gigantikl_win_loop_020","gigantikl_win_loop_021","gigantikl_win_loop_022","gigantikl_win_loop_023","gigantikl_win_loop_024","gigantikl_win_loop_025","gigantikl_win_loop_026","gigantikl_win_loop_027","gigantikl_win_loop_028","gigantikl_win_loop_029"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "giganticWinAnim0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "0.5",
+	"related_multi_packs": [ "giganticWinAnim1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:9242e85031d28f94cb3e2078516366dc:16e0e09e869e6de7baf18699bfaff946:f705c8bd076e5b7edd12ad9ea004032a$"
+}
+}

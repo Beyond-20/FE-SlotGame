@@ -1,0 +1,20 @@
+{"frames": {
+
+"screen1":
+{
+	"frame": {"x":3,"y":3,"w":976,"h":509},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":976,"h":509},
+	"sourceSize": {"w":976,"h":509}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "splashAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:3341eb9dd75bf5b0278ede37f8ccf1ca:fba22d61983f91fe1cb166ad89ec2830:d77cbe639df3ce7bb575dabf13412b68$"
+}
+}

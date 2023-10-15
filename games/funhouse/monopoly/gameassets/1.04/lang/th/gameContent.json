@@ -1,0 +1,21 @@
+{
+  "wildText": " WILD สามารถแทนที่สัญลักษณ์ใดก็ได้ ยกเว้น Scatter เพื่อสร้างชุดค่าผสมที่ชนะ.",
+  "scatterText": "3x สัญลักษณ์กระจายบนวงล้อ 1, 3 & 5 ทริกเกอร์ MEGABOARD.",
+  "triggeredText": " คุณได้ทริกเกอร์",
+  "megaboardText": "MEGABOARD",
+  "bonusPopBoxMsg1": " ทอยลูกเต๋าและไปรอบ ๆ เมกะบอร์ดเพื่ออัปเกรดรอบการหมุนฟรีของคุณอย่างถาวร.",
+  "bonusPopBoxMsg2": " อยู่เหนือการไล่ล่าของเป็ดไล่กวดด้วยสัญลักษณ์เสริม ความลึกลับ ตัวคูณ สัญลักษณ์การลบ และการชนะทันที.",
+  "bonusPopBoxMsg3": " เล่นครบสามรอบโดยไม่โดนเป็ดไล่จับเพื่อรับโบนัสก้อนโตและเพิ่มเงินรางวัลเป็นสองเท่าเป็น X10.",
+  "startText": " เริ่ม",
+  "firstLapText": " รอบแรก",
+  "secondLapText": " รอบที่สอง",
+  "finalLapText": " รอบสุดท้าย",
+  "lapText": " ตัก",
+  "extraRollText": " ม้วนพิเศษ",
+  "megaboardUpgradedText": "MEGABOARD อัปเกรดแล้ว!",
+  "fromFSWin": "@1r\nfrom MEGA BOARD",
+  "pressAnyWhereText": " หลังจากนั้น",
+  "youhavewonText": " คุณชนะแล้ว",
+  "totalWinText": " ชนะทั้งหมด",
+  "winnerText": "WINNER!"
+}

@@ -1,0 +1,375 @@
+{"frames": {
+
+"Free Games_00000":
+{
+	"frame": {"x":1694,"y":3,"w":185,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":36,"w":185,"h":181},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00001":
+{
+	"frame": {"x":1486,"y":805,"w":200,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":29,"w":200,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00002":
+{
+	"frame": {"x":1692,"y":404,"w":203,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":29,"w":203,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00003":
+{
+	"frame": {"x":1485,"y":605,"w":204,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":29,"w":204,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00004":
+{
+	"frame": {"x":642,"y":406,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00005":
+{
+	"frame": {"x":646,"y":607,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00006":
+{
+	"frame": {"x":852,"y":406,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00007":
+{
+	"frame": {"x":854,"y":204,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00008":
+{
+	"frame": {"x":855,"y":3,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00009":
+{
+	"frame": {"x":1482,"y":405,"w":206,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":29,"w":206,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00010":
+{
+	"frame": {"x":856,"y":607,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00011":
+{
+	"frame": {"x":1062,"y":405,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00012":
+{
+	"frame": {"x":1064,"y":204,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00013":
+{
+	"frame": {"x":3,"y":3,"w":211,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":28,"w":211,"h":199},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00014":
+{
+	"frame": {"x":3,"y":206,"w":210,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":28,"w":210,"h":199},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00015":
+{
+	"frame": {"x":3,"y":409,"w":210,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":28,"w":210,"h":199},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00016":
+{
+	"frame": {"x":217,"y":814,"w":209,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":29,"w":209,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00017":
+{
+	"frame": {"x":218,"y":610,"w":208,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":208,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00018":
+{
+	"frame": {"x":430,"y":205,"w":208,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":208,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00019":
+{
+	"frame": {"x":217,"y":206,"w":209,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":209,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00020":
+{
+	"frame": {"x":430,"y":810,"w":210,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":29,"w":210,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00021":
+{
+	"frame": {"x":3,"y":814,"w":210,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":210,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00022":
+{
+	"frame": {"x":3,"y":612,"w":211,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":28,"w":211,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00023":
+{
+	"frame": {"x":430,"y":609,"w":212,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":29,"w":212,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00024":
+{
+	"frame": {"x":218,"y":3,"w":209,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":209,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00025":
+{
+	"frame": {"x":644,"y":810,"w":209,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":29,"w":209,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00026":
+{
+	"frame": {"x":217,"y":408,"w":209,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":209,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00027":
+{
+	"frame": {"x":642,"y":205,"w":208,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":29,"w":208,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00028":
+{
+	"frame": {"x":431,"y":3,"w":208,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":208,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00029":
+{
+	"frame": {"x":430,"y":407,"w":208,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":208,"h":198},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00030":
+{
+	"frame": {"x":643,"y":3,"w":208,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":208,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00031":
+{
+	"frame": {"x":1065,"y":3,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00032":
+{
+	"frame": {"x":857,"y":808,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00033":
+{
+	"frame": {"x":1066,"y":606,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00034":
+{
+	"frame": {"x":1272,"y":405,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00035":
+{
+	"frame": {"x":1274,"y":204,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00036":
+{
+	"frame": {"x":1275,"y":3,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00037":
+{
+	"frame": {"x":1067,"y":807,"w":206,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":28,"w":206,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00038":
+{
+	"frame": {"x":1276,"y":606,"w":205,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":28,"w":205,"h":197},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00039":
+{
+	"frame": {"x":1484,"y":204,"w":206,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":29,"w":206,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00040":
+{
+	"frame": {"x":1485,"y":3,"w":205,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":29,"w":205,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00041":
+{
+	"frame": {"x":1277,"y":807,"w":205,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":29,"w":205,"h":196},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00042":
+{
+	"frame": {"x":1690,"y":805,"w":204,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":30,"w":204,"h":195},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00043":
+{
+	"frame": {"x":1693,"y":604,"w":202,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":30,"w":202,"h":195},
+	"sourceSize": {"w":234,"h":252}
+},
+"Free Games_00044":
+{
+	"frame": {"x":1694,"y":188,"w":185,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":36,"w":185,"h":181},
+	"sourceSize": {"w":234,"h":252}
+}},
+"animations": {
+	"Free Games": ["Free Games_00000","Free Games_00001","Free Games_00002","Free Games_00003","Free Games_00004","Free Games_00005","Free Games_00006","Free Games_00007","Free Games_00008","Free Games_00009","Free Games_00010","Free Games_00011","Free Games_00012","Free Games_00013","Free Games_00014","Free Games_00015","Free Games_00016","Free Games_00017","Free Games_00018","Free Games_00019","Free Games_00020","Free Games_00021","Free Games_00022","Free Games_00023","Free Games_00024","Free Games_00025","Free Games_00026","Free Games_00027","Free Games_00028","Free Games_00029","Free Games_00030","Free Games_00031","Free Games_00032","Free Games_00033","Free Games_00034","Free Games_00035","Free Games_00036","Free Games_00037","Free Games_00038","Free Games_00039","Free Games_00040","Free Games_00041","Free Games_00042","Free Games_00043","Free Games_00044"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_FG.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "0.3",
+	"smartupdate": "$TexturePacker:SmartUpdate:f25b06769de7ca4a3ec57539c1ba8810:27620fe70e011e5cff16662ab9da1598:98684f6b43cb905af2bf8819e76dedf7$"
+}
+}

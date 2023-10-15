@@ -1,0 +1,111 @@
+
+Big win.png
+size: 658,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_wi1_cicle1
+  rotate: false
+  xy: 2, 2393
+  size: 558, 550
+  orig: 574, 562
+  offset: 8, 9
+  index: -1
+big_win_big_
+  rotate: false
+  xy: 2, 2001
+  size: 523, 390
+  orig: 528, 394
+  offset: 2, 1
+  index: -1
+big_win_big_glow
+  rotate: false
+  xy: 363, 226
+  size: 293, 229
+  orig: 301, 236
+  offset: 4, 3
+  index: -1
+big_win_cicle2
+  rotate: true
+  xy: 2, 508
+  size: 400, 401
+  orig: 400, 401
+  offset: 0, 0
+  index: -1
+big_win_cicle3
+  rotate: true
+  xy: 2, 910
+  size: 428, 429
+  orig: 439, 440
+  offset: 5, 6
+  index: -1
+big_win_flare
+  rotate: false
+  xy: 580, 3485
+  size: 47, 35
+  orig: 52, 56
+  offset: 3, 12
+  index: -1
+big_win_glow1
+  rotate: true
+  xy: 2, 1340
+  size: 659, 497
+  orig: 750, 517
+  offset: 33, 1
+  index: -1
+big_win_glow2
+  rotate: false
+  xy: 2, 2
+  size: 312, 309
+  orig: 329, 327
+  offset: 8, 9
+  index: -1
+big_win_glow3
+  rotate: true
+  xy: 562, 2825
+  size: 118, 90
+  orig: 132, 106
+  offset: 11, 10
+  index: -1
+big_win_glow4
+  rotate: true
+  xy: 501, 1812
+  size: 187, 155
+  orig: 227, 175
+  offset: 21, 19
+  index: -1
+big_win_part
+  rotate: false
+  xy: 2, 2945
+  size: 576, 575
+  orig: 578, 577
+  offset: 1, 1
+  index: -1
+big_win_plane
+  rotate: true
+  xy: 433, 457
+  size: 875, 214
+  orig: 885, 222
+  offset: 5, 4
+  index: -1
+big_win_win
+  rotate: false
+  xy: 2, 3522
+  size: 648, 319
+  orig: 650, 327
+  offset: 1, 1
+  index: -1
+big_win_win_glow
+  rotate: false
+  xy: 2, 313
+  size: 359, 193
+  orig: 365, 201
+  offset: 3, 4
+  index: -1
+plane_glow_00000
+  rotate: true
+  xy: 501, 1334
+  size: 476, 149
+  orig: 551, 230
+  offset: 33, 48
+  index: -1

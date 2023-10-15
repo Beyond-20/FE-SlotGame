@@ -1,0 +1,41 @@
+
+big_win_newspaper.png
+size: 1905,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newspaper_Big_Win_rotate2_00000
+  rotate: false
+  xy: 1522, 264
+  size: 291, 226
+  orig: 337, 267
+  offset: 21, 21
+  index: -1
+newspaper_glow2_00000
+  rotate: true
+  xy: 1522, 492
+  size: 493, 381
+  orig: 534, 423
+  offset: 17, 19
+  index: -1
+popup_bigwin_newspaper
+  rotate: false
+  xy: 2, 2
+  size: 1326, 983
+  orig: 1328, 985
+  offset: 1, 1
+  index: -1
+popup_bigwin_txt
+  rotate: true
+  xy: 1330, 215
+  size: 770, 190
+  orig: 773, 193
+  offset: 2, 1
+  index: -1
+popup_bigwin_txt_sh
+  rotate: false
+  xy: 1522, 197
+  size: 255, 65
+  orig: 256, 66
+  offset: 0, 1
+  index: -1

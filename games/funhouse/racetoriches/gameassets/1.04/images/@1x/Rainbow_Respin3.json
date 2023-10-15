@@ -1,0 +1,109 @@
+{"frames": {
+
+"Rainbow_Respin_00005":
+{
+	"frame": {"x":1487,"y":2276,"w":1369,"h":443},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":440,"y":412,"w":1369,"h":443},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00006":
+{
+	"frame": {"x":1477,"y":3611,"w":1369,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":440,"y":407,"w":1369,"h":448},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00007":
+{
+	"frame": {"x":3,"y":3611,"w":1470,"h":480},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":375,"w":1470,"h":480},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00008":
+{
+	"frame": {"x":3,"y":1471,"w":1504,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":298,"y":287,"w":1504,"h":568},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00011":
+{
+	"frame": {"x":3,"y":3,"w":1541,"h":706},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":149,"w":1541,"h":706},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00012":
+{
+	"frame": {"x":1525,"y":756,"w":1511,"h":728},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":255,"y":127,"w":1511,"h":728},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00013":
+{
+	"frame": {"x":1548,"y":3,"w":1527,"h":749},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":106,"w":1527,"h":749},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00014":
+{
+	"frame": {"x":3,"y":713,"w":1518,"h":754},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":101,"w":1518,"h":754},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00018":
+{
+	"frame": {"x":1482,"y":2831,"w":1473,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":234,"y":89,"w":1473,"h":766},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00019":
+{
+	"frame": {"x":3,"y":2831,"w":1475,"h":776},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":79,"w":1475,"h":776},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00020":
+{
+	"frame": {"x":1511,"y":1488,"w":1480,"h":784},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":71,"w":1480,"h":784},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00021":
+{
+	"frame": {"x":3,"y":2043,"w":1480,"h":784},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":71,"w":1480,"h":784},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Rainbow_Respin3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "Rainbow_Respin0.json", "Rainbow_Respin1.json", "Rainbow_Respin2.json", "Rainbow_Respin4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba50e73c1a23e6e9a9393359e04cd72a:149f278776a9ef4e02c5245eeea220b2:8286be4d7379b3565690c55effcf4e65$"
+}
+}

@@ -1,0 +1,175 @@
+{"frames": {
+
+"YinYang_3_0000":
+{
+	"frame": {"x":3,"y":2961,"w":417,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":142,"w":417,"h":366},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0001":
+{
+	"frame": {"x":3,"y":2590,"w":417,"h":367},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":141,"w":417,"h":367},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0002":
+{
+	"frame": {"x":3,"y":2195,"w":433,"h":391},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":130,"w":433,"h":391},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0003":
+{
+	"frame": {"x":1043,"y":2189,"w":481,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":117,"w":481,"h":420},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0004":
+{
+	"frame": {"x":3,"y":1719,"w":516,"h":472},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":99,"w":516,"h":472},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0005":
+{
+	"frame": {"x":1191,"y":1187,"w":538,"h":497},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":93,"w":538,"h":497},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0006":
+{
+	"frame": {"x":3,"y":1182,"w":590,"h":533},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":75,"w":590,"h":533},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0007":
+{
+	"frame": {"x":3,"y":607,"w":622,"h":571},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":49,"w":622,"h":571},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0008":
+{
+	"frame": {"x":1375,"y":3,"w":654,"h":588},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":42,"w":654,"h":588},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0009":
+{
+	"frame": {"x":3,"y":3,"w":682,"h":600},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":30,"w":682,"h":600},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0010":
+{
+	"frame": {"x":689,"y":3,"w":682,"h":600},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":30,"w":682,"h":600},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0011":
+{
+	"frame": {"x":1375,"y":595,"w":654,"h":588},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":42,"w":654,"h":588},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0012":
+{
+	"frame": {"x":629,"y":607,"w":622,"h":571},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":49,"w":622,"h":571},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0013":
+{
+	"frame": {"x":597,"y":1182,"w":590,"h":533},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":75,"w":590,"h":533},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0014":
+{
+	"frame": {"x":1191,"y":1688,"w":538,"h":497},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":93,"w":538,"h":497},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0015":
+{
+	"frame": {"x":523,"y":1719,"w":516,"h":472},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":99,"w":516,"h":472},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0016":
+{
+	"frame": {"x":1528,"y":2189,"w":481,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":117,"w":481,"h":420},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0017":
+{
+	"frame": {"x":440,"y":2195,"w":433,"h":391},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":130,"w":433,"h":391},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0018":
+{
+	"frame": {"x":424,"y":2590,"w":417,"h":367},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":141,"w":417,"h":367},
+	"sourceSize": {"w":760,"h":630}
+},
+"YinYang_3_0019":
+{
+	"frame": {"x":3,"y":3331,"w":417,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":142,"w":417,"h":366},
+	"sourceSize": {"w":760,"h":630}
+}},
+"animations": {
+	"YinYang_3": ["YinYang_3_0000","YinYang_3_0001","YinYang_3_0002","YinYang_3_0003","YinYang_3_0004","YinYang_3_0005","YinYang_3_0006","YinYang_3_0007","YinYang_3_0008","YinYang_3_0009","YinYang_3_0010","YinYang_3_0011","YinYang_3_0012","YinYang_3_0013","YinYang_3_0014","YinYang_3_0015","YinYang_3_0016","YinYang_3_0017","YinYang_3_0018","YinYang_3_0019"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_11_landing.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:836336771112d1e7da62b33056d63961:435edcadadae3ac544ac299ab6c4a239:415e550bad0c032689151c601d0273e1$"
+}
+}

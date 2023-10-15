@@ -1,0 +1,13 @@
+
+Win_frame.png
+size: 1489,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wnw_win_frame
+  rotate: false
+  xy: 2, 2
+  size: 1485, 450
+  orig: 1509, 468
+  offset: 12, 9
+  index: -1

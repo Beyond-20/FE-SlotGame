@@ -1,0 +1,121 @@
+<div class="main_container game-rules">
+    <div id="gamerules_container" class="container text-center">
+        <div class="upper">
+            <div style="display: flex; justify-content: space-between;">
+                <div style="width: 24px;height: 24px;"></div>
+                <div class="heading"><span data-game="gameName" class="game-rules"></span><span
+                        data-common="gameSpecification" class="common-rules"></span></div>
+                <div class="close" id="close_btn">
+                    <img width="25px" src="../common/1.02/images/rulesCloseBtn.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="lower" id="lower">
+            <div class="spinner-border text-light" role="status" id="loading-rules">
+                <span class="sr-only">Loading...</span>
+              </div>
+            <div id="lower_container">
+                <div class="mt-5">
+                    <p data-game="gamerules1" class="game-rules"></p>
+                    <p data-game="gamerules2" class="game-rules"></p>
+                </div>
+                <div class="parallel mt-5">
+                    <div>
+                        <div>
+                            <p id="wild_rules" data-game="Bonus_Re-spin_Rule" class="game-rules"></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="paytable">
+                    <div class="flex-row">
+                        <div class="symb_info">
+                            <img src="../common/1.02/images/symbols/caishenfa/H1Combination.png" alt="">
+                            <div class="paytable_values">
+                                <p>3OAK: 100</p>
+                            </div>
+
+                        </div>
+                        <div class="symb_info">
+                            <img src="../common/1.02/images/symbols/caishenfa/M1Combination.png" alt="">
+                            <div class="paytable_values">
+                                <p>3OAK: 50</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="flex-row">
+                        <div class="symb_info">
+                            <img src="../common/1.02/images/symbols/caishenfa/L1Combination.png" alt="">
+                            <div class="paytable_values">
+                                <p>3OAK: 25</p>
+                            </div>
+
+                        </div>
+                        <div class="symb_info">
+                            <img src="../common/1.02/images/symbols/caishenfa/anyCombination.png" alt="">
+                            <div class="paytable_values">
+                                <p>3OAK: 5</p>
+                            </div>
+
+                        </div>                  
+                    </div>
+                </div>
+
+                <div style="display: flex; justify-content: center; margin: 35px 0 30px; ">
+                    <div class="volatility">
+                        <p class="volatility_text common-rules" data-common="volatilityText"></p>
+                        <span class="volatility_imgs">
+                            <img src="../common/1.02/images/splash_volatilityOn.png" alt="">
+                            <img src="../common/1.02/images/splash_volatilityOn.png" alt="">
+                            <img src="../common/1.02/images/splash_volatilityOn.png" alt="">
+                            <img src="../common/1.02/images/splash_volatilityOff.png" alt="">
+                            <img src="../common/1.02/images/splash_volatilityOff.png" alt="">
+                        </span>
+                    </div>
+                </div>
+                <div style="font-size: x-large;" class="game-rules" data-game="winUpto">
+                </div>
+
+                <div class="gamerules">
+                    <div class="fishing-bonus mt-10">
+                        <h4 data-game="fishingBonusHeading" class="game-rules"></h4>
+                        <div>
+                            <img src="../common/1.02/images/symbols/caishenfa/H1.png" alt="">
+                            <img src="../common/1.02/images/symbols/caishenfa/M1.png" alt="">
+                            <img id="gif" src="../common/1.02/images/symbols/caishenfa/L1.png" alt="">
+                        </div>
+                    </div>
+                    <div class="common_rule" style="margin-top: 60px;">
+                        <p data-game="highestWin" class="game-rules"></p>
+                        <p data-common="leftToRight" class="common-rules" style="margin-bottom: 12px;"></p>
+                        <p data-common="multipliedWins" class="common-rules"></p>
+                    </div>
+                    <div class="common_rule">
+                        <span data-common="spaceAndEnter" class="common-rules"></span>
+                        <span data-common="rtp_text" class="common-rules"></span>
+                        <span id="rtp" class="game-rules"></span>
+                        <span data-common="malfunction" class="game-rules"></span>
+                        <span data-common="minimumBet" class="common-rules"></span><span id="min" class="common-rules"></span>
+                        <span data-common="maximumBet" class="common-rules"></span><span id="max" class="common-rules"></span>
+                    </div>
+
+                    <div class="common_rule">
+                        <span data-common="howtoPlay" class="common-rules"></span>
+                        <span data-common="settingMenu" class="common-rules"></span>
+                        <span data-common="openGameRules" class="common-rules"></span>
+                    </div>
+                    <div class="common_rule">
+                        <p data-common="malfunction" class="common-rules"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div>
+
+    </div>
+</div>
+
+<script src="../common/1.02/panel/js/slotRule.js"></script>

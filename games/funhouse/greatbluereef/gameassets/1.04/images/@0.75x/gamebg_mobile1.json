@@ -1,0 +1,29 @@
+{"frames": {
+
+"freeSpinsBG_P":
+{
+	"frame": {"x":3,"y":3,"w":1080,"h":2339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":2339},
+	"sourceSize": {"w":1080,"h":2339}
+},
+"splashBG_P":
+{
+	"frame": {"x":1087,"y":3,"w":1080,"h":2339},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":2339},
+	"sourceSize": {"w":1080,"h":2339}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gamebg_mobile1.jpg",
+	"format": "RGB888",
+	"size": {"w":4096,"h":4096},
+	"scale": "0.75",
+	"related_multi_packs": [ "gamebg_mobile0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d8416309835002389ac236f8dc3ba41e:573cccdf3341772539fbe807feb8123f:d0416e93d21fd828d71401809b36b082$"
+}
+}

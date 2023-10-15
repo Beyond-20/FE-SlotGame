@@ -1,0 +1,27 @@
+
+A.png
+size: 548,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 6, 6
+  size: 335, 348
+  orig: 337, 350
+  offset: 1, 1
+  index: -1
+Fish_A
+  rotate: false
+  xy: 360, 103
+  size: 139, 238
+  orig: 139, 238
+  offset: 0, 0
+  index: -1
+Light___
+  rotate: true
+  xy: 505, 91
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1

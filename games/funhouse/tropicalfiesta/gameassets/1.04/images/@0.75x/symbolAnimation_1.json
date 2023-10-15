@@ -1,0 +1,375 @@
+{"frames": {
+
+"napkin holder_00000":
+{
+	"frame": {"x":3,"y":382,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00001":
+{
+	"frame": {"x":1685,"y":760,"w":332,"h":372},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":3,"w":332,"h":372},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00002":
+{
+	"frame": {"x":1347,"y":1138,"w":328,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":5,"w":328,"h":368},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00003":
+{
+	"frame": {"x":1337,"y":1885,"w":325,"h":365},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":7,"w":325,"h":365},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00004":
+{
+	"frame": {"x":1335,"y":2254,"w":322,"h":360},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":322,"h":360},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00005":
+{
+	"frame": {"x":1661,"y":2256,"w":319,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":10,"w":319,"h":359},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00006":
+{
+	"frame": {"x":3,"y":1517,"w":316,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":12,"w":316,"h":354},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00007":
+{
+	"frame": {"x":323,"y":1874,"w":314,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":14,"w":314,"h":351},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00008":
+{
+	"frame": {"x":3,"y":1875,"w":312,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":16,"w":312,"h":347},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00009":
+{
+	"frame": {"x":3,"y":2226,"w":309,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":18,"w":309,"h":344},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00010":
+{
+	"frame": {"x":316,"y":2229,"w":307,"h":341},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":19,"w":307,"h":341},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00011":
+{
+	"frame": {"x":627,"y":2239,"w":305,"h":336},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":22,"w":305,"h":336},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00012":
+{
+	"frame": {"x":936,"y":2256,"w":303,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":24,"w":303,"h":332},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00013":
+{
+	"frame": {"x":309,"y":2574,"w":299,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":25,"w":299,"h":329},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00014":
+{
+	"frame": {"x":612,"y":2579,"w":295,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":27,"w":295,"h":326},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00015":
+{
+	"frame": {"x":3,"y":2574,"w":302,"h":335},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":22,"w":302,"h":335},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00016":
+{
+	"frame": {"x":641,"y":1892,"w":309,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":18,"w":309,"h":343},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00017":
+{
+	"frame": {"x":323,"y":1517,"w":316,"h":353},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":13,"w":316,"h":353},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00018":
+{
+	"frame": {"x":1007,"y":1890,"w":324,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":9,"w":324,"h":362},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00019":
+{
+	"frame": {"x":1685,"y":1136,"w":332,"h":371},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":4,"w":332,"h":371},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00020":
+{
+	"frame": {"x":3,"y":3,"w":335,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":0,"w":335,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00021":
+{
+	"frame": {"x":342,"y":3,"w":335,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":0,"w":335,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00022":
+{
+	"frame": {"x":681,"y":3,"w":334,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":334,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00023":
+{
+	"frame": {"x":1013,"y":760,"w":332,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":1,"w":332,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00024":
+{
+	"frame": {"x":1349,"y":760,"w":332,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":1,"w":332,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00025":
+{
+	"frame": {"x":675,"y":1139,"w":329,"h":372},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":2,"w":329,"h":372},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00026":
+{
+	"frame": {"x":1678,"y":1511,"w":326,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":3,"w":326,"h":369},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00027":
+{
+	"frame": {"x":1678,"y":1884,"w":325,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":4,"w":325,"h":368},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00028":
+{
+	"frame": {"x":1007,"y":1516,"w":326,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":2,"w":326,"h":370},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00029":
+{
+	"frame": {"x":1347,"y":1510,"w":327,"h":371},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":327,"h":371},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00030":
+{
+	"frame": {"x":675,"y":1515,"w":328,"h":373},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":1,"w":328,"h":373},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00031":
+{
+	"frame": {"x":1013,"y":1138,"w":330,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":1,"w":330,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00032":
+{
+	"frame": {"x":677,"y":760,"w":332,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":332,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00033":
+{
+	"frame": {"x":3,"y":1138,"w":332,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":332,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00034":
+{
+	"frame": {"x":339,"y":1138,"w":332,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":332,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00035":
+{
+	"frame": {"x":1019,"y":3,"w":333,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":333,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00036":
+{
+	"frame": {"x":1356,"y":3,"w":333,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":333,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00037":
+{
+	"frame": {"x":1693,"y":3,"w":333,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":333,"h":375},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00038":
+{
+	"frame": {"x":340,"y":382,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00039":
+{
+	"frame": {"x":677,"y":382,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00040":
+{
+	"frame": {"x":1014,"y":382,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00041":
+{
+	"frame": {"x":1351,"y":382,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00042":
+{
+	"frame": {"x":1688,"y":382,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00043":
+{
+	"frame": {"x":3,"y":760,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+},
+"napkin holder_00044":
+{
+	"frame": {"x":340,"y":760,"w":333,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":333,"h":374},
+	"sourceSize": {"w":375,"h":375}
+}},
+"animations": {
+	"napkin holder": ["napkin holder_00000","napkin holder_00001","napkin holder_00002","napkin holder_00003","napkin holder_00004","napkin holder_00005","napkin holder_00006","napkin holder_00007","napkin holder_00008","napkin holder_00009","napkin holder_00010","napkin holder_00011","napkin holder_00012","napkin holder_00013","napkin holder_00014","napkin holder_00015","napkin holder_00016","napkin holder_00017","napkin holder_00018","napkin holder_00019","napkin holder_00020","napkin holder_00021","napkin holder_00022","napkin holder_00023","napkin holder_00024","napkin holder_00025","napkin holder_00026","napkin holder_00027","napkin holder_00028","napkin holder_00029","napkin holder_00030","napkin holder_00031","napkin holder_00032","napkin holder_00033","napkin holder_00034","napkin holder_00035","napkin holder_00036","napkin holder_00037","napkin holder_00038","napkin holder_00039","napkin holder_00040","napkin holder_00041","napkin holder_00042","napkin holder_00043","napkin holder_00044"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:45ea366b9113924d98ab179ff1348f82:35d456bbf0e74f31866bf672fcfac32a:5ae7ff3b746c91cbd2868e63ace1faf8$"
+}
+}

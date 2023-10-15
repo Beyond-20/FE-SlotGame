@@ -1,0 +1,15 @@
+{
+    "gamerules": {
+        "rtp": "97.00%.",
+        "lastdate": "14 June 2022",
+        "gamerules1": "3 reels 1 row slot",
+        "gamerules2": "Base Game is a 1 Line Game",
+        "highestWin": "Only the highest win pays perline",
+        "Re_spin_Rule": "When two WILDS appear on any two reels along with a blank on the other reel, the blank Reel will have a Re-Spin feature, where that reel will spin again to land a non blank symbol and assures a win.",
+        "randomWildMulText": "Whenever a wild lands, there is a chance it may award a amultiplier. So, whenever a wild lands, every 30 spins a multiplier is awarded from 5x ,8x or 10x."
+    },
+    "headings": {
+        "gameName": " TREE OF FORTUNE ",
+        "winUpto": "WIN UPTO 2880 X BET"
+    }
+}

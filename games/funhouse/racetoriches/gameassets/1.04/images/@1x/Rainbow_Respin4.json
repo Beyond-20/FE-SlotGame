@@ -1,0 +1,37 @@
+{"frames": {
+
+"Rainbow_Respin_00015":
+{
+	"frame": {"x":3,"y":3,"w":1469,"h":753},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":102,"w":1469,"h":753},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00016":
+{
+	"frame": {"x":3,"y":760,"w":1469,"h":753},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":102,"w":1469,"h":753},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Rainbow_Respin_00017":
+{
+	"frame": {"x":3,"y":1517,"w":1468,"h":757},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":98,"w":1468,"h":757},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Rainbow_Respin4.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "Rainbow_Respin0.json", "Rainbow_Respin1.json", "Rainbow_Respin2.json", "Rainbow_Respin3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba50e73c1a23e6e9a9393359e04cd72a:149f278776a9ef4e02c5245eeea220b2:8286be4d7379b3565690c55effcf4e65$"
+}
+}

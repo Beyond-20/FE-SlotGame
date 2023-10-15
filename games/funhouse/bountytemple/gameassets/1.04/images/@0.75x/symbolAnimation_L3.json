@@ -1,0 +1,263 @@
+{"frames": {
+
+"necklace_000":
+{
+	"frame": {"x":820,"y":662,"w":265,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":265,"h":226},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_001":
+{
+	"frame": {"x":546,"y":679,"w":265,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":265,"h":226},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_002":
+{
+	"frame": {"x":3,"y":888,"w":266,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":19,"w":266,"h":225},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_003":
+{
+	"frame": {"x":549,"y":451,"w":267,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":20,"w":267,"h":224},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_004":
+{
+	"frame": {"x":277,"y":449,"w":268,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":22,"w":268,"h":222},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_005":
+{
+	"frame": {"x":552,"y":226,"w":269,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":23,"w":269,"h":221},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_006":
+{
+	"frame": {"x":278,"y":226,"w":270,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":25,"w":270,"h":219},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_007":
+{
+	"frame": {"x":1663,"y":654,"w":271,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":27,"w":271,"h":216},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_008":
+{
+	"frame": {"x":1111,"y":437,"w":272,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":28,"w":272,"h":215},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_009":
+{
+	"frame": {"x":1388,"y":223,"w":273,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":30,"w":273,"h":213},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_010":
+{
+	"frame": {"x":1665,"y":439,"w":273,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":273,"h":211},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_011":
+{
+	"frame": {"x":1665,"y":3,"w":273,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":28,"w":273,"h":214},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_012":
+{
+	"frame": {"x":1388,"y":3,"w":273,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":273,"h":216},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_013":
+{
+	"frame": {"x":3,"y":3,"w":273,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":273,"h":219},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_014":
+{
+	"frame": {"x":280,"y":3,"w":273,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":273,"h":219},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_015":
+{
+	"frame": {"x":557,"y":3,"w":273,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":273,"h":219},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_016":
+{
+	"frame": {"x":834,"y":3,"w":273,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":273,"h":217},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_017":
+{
+	"frame": {"x":1111,"y":3,"w":273,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":273,"h":217},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_018":
+{
+	"frame": {"x":1665,"y":221,"w":273,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":28,"w":273,"h":214},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_019":
+{
+	"frame": {"x":834,"y":224,"w":273,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":273,"h":211},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_020":
+{
+	"frame": {"x":1111,"y":224,"w":273,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":273,"h":209},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_021":
+{
+	"frame": {"x":1387,"y":653,"w":272,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":35,"w":272,"h":208},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_022":
+{
+	"frame": {"x":1387,"y":440,"w":272,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":34,"w":272,"h":209},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_023":
+{
+	"frame": {"x":3,"y":226,"w":271,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":31,"w":271,"h":213},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_024":
+{
+	"frame": {"x":3,"y":443,"w":270,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":28,"w":270,"h":216},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_025":
+{
+	"frame": {"x":825,"y":439,"w":268,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":25,"w":268,"h":219},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_026":
+{
+	"frame": {"x":3,"y":663,"w":268,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":23,"w":268,"h":221},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_027":
+{
+	"frame": {"x":275,"y":675,"w":267,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":21,"w":267,"h":223},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_028":
+{
+	"frame": {"x":1097,"y":656,"w":266,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":19,"w":266,"h":225},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_029":
+{
+	"frame": {"x":273,"y":902,"w":265,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":265,"h":226},
+	"sourceSize": {"w":273,"h":263}
+},
+"necklace_030":
+{
+	"frame": {"x":3,"y":1117,"w":265,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":18,"w":265,"h":226},
+	"sourceSize": {"w":273,"h":263}
+}},
+"animations": {
+	"necklace": ["necklace_000","necklace_001","necklace_002","necklace_003","necklace_004","necklace_005","necklace_006","necklace_007","necklace_008","necklace_009","necklace_010","necklace_011","necklace_012","necklace_013","necklace_014","necklace_015","necklace_016","necklace_017","necklace_018","necklace_019","necklace_020","necklace_021","necklace_022","necklace_023","necklace_024","necklace_025","necklace_026","necklace_027","necklace_028","necklace_029","necklace_030"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbolAnimation_L3.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "0.75",
+	"smartupdate": "$TexturePacker:SmartUpdate:a356dbd08c52062e33f6201c4fefbeb3:0f4b2d5b6c17b69ef35317af6defcddb:5ed44858ea9ed1a39d1621c83491da0a$"
+}
+}

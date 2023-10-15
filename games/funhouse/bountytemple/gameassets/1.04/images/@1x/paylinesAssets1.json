@@ -1,0 +1,61 @@
+{"frames": {
+
+"4":
+{
+	"frame": {"x":3,"y":937,"w":1880,"h":838},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1880,"h":838},
+	"sourceSize": {"w":1880,"h":838}
+},
+"5":
+{
+	"frame": {"x":3,"y":1779,"w":1880,"h":838},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1880,"h":838},
+	"sourceSize": {"w":1880,"h":838}
+},
+"12":
+{
+	"frame": {"x":3,"y":2621,"w":1880,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1880,"h":463},
+	"sourceSize": {"w":1880,"h":463}
+},
+"13":
+{
+	"frame": {"x":3,"y":3088,"w":1880,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1880,"h":463},
+	"sourceSize": {"w":1880,"h":463}
+},
+"16":
+{
+	"frame": {"x":3,"y":3,"w":1881,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1881,"h":463},
+	"sourceSize": {"w":1881,"h":463}
+},
+"17":
+{
+	"frame": {"x":3,"y":470,"w":1881,"h":463},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1881,"h":463},
+	"sourceSize": {"w":1881,"h":463}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paylinesAssets1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "paylinesAssets0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7ed6d2591aecb2fc0b78cc28585aa265:bb45881ccb0867c11feb4de635c0be94:1b6df7802f78cfd3dda11c810c42bfd1$"
+}
+}

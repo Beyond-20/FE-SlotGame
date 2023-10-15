@@ -1,0 +1,104 @@
+
+coin.png
+size: 775,857
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_china_00000
+  rotate: false
+  xy: 261, 600
+  size: 255, 255
+  orig: 282, 283
+  offset: 13, 14
+  index: -1
+coin_china_00001
+  rotate: true
+  xy: 2, 557
+  size: 251, 255
+  orig: 282, 283
+  offset: 17, 14
+  index: -1
+coin_china_00002
+  rotate: true
+  xy: 518, 365
+  size: 241, 255
+  orig: 282, 283
+  offset: 25, 14
+  index: -1
+coin_china_00003
+  rotate: true
+  xy: 2, 131
+  size: 218, 254
+  orig: 282, 283
+  offset: 39, 15
+  index: -1
+coin_china_00004
+  rotate: true
+  xy: 516, 176
+  size: 187, 254
+  orig: 282, 283
+  offset: 56, 15
+  index: -1
+coin_china_00005
+  rotate: true
+  xy: 258, 49
+  size: 146, 254
+  orig: 282, 283
+  offset: 76, 15
+  index: -1
+coin_china_00006
+  rotate: true
+  xy: 514, 76
+  size: 98, 253
+  orig: 282, 283
+  offset: 98, 15
+  index: -1
+coin_china_00007
+  rotate: true
+  xy: 2, 810
+  size: 45, 257
+  orig: 282, 283
+  offset: 122, 13
+  index: -1
+coin_china_00008
+  rotate: true
+  xy: 514, 2
+  size: 72, 253
+  orig: 282, 283
+  offset: 101, 15
+  index: -1
+coin_china_00009
+  rotate: true
+  xy: 2, 6
+  size: 123, 254
+  orig: 282, 283
+  offset: 73, 15
+  index: -1
+coin_china_00010
+  rotate: true
+  xy: 259, 197
+  size: 168, 255
+  orig: 282, 283
+  offset: 49, 14
+  index: -1
+coin_china_00011
+  rotate: true
+  xy: 2, 351
+  size: 204, 255
+  orig: 282, 283
+  offset: 31, 14
+  index: -1
+coin_china_00012
+  rotate: true
+  xy: 259, 367
+  size: 231, 255
+  orig: 282, 283
+  offset: 19, 14
+  index: -1
+coin_china_00013
+  rotate: true
+  xy: 518, 608
+  size: 247, 255
+  orig: 282, 283
+  offset: 14, 14
+  index: -1

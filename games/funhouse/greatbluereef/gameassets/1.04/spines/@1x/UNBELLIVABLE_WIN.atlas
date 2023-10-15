@@ -1,0 +1,138 @@
+
+UNBELLIVABLE_WIN.png
+size: 2045,1372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin_10_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 254, 1308
+  size: 94, 62
+  orig: 96, 64
+  offset: 1, 1
+  index: -1
+Coin_11_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 967, 1284
+  size: 111, 86
+  orig: 113, 88
+  offset: 1, 1
+  index: -1
+Coin_12_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 445, 1305
+  size: 73, 65
+  orig: 75, 67
+  offset: 1, 1
+  index: -1
+Coin_13_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 614, 1292
+  size: 142, 78
+  orig: 144, 80
+  offset: 1, 1
+  index: -1
+Coin_1_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 1355, 1175
+  size: 212, 195
+  orig: 214, 197
+  offset: 1, 1
+  index: -1
+Coin_2_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 350, 1306
+  size: 93, 64
+  orig: 95, 66
+  offset: 1, 1
+  index: -1
+Coin_3_UNBELLIVABLE_WIN
+  rotate: true
+  xy: 879, 1286
+  size: 84, 86
+  orig: 86, 88
+  offset: 1, 1
+  index: -1
+Coin_4_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 758, 1288
+  size: 119, 82
+  orig: 121, 84
+  offset: 1, 1
+  index: -1
+Coin_5_UNBELLIVABLE_WIN
+  rotate: true
+  xy: 1569, 1172
+  size: 198, 208
+  orig: 204, 210
+  offset: 4, 1
+  index: -1
+Coin_6_UNBELLIVABLE_WIN
+  rotate: true
+  xy: 1080, 1270
+  size: 100, 132
+  orig: 102, 134
+  offset: 1, 1
+  index: -1
+Coin_7_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 1214, 1253
+  size: 139, 117
+  orig: 142, 120
+  offset: 2, 2
+  index: -1
+Coin_8_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 1779, 1171
+  size: 264, 199
+  orig: 266, 201
+  offset: 1, 1
+  index: -1
+Coin_9_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 520, 1295
+  size: 92, 75
+  orig: 94, 77
+  offset: 1, 1
+  index: -1
+Glow_2_UNBELLIVABLE_WIN
+  rotate: true
+  xy: 1474, 506
+  size: 663, 500
+  orig: 677, 515
+  offset: 4, 11
+  index: -1
+Ice_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 2, 2
+  size: 1616, 502
+  orig: 1618, 504
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: false
+  xy: 2, 1333
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1
+UNBELLIVABLE_WIN
+  rotate: false
+  xy: 2, 960
+  size: 1470, 213
+  orig: 1475, 216
+  offset: 4, 2
+  index: -1
+
+UNBELLIVABLE_WIN2.png
+size: 1805,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_UNBELLIVABLE_WIN
+  rotate: false
+  xy: 2, 2
+  size: 1801, 984
+  orig: 1803, 1013
+  offset: 1, 27
+  index: -1

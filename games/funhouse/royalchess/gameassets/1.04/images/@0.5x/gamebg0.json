@@ -1,0 +1,44 @@
+{"frames": {
+
+"freebg":
+{
+	"frame": {"x":3,"y":3,"w":1750,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":720},
+	"sourceSize": {"w":1750,"h":720}
+},
+"freebg_P":
+{
+	"frame": {"x":3,"y":1451,"w":720,"h":1750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1750},
+	"sourceSize": {"w":720,"h":1750}
+},
+"mainbg":
+{
+	"frame": {"x":3,"y":727,"w":1750,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1750,"h":720},
+	"sourceSize": {"w":1750,"h":720}
+},
+"mainbg_P":
+{
+	"frame": {"x":727,"y":1451,"w":720,"h":1750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1750},
+	"sourceSize": {"w":720,"h":1750}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gamebg0.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":4096},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:8a32bc5e50736be7f8c3d80e392c1ea9:eee4ab98cb408d840052a2a44e18f59a:df41f2dda60b9f0aa72c9dbe4768dce7$"
+}
+}

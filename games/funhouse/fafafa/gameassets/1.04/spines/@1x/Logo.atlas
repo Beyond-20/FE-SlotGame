@@ -1,0 +1,55 @@
+
+Logo.png
+size: 1161,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blik_02
+  rotate: false
+  xy: 625, 34
+  size: 512, 189
+  orig: 514, 207
+  offset: 1, 9
+  index: -1
+Logo_bg
+  rotate: true
+  xy: 792, 225
+  size: 779, 367
+  orig: 793, 370
+  offset: 5, 2
+  index: -1
+Logo_decorative_corners
+  rotate: false
+  xy: 625, 297
+  size: 143, 69
+  orig: 146, 73
+  offset: 1, 2
+  index: -1
+Logo_frame
+  rotate: false
+  xy: 2, 652
+  size: 788, 352
+  orig: 790, 354
+  offset: 1, 1
+  index: -1
+Logo_letters_outline
+  rotate: false
+  xy: 2, 2
+  size: 620, 182
+  orig: 622, 185
+  offset: 1, 2
+  index: -1
+Logo_text
+  rotate: false
+  xy: 2, 186
+  size: 621, 180
+  orig: 625, 187
+  offset: 2, 5
+  index: -1
+logo_text_rg_00000
+  rotate: false
+  xy: 2, 368
+  size: 723, 282
+  orig: 723, 287
+  offset: 0, 5
+  index: -1

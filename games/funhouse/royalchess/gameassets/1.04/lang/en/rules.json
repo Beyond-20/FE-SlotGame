@@ -1,0 +1,22 @@
+{
+    "gamerules": {
+        "rtp": "97.00%.",
+        "lastdate": "14 June 2022",
+        "gamerules2": "15 paylines, pays left to right",
+        "wildRules": "The wild symbol here acts as a scatter symbol as well.",
+        "scatterRules": "It has payout and 3 or more scatter wild symbols trigger 10 free spins.",
+        "highestWin": "Only the highest win pays perline",
+        "baseGameRule": "Main Game",
+        "baseGameRule1": "5x3 layout, 10 lines game",
+        "baseGameRule2": "4 high and 5 low symbols",
+        "freeGameRule": "Free Game",
+        "freeGameRule1": "10 Free spins are awarded at the beginning.",
+        "freeGameRule2": "Before the free game starts, any one of the symbols except the scatter wild, is randomly chosen and that symbol when appears during the Freespins expand only when there are enough number of symbols to form a winning combination.",
+        "freeGameRule3": "During the Free game, the Reel window expands to 5×4 layout and number of lines increases to 15",
+        "freeGameRule4": "When the chosen special / royal symbol appears during the free spins, it awards as per the paytable. Adjacency is NOT required for payout, it acts a scatter payout during free spins."
+    },
+    "headings": {
+        "gameName": " ROYAL CHESS ",
+        "winUptoText": "WIN UPTO 100 X BET"
+    }
+}

@@ -1,0 +1,97 @@
+
+crocodail.png
+size: 382,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+croc_a_croc_whater
+  rotate: true
+  xy: 2, 2
+  size: 1008, 366
+  orig: 1032, 375
+  offset: 24, 9
+  index: -1
+croc_a_eye_close
+  rotate: false
+  xy: 131, 3930
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+croc_a_eye_yellow
+  rotate: false
+  xy: 210, 3906
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+croc_a_eyelash
+  rotate: false
+  xy: 82, 3940
+  size: 47, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+croc_a_eyelash2
+  rotate: false
+  xy: 2, 3971
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+croc_a_head_bottom
+  rotate: true
+  xy: 151, 2990
+  size: 677, 219
+  orig: 677, 231
+  offset: 0, 0
+  index: -1
+croc_a_head_bottom2
+  rotate: true
+  xy: 2, 2407
+  size: 581, 301
+  orig: 581, 306
+  offset: 0, 3
+  index: -1
+croc_a_head_top
+  rotate: true
+  xy: 2, 1775
+  size: 630, 338
+  orig: 630, 338
+  offset: 0, 0
+  index: -1
+croc_a_head_top2
+  rotate: false
+  xy: 2, 3669
+  size: 378, 235
+  orig: 388, 266
+  offset: 0, 17
+  index: -1
+croc_a_pupil
+  rotate: true
+  xy: 37, 3949
+  size: 36, 43
+  orig: 40, 48
+  offset: 2, 2
+  index: -1
+croc_a_shadows1
+  rotate: true
+  xy: 200, 1012
+  size: 761, 173
+  orig: 778, 173
+  offset: 0, 0
+  index: -1
+croc_a_shadows2
+  rotate: true
+  xy: 2, 1018
+  size: 755, 196
+  orig: 764, 198
+  offset: 0, 2
+  index: -1
+croc_a_water1
+  rotate: true
+  xy: 2, 3185
+  size: 482, 147
+  orig: 486, 147
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,176 @@
+{"frames": {
+
+"H1":
+{
+	"frame": {"x":2,"y":548,"w":168,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":168,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"H1_blur":
+{
+	"frame": {"x":2,"y":730,"w":168,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":168,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"H2":
+{
+	"frame": {"x":467,"y":184,"w":170,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":170,"h":173},
+	"sourceSize": {"w":180,"h":180}
+},
+"H2_blur":
+{
+	"frame": {"x":2,"y":366,"w":170,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":170,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"H3":
+{
+	"frame": {"x":482,"y":359,"w":180,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":180,"h":150},
+	"sourceSize": {"w":180,"h":180}
+},
+"H3_blur":
+{
+	"frame": {"x":594,"y":2,"w":180,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":180,"h":170},
+	"sourceSize": {"w":180,"h":180}
+},
+"H4":
+{
+	"frame": {"x":2,"y":2,"w":177,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":177,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"H4_blur":
+{
+	"frame": {"x":2,"y":184,"w":177,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":177,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L1":
+{
+	"frame": {"x":172,"y":730,"w":150,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":150,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L1_blur":
+{
+	"frame": {"x":324,"y":730,"w":150,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":150,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L2":
+{
+	"frame": {"x":325,"y":184,"w":140,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":140,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L2_blur":
+{
+	"frame": {"x":341,"y":366,"w":139,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":139,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L3":
+{
+	"frame": {"x":326,"y":2,"w":132,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":132,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L3_blur":
+{
+	"frame": {"x":460,"y":2,"w":132,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":132,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L4":
+{
+	"frame": {"x":181,"y":2,"w":143,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":143,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L4_blur":
+{
+	"frame": {"x":181,"y":184,"w":142,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":142,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L5":
+{
+	"frame": {"x":339,"y":548,"w":148,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":148,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"L5_blur":
+{
+	"frame": {"x":476,"y":730,"w":148,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":0,"w":148,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"WW":
+{
+	"frame": {"x":172,"y":548,"w":165,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":165,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"WW_blur":
+{
+	"frame": {"x":174,"y":366,"w":165,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":165,"h":180},
+	"sourceSize": {"w":180,"h":180}
+}},
+"animations": {
+	"H": ["H1","H2","H3","H4"],
+	"L": ["L1","L2","L3","L4","L5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbols0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.4875",
+	"smartupdate": "$TexturePacker:SmartUpdate:170829f38c86c7b655ac1e429a57cd40:7576fe2146a731b288085079a114c6c0:99ae2484b28274ef6e40a9cf16400b5c$"
+}
+}

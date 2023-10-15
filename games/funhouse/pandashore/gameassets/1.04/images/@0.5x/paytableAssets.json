@@ -1,0 +1,52 @@
+{"frames": {
+
+"pageindicatorbg":
+{
+	"frame": {"x":3,"y":549,"w":249,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":71},
+	"sourceSize": {"w":249,"h":71}
+},
+"paytablebg":
+{
+	"frame": {"x":3,"y":3,"w":1119,"h":542},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1119,"h":542},
+	"sourceSize": {"w":1119,"h":542}
+},
+"pt_closeBtn_up":
+{
+	"frame": {"x":3,"y":734,"w":55,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":45},
+	"sourceSize": {"w":55,"h":45}
+},
+"pt_nextBtn_up":
+{
+	"frame": {"x":3,"y":624,"w":44,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":51},
+	"sourceSize": {"w":44,"h":51}
+},
+"pt_prevBtn_up":
+{
+	"frame": {"x":3,"y":679,"w":44,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":51},
+	"sourceSize": {"w":44,"h":51}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paytableAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:7a9ee884e792a5ec84aa16fc24aefeb1:69000b36718af03e3c16e07781a24514:6a37263324b3542b22bd2ff8be571dfd$"
+}
+}

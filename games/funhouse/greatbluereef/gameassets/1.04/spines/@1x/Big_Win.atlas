@@ -1,0 +1,69 @@
+
+Big_Win.png
+size: 663,998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_Win
+  rotate: false
+  xy: 2, 2
+  size: 487, 130
+  orig: 491, 134
+  offset: 2, 2
+  index: -1
+Coin_1_Big_Win
+  rotate: false
+  xy: 254, 137
+  size: 50, 34
+  orig: 52, 36
+  offset: 1, 1
+  index: -1
+Coin_2_Big_Win
+  rotate: true
+  xy: 438, 136
+  size: 28, 33
+  orig: 30, 35
+  offset: 1, 1
+  index: -1
+Coin_3_Big_Win
+  rotate: true
+  xy: 398, 135
+  size: 29, 38
+  orig: 31, 40
+  offset: 1, 1
+  index: -1
+Coin_4_Big_Win
+  rotate: false
+  xy: 306, 137
+  size: 49, 34
+  orig: 51, 36
+  offset: 1, 1
+  index: -1
+Coin_5_Big_Win
+  rotate: false
+  xy: 357, 137
+  size: 39, 34
+  orig: 41, 36
+  offset: 1, 1
+  index: -1
+Glow_big_Win
+  rotate: true
+  xy: 2, 173
+  size: 823, 398
+  orig: 833, 432
+  offset: 10, 34
+  index: -1
+Ice_Big_Win
+  rotate: true
+  xy: 402, 166
+  size: 830, 259
+  orig: 832, 261
+  offset: 1, 1
+  index: -1
+Light___
+  rotate: false
+  xy: 2, 134
+  size: 250, 37
+  orig: 256, 41
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,29 @@
+{"frames": {
+
+"16":
+{
+	"frame": {"x":3,"y":3,"w":1412,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1412,"h":349},
+	"sourceSize": {"w":1412,"h":349}
+},
+"17":
+{
+	"frame": {"x":3,"y":356,"w":1412,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1412,"h":349},
+	"sourceSize": {"w":1412,"h":349}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paylinesAssets1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "0.75",
+	"related_multi_packs": [ "paylinesAssets0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:cfcf1da8d43eaf823532ad85e155036f:be50f160f04abedd7a08e4780afdd4f2:1b6df7802f78cfd3dda11c810c42bfd1$"
+}
+}

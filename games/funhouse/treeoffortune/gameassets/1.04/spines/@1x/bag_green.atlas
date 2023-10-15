@@ -1,0 +1,558 @@
+
+bag_green.png
+size: 2041,1965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag_Mask
+  rotate: false
+  xy: 1190, 2
+  size: 435, 316
+  orig: 435, 316
+  offset: 0, 0
+  index: -1
+bag_coin_1
+  rotate: false
+  xy: 1123, 1582
+  size: 188, 150
+  orig: 191, 152
+  offset: 1, 1
+  index: -1
+bag_coin_2
+  rotate: false
+  xy: 1313, 1578
+  size: 171, 154
+  orig: 173, 158
+  offset: 1, 2
+  index: -1
+bag_coin_2_sh
+  rotate: false
+  xy: 537, 1619
+  size: 218, 139
+  orig: 218, 139
+  offset: 0, 0
+  index: -1
+bag_coin_3
+  rotate: false
+  xy: 1680, 1553
+  size: 166, 158
+  orig: 170, 161
+  offset: 2, 2
+  index: -1
+bag_coin_4
+  rotate: false
+  xy: 949, 1585
+  size: 172, 148
+  orig: 176, 151
+  offset: 2, 1
+  index: -1
+bag_coin_5
+  rotate: false
+  xy: 949, 1585
+  size: 172, 148
+  orig: 176, 151
+  offset: 2, 1
+  index: -1
+bag_coin_4_sh
+  rotate: false
+  xy: 1848, 1552
+  size: 191, 159
+  orig: 194, 161
+  offset: 1, 1
+  index: -1
+bag_coin_6
+  rotate: false
+  xy: 128, 1780
+  size: 159, 135
+  orig: 161, 137
+  offset: 1, 1
+  index: -1
+bag_coin_6_sh
+  rotate: true
+  xy: 196, 1917
+  size: 46, 104
+  orig: 49, 108
+  offset: 1, 2
+  index: -1
+bag_coin_7
+  rotate: false
+  xy: 1016, 1735
+  size: 159, 135
+  orig: 161, 137
+  offset: 1, 1
+  index: -1
+bag_coin_7_sh
+  rotate: false
+  xy: 1837, 1850
+  size: 131, 113
+  orig: 135, 116
+  offset: 2, 2
+  index: -1
+bag_coin_8
+  rotate: false
+  xy: 1711, 1713
+  size: 155, 135
+  orig: 159, 138
+  offset: 2, 2
+  index: -1
+bag_coin_8_sh
+  rotate: false
+  xy: 686, 1879
+  size: 152, 84
+  orig: 156, 84
+  offset: 2, 0
+  index: -1
+bag_coin_9
+  rotate: false
+  xy: 1868, 1713
+  size: 155, 135
+  orig: 159, 138
+  offset: 2, 2
+  index: -1
+bag_coin_9_back
+  rotate: false
+  xy: 2, 1810
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+bag_g_sh
+  rotate: false
+  xy: 389, 1443
+  size: 476, 172
+  orig: 482, 194
+  offset: 3, 22
+  index: -1
+bag_green_sh_top
+  rotate: false
+  xy: 482, 1760
+  size: 532, 117
+  orig: 535, 123
+  offset: 1, 2
+  index: -1
+bag_r_sh
+  rotate: false
+  xy: 234, 1249
+  size: 480, 192
+  orig: 482, 194
+  offset: 1, 2
+  index: -1
+bag_red_sh_top
+  rotate: false
+  xy: 1177, 1734
+  size: 532, 117
+  orig: 535, 123
+  offset: 1, 2
+  index: -1
+bag_rope_l1
+  rotate: false
+  xy: 1415, 1859
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+bag_rope_l_sh
+  rotate: true
+  xy: 1643, 1348
+  size: 202, 237
+  orig: 209, 253
+  offset: 1, 0
+  index: -1
+bag_rope_r2
+  rotate: false
+  xy: 840, 1879
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1
+bag_rope_r22
+  rotate: true
+  xy: 1122, 1872
+  size: 91, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+bag_rope_r3
+  rotate: false
+  xy: 1521, 1853
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+bag_rope_r_sh
+  rotate: true
+  xy: 2, 1259
+  size: 204, 230
+  orig: 204, 242
+  offset: 0, 1
+  index: -1
+bag_sphere_l
+  rotate: false
+  xy: 950, 1879
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+bag_sphere_r
+  rotate: false
+  xy: 1036, 1879
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+bag_violet_sh_top
+  rotate: false
+  xy: 2, 1641
+  size: 533, 117
+  orig: 535, 123
+  offset: 1, 1
+  index: -1
+coin_china_00000
+  rotate: false
+  xy: 1448, 1384
+  size: 193, 192
+  orig: 212, 212
+  offset: 9, 10
+  index: -1
+coin_china_00001
+  rotate: true
+  xy: 1254, 1386
+  size: 190, 192
+  orig: 212, 212
+  offset: 12, 10
+  index: -1
+coin_china_00002
+  rotate: true
+  xy: 867, 1402
+  size: 181, 191
+  orig: 212, 212
+  offset: 19, 11
+  index: -1
+coin_china_00003
+  rotate: true
+  xy: 2, 1474
+  size: 165, 191
+  orig: 212, 212
+  offset: 29, 11
+  index: -1
+coin_china_00004
+  rotate: true
+  xy: 757, 1617
+  size: 141, 190
+  orig: 212, 212
+  offset: 42, 11
+  index: -1
+coin_china_00005
+  rotate: true
+  xy: 1645, 1853
+  size: 110, 190
+  orig: 212, 212
+  offset: 57, 11
+  index: -1
+coin_china_00006
+  rotate: true
+  xy: 494, 1888
+  size: 75, 190
+  orig: 212, 212
+  offset: 73, 11
+  index: -1
+coin_china_00007
+  rotate: true
+  xy: 2, 1928
+  size: 35, 192
+  orig: 212, 212
+  offset: 91, 10
+  index: -1
+coin_china_00008
+  rotate: true
+  xy: 302, 1907
+  size: 56, 190
+  orig: 212, 212
+  offset: 75, 11
+  index: -1
+coin_china_00009
+  rotate: true
+  xy: 1223, 1869
+  size: 94, 190
+  orig: 212, 212
+  offset: 54, 11
+  index: -1
+coin_china_00010
+  rotate: true
+  xy: 289, 1777
+  size: 128, 191
+  orig: 212, 212
+  offset: 36, 11
+  index: -1
+coin_china_00011
+  rotate: true
+  xy: 1486, 1578
+  size: 154, 192
+  orig: 212, 212
+  offset: 23, 10
+  index: -1
+coin_china_00012
+  rotate: true
+  xy: 195, 1465
+  size: 174, 192
+  orig: 212, 212
+  offset: 14, 10
+  index: -1
+coin_china_00013
+  rotate: true
+  xy: 1060, 1393
+  size: 187, 192
+  orig: 212, 212
+  offset: 10, 10
+  index: -1
+mesh_all_sweep_00000
+  rotate: false
+  xy: 716, 1145
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00001
+  rotate: false
+  xy: 1013, 1129
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00002
+  rotate: false
+  xy: 1310, 1127
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00003
+  rotate: false
+  xy: 1607, 1091
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00004
+  rotate: false
+  xy: 2, 992
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00005
+  rotate: false
+  xy: 299, 992
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00006
+  rotate: false
+  xy: 596, 888
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00007
+  rotate: false
+  xy: 893, 872
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00008
+  rotate: false
+  xy: 1190, 870
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00009
+  rotate: false
+  xy: 1487, 834
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00010
+  rotate: true
+  xy: 1784, 794
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00011
+  rotate: false
+  xy: 2, 735
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00012
+  rotate: false
+  xy: 299, 735
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00013
+  rotate: false
+  xy: 596, 631
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00014
+  rotate: false
+  xy: 893, 615
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00015
+  rotate: false
+  xy: 1190, 613
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00016
+  rotate: false
+  xy: 1487, 577
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00017
+  rotate: true
+  xy: 1784, 497
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00018
+  rotate: false
+  xy: 2, 478
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00019
+  rotate: false
+  xy: 299, 478
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00020
+  rotate: false
+  xy: 596, 374
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00021
+  rotate: false
+  xy: 893, 358
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00022
+  rotate: false
+  xy: 1190, 356
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00023
+  rotate: false
+  xy: 1487, 320
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00024
+  rotate: false
+  xy: 2, 221
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00025
+  rotate: false
+  xy: 299, 221
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00026
+  rotate: true
+  xy: 1784, 200
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00027
+  rotate: false
+  xy: 596, 117
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+mesh_all_sweep_00028
+  rotate: false
+  xy: 893, 101
+  size: 295, 255
+  orig: 295, 255
+  offset: 0, 0
+  index: -1
+
+bag_green2.png
+size: 1419,1472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag_bag_g
+  rotate: false
+  xy: 2, 737
+  size: 731, 733
+  orig: 731, 733
+  offset: 0, 0
+  index: -1
+bag_bag_r
+  rotate: false
+  xy: 2, 2
+  size: 731, 733
+  orig: 731, 733
+  offset: 0, 0
+  index: -1
+bag_shadows_l
+  rotate: true
+  xy: 735, 156
+  size: 755, 246
+  orig: 755, 248
+  offset: 0, 0
+  index: -1
+mesh_all_bag_glow_00000
+  rotate: false
+  xy: 735, 913
+  size: 556, 557
+  orig: 556, 557
+  offset: 0, 0
+  index: -1
+out_3__0000
+  rotate: true
+  xy: 983, 466
+  size: 445, 428
+  orig: 450, 450
+  offset: 5, 0
+  index: -1
+out_4_0000
+  rotate: true
+  xy: 983, 19
+  size: 445, 434
+  orig: 450, 450
+  offset: 5, 0
+  index: -1

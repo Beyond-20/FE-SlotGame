@@ -1,0 +1,65 @@
+{"frames": {
+
+"idle_00031":
+{
+	"frame": {"x":3,"y":3,"w":1400,"h":1150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":1150},
+	"sourceSize": {"w":1400,"h":1150}
+},
+"idle_00032":
+{
+	"frame": {"x":1407,"y":3,"w":1400,"h":1150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":1150},
+	"sourceSize": {"w":1400,"h":1150}
+},
+"idle_00033":
+{
+	"frame": {"x":3,"y":1157,"w":1400,"h":1150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":1150},
+	"sourceSize": {"w":1400,"h":1150}
+},
+"idle_00034":
+{
+	"frame": {"x":3,"y":2311,"w":1400,"h":1150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":1150},
+	"sourceSize": {"w":1400,"h":1150}
+},
+"idle_00035":
+{
+	"frame": {"x":1407,"y":1157,"w":1400,"h":1150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":1150},
+	"sourceSize": {"w":1400,"h":1150}
+},
+"idle_00036":
+{
+	"frame": {"x":1407,"y":2311,"w":1400,"h":1150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1400,"h":1150},
+	"sourceSize": {"w":1400,"h":1150}
+}},
+"animations": {
+	"idle": ["idle_00031","idle_00032","idle_00033","idle_00034","idle_00035","idle_00036","idle_00037","idle_00038","idle_00039","idle_00040","idle_00041","idle_00042","idle_00043","idle_00044","idle_00045","idle_00046","idle_00047","idle_00048","idle_00049","idle_00050","idle_00051","idle_00052","idle_00053","idle_00054","idle_00055"],
+	"start": ["start_00001","start_00002","start_00003","start_00004","start_00005","start_00006","start_00007","start_00008","start_00009","start_00010","start_00011","start_00012","start_00013","start_00014","start_00015","start_00016","start_00017","start_00018","start_00019","start_00020","start_00021","start_00022","start_00023","start_00024","start_00025","start_00026","start_00027","start_00028","start_00029","start_00030"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "popupAssets0.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"related_multi_packs": [ "popupAssets1.json", "popupAssets2.json", "popupAssets3.json", "popupAssets4.json", "popupAssets5.json", "popupAssets6.json", "popupAssets7.json", "popupAssets8.json", "popupAssets9.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:907dcfaf16d0aec45242cfa8adad13a9:0120da981949a19373f8a34f2d7496c2:d6fbe13f13768138ec4ffc2dcd8159f5$"
+}
+}

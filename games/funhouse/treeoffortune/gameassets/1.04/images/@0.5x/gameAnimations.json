@@ -1,0 +1,159 @@
+{"frames": {
+
+"coin shine 3_00000":
+{
+	"frame": {"x":3,"y":3,"w":65,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":37,"w":65,"h":64},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00001":
+{
+	"frame": {"x":138,"y":71,"w":62,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":37,"w":62,"h":63},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00002":
+{
+	"frame": {"x":135,"y":201,"w":53,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":39,"w":53,"h":60},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00003":
+{
+	"frame": {"x":210,"y":3,"w":38,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":38,"w":38,"h":63},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00004":
+{
+	"frame": {"x":130,"y":265,"w":19,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":32,"w":19,"h":70},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00005":
+{
+	"frame": {"x":66,"y":203,"w":28,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":38,"w":28,"h":65},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00006":
+{
+	"frame": {"x":192,"y":201,"w":46,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":41,"w":46,"h":61},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00007":
+{
+	"frame": {"x":71,"y":138,"w":60,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":41,"w":60,"h":61},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00008":
+{
+	"frame": {"x":72,"y":3,"w":65,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":40,"w":65,"h":64},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00009":
+{
+	"frame": {"x":3,"y":71,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":39,"w":64,"h":64},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00010":
+{
+	"frame": {"x":3,"y":139,"w":59,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":40,"w":59,"h":61},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00011":
+{
+	"frame": {"x":204,"y":137,"w":47,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":41,"w":47,"h":60},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00012":
+{
+	"frame": {"x":98,"y":203,"w":28,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":38,"w":28,"h":65},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00013":
+{
+	"frame": {"x":153,"y":265,"w":18,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":38,"w":18,"h":69},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00014":
+{
+	"frame": {"x":210,"y":70,"w":37,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":38,"w":37,"h":63},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00015":
+{
+	"frame": {"x":135,"y":138,"w":54,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":40,"w":54,"h":59},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00016":
+{
+	"frame": {"x":71,"y":71,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":38,"w":63,"h":63},
+	"sourceSize": {"w":282,"h":141}
+},
+"coin shine 3_00017":
+{
+	"frame": {"x":141,"y":3,"w":65,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":37,"w":65,"h":64},
+	"sourceSize": {"w":282,"h":141}
+}},
+"animations": {
+	"coin shine 3": ["coin shine 3_00000","coin shine 3_00001","coin shine 3_00002","coin shine 3_00003","coin shine 3_00004","coin shine 3_00005","coin shine 3_00006","coin shine 3_00007","coin shine 3_00008","coin shine 3_00009","coin shine 3_00010","coin shine 3_00011","coin shine 3_00012","coin shine 3_00013","coin shine 3_00014","coin shine 3_00015","coin shine 3_00016","coin shine 3_00017"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gameAnimations.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:572b7c7b5a0d0654057aef0b5cbf79f9:020e59efbf6f8199a3b94f5a96fa3f91:a0cd2d0301198087030e96ef3af20ac8$"
+}
+}

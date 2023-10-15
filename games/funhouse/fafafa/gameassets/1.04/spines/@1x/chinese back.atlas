@@ -1,0 +1,66 @@
+
+chinese back.png
+size: 2497,1602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bac_imp_1
+  rotate: true
+  xy: 2, 968
+  size: 632, 1778
+  orig: 924, 2205
+  offset: 153, 227
+  index: -1
+Bac_imp_2
+  rotate: true
+  xy: 2, 2
+  size: 964, 1432
+  orig: 1122, 1442
+  offset: 108, 9
+  index: -1
+Bac_imp_6
+  rotate: false
+  xy: 1782, 273
+  size: 713, 1327
+  orig: 757, 1373
+  offset: 30, 0
+  index: -1
+
+chinese back2.png
+size: 2871,1681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bac_imp_7
+  rotate: true
+  xy: 2, 2
+  size: 1677, 2867
+  orig: 1985, 3147
+  offset: 148, 6
+  index: -1
+
+chinese back4.png
+size: 2286,1788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bac_imp_3
+  rotate: true
+  xy: 2, 2
+  size: 1784, 2282
+  orig: 1939, 2485
+  offset: 65, 156
+  index: -1
+
+chinese back5.png
+size: 2887,1912
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bac_imp_8
+  rotate: true
+  xy: 2, 2
+  size: 1908, 2883
+  orig: 2376, 3094
+  offset: 370, 126
+  index: -1

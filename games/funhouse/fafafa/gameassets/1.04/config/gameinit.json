@@ -1,0 +1,12 @@
+{
+  "userId" : "User1000",
+  "currency" : "USD",
+  "gameInfo" : {
+    "betsArray" : [0.25, 0.5, 0.75, 1, 1.5, 2, 3, 5],
+    "betPos" : 4
+  },
+
+  "balance" : 10500,
+  "gameResult" : null
+}
+
